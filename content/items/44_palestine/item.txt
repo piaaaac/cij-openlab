@@ -1,0 +1,59 @@
+Title: Palestine
+
+----
+
+Itemtype: project
+
+----
+
+Byline: Joe Sacco
+
+----
+
+Img:
+
+- blank.png
+
+----
+
+Year: 
+
+----
+
+Description: 
+
+----
+
+Topics: 
+
+----
+
+Geo: USA
+
+----
+
+Addedby: 
+
+----
+
+Importdata: {"id":129,"type":"publication","title":"Palestine","byline":"Joe Sacco","date":"","full-text":"","image":"","url1":"","url2":"","url3":"","topics":"","related-country":"USA","related-people-org-project":"","role":"","added by":"","imported":""}
+
+----
+
+Author: 
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 
+
+----
+
+Type: publication

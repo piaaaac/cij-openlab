@@ -1,0 +1,43 @@
+Title: Imran Peretta
+
+----
+
+Entitytype: people
+
+----
+
+Byline: Artist
+
+----
+
+Img:
+
+- imran_perretta.jpg
+
+----
+
+Description: Imran Perretta lives and works in London, UK. Recent solo and group exhibitions include: the destructors, Spike Island, Bristol; All His Ghosts Must Do My Bidding, Wysing Arts Centre, Cambridge (both 2019); 15 Days, Jerwood Space, London, as a recipient of the Jerwood/FVU Awards 2018; Mene Mene Tekel Parsin, Wysing Arts Centre, Cambridge (2017); and it wasn’t a crash, in the usual sense, Arcadia Missa, London (2016). Perretta was selected for Bloomberg New Contemporaries (2014-15) and is nominated for the 2019 Film London Jarman Award.
+
+----
+
+Topics: 
+
+----
+
+Geo: UK
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":98,"type":"people","title":"Imran Peretta","byline":"Artist","date":"","full-text":"Imran Perretta lives and works in London, UK. Recent solo and group exhibitions include: the destructors, Spike Island, Bristol; All His Ghosts Must Do My Bidding, Wysing Arts Centre, Cambridge (both 2019); 15 Days, Jerwood Space, London, as a recipient of the Jerwood\/FVU Awards 2018; Mene Mene Tekel Parsin, Wysing Arts Centre, Cambridge (2017); and it wasn\u2019t a crash, in the usual sense, Arcadia Missa, London (2016). Perretta was selected for Bloomberg New Contemporaries (2014-15) and is nominated for the 2019 Film London Jarman Award.","image":"https:\/\/www.theartnewspaper.com\/interview\/the-gallery-is-not-a-space-for-me-imran-perretta-discusses-state-surveillance-and-problematic-space","url1":"http:\/\/www.imranperretta.com\/","url2":"https:\/\/www.somersethouse.org.uk\/residents\/imran-perretta","url3":"https:\/\/www.theartnewspaper.com\/interview\/the-gallery-is-not-a-space-for-me-imran-perretta-discusses-state-surveillance-and-problematic-space","topics":"","related-country":"UK","related-people-org-project":115,"role":"","added by":"CIJ","imported":""}
+
+----
+
+Relatedentities: 
+
+----
+
+Type: people

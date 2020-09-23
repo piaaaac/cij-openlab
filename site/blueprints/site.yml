@@ -1,3 +1,86 @@
-title: Site
-preset: pages
-unlisted: true
+# title: Site
+# preset: pages
+# unlisted: true
+
+
+title: Dashboard
+
+tabs:
+
+  database:
+    label: Database
+    columns:
+
+      - width: 1/2
+        sections:
+
+          titleCol1:
+            type: fields
+            fields:
+              title1:
+                label: Items
+                type: headline
+
+          draftItems:
+            headline: Drafts
+            type: pages
+            status: draft
+            parent: site.find('items')
+            templates: item
+
+          unlistedItems:
+            headline: In review
+            type: pages
+            status: unlisted
+            parent: site.find('items')
+            templates: item
+
+          listedItems:
+            headline: Published
+            type: pages
+            status: listed
+            parent: site.find('items')
+            templates: item
+
+      - width: 1/2
+        sections:
+
+          titleCol2:
+            type: fields
+            fields:
+              title2:
+                label: People/Organizations
+                type: headline
+
+          draftEntities:
+            headline: Drafts
+            type: pages
+            status: draft
+            parent: site.find('entities')
+            templates: entity
+
+          unlistedEntities:
+            headline: In review
+            type: pages
+            status: unlisted
+            parent: site.find('entities')
+            templates: entity
+
+          listedEntities:
+            headline: Published
+            type: pages
+            status: listed
+            parent: site.find('entities')
+            templates: entity
+
+  otherPages:
+    label: Other pages
+    sections:
+
+      sitePages:
+        type: pages
+        headline: Site pages
+        type: pages
+        # status: draft
+
+

@@ -1,0 +1,21 @@
+title: Items
+
+sections:
+
+  draftItems:
+    headline: Drafts
+    type: pages
+    status: draft
+    templates: item
+
+  unlistedItems:
+    headline: In review
+    type: pages
+    status: unlisted
+    templates: item
+
+  listedItems:
+    headline: Published
+    type: pages
+    status: listed
+    templates: item

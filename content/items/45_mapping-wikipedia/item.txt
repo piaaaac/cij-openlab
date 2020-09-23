@@ -1,0 +1,59 @@
+Title: Mapping Wikipedia
+
+----
+
+Itemtype: project
+
+----
+
+Byline: Michael Mandiberg For The Atlantic
+
+----
+
+Img:
+
+- mapping-wiki.png
+
+----
+
+Year: 2020
+
+----
+
+Description: In Mapping Wikipedia, Michael discovered a data set that offered an entry point into the geography of Wikipedia’s contributors. By parsing 884 million edits to English Wikipedia, they were able to collect and geolocate 43 million IP addresses, determining some troubling patterns: high edits in swing states; low edits in religious counties in the Plains; low edits in Black rural South and Native American reservations.
+
+----
+
+Topics: 
+
+----
+
+Geo: USA
+
+----
+
+Addedby: EYEBEAM
+
+----
+
+Importdata: {"id":86,"type":"project","title":"Mapping Wikipedia","byline":"Michael Mandiberg For The Atlantic","date":"2020","full-text":"In Mapping Wikipedia, Michael discovered a data set that offered an entry point into the geography of Wikipedia\u2019s contributors. By parsing 884 million edits to English Wikipedia, they were able to collect and geolocate 43 million IP addresses, determining some troubling patterns: high edits in swing states; low edits in religious counties in the Plains; low edits in Black rural South and Native American reservations.","image":"https:\/\/www.eyebeam.org\/eyebeam-center-for-the-future-of-journalism\/","url1":"https:\/\/www.eyebeam.org\/eyebeam-center-for-the-future-of-journalism\/","url2":"https:\/\/www.theatlantic.com\/technology\/archive\/2020\/02\/where-wikipedias-editors-are-where-they-arent-and-why\/605023\/","url3":"","topics":"","related-country":"USA","related-people-org-project":"45, 49","role":"","added by":"EYEBEAM","imported":""}
+
+----
+
+Author: 
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 
+
+----
+
+Type: project

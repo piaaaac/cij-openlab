@@ -1,0 +1,61 @@
+Title: Incoming
+
+----
+
+Itemtype: project
+
+----
+
+Byline: Richard Mosse
+
+----
+
+Img:
+
+- blank.png
+
+----
+
+Year: 2017
+
+----
+
+Description: Incoming charts mass migration and human displacement unfolding across Europe, the Middle East and North Africa. War, persecution, climate change, and other factors have contributed to the largest migration of people since WWII.
+
+----
+
+Topics: migration, refugees, machine vision, photography
+
+----
+
+Geo: Turkey, Libya, Italy, Greece
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":85,"type":"project","title":"Incoming","byline":"Richard Mosse","date":"2017","full-text":"Incoming charts mass migration and human displacement unfolding across Europe, the Middle East and North Africa. War, persecution, climate change, and other factors have contributed to the largest migration of people since WWII.","image":"http:\/\/www.richardmosse.com\/projects\/incoming#home","url1":"http:\/\/www.richardmosse.com\/projects\/incoming#home","url2":"","url3":"","topics":"migration, refugees, machine vision, photography","related-country":"Turkey, Libya, Italy, Greece","related-people-org-project":75,"role":"","added by":"CIJ","imported":""}
+
+----
+
+Author:
+
+- entities/richard-mosse
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 
+
+----
+
+Type: project

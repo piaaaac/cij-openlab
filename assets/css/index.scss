@@ -1,0 +1,292 @@
+@charset "UTF-8";
+
+// ------------------------------------------------------------------------
+// Variables
+// ------------------------------------------------------------------------
+
+$red: #E24C00;
+$bg1: #DFE9E5;
+$bg2: #829B90;
+$header-h: 40px;
+$z3h: 120px;
+$z3m: 20px;
+$z4m: 20px;
+$metaSidesW: 15vw;
+
+// ------------------------------------------------------------------------
+// External files import
+// ------------------------------------------------------------------------
+
+@import 'bootstrap-scss/_functions';
+@import 'bootstrap-scss/_variables';
+@import 'bootstrap-scss/mixins/_breakpoints';
+@import '_reset';
+@import '_typography';
+@import '_mixins';
+
+
+// ------------------------------------------------------------------------
+// General tags & classes
+// ------------------------------------------------------------------------
+
+* {
+  font-family: MonumentGrotesk, serif;
+  color: black;
+}
+a {
+	cursor: pointer;
+}
+
+// ------------------------------------------------------------------------
+// Utilities
+// ------------------------------------------------------------------------
+
+.color-white  { color: white; }
+.color-grey   { color: #ABABAB; }
+.color-red    { color: $red; }
+.upper        { text-transform: uppercase; }
+
+
+// ------------------------------------------------------------------------
+// Header
+// ------------------------------------------------------------------------
+
+nav#header {
+	background-color: black;
+	position: fixed;
+  z-index: 10;
+	top: 0; left: 0; right: 0;
+	height: $header-h;
+	display: flex;
+  align-items: center;
+  justify-content: space-between;
+	padding: 0 20px;
+  img.logo { margin-right: 15px; }
+	a {
+		color: white;
+    & + a {
+      margin-left: 15px;
+    }
+	}
+}
+
+// ------------------------------------------------------------------------
+// Database view
+// ------------------------------------------------------------------------
+
+body {
+  @include transition(background-color 400ms);
+  background-color: $bg1;
+  &.zoom-3, &.zoom-4 {
+    background-color: $bg2;
+  }
+  &.zoom-1, &.zoom-2, &.zoom-3 {
+    .meta-left, .meta-right {
+      display: none;
+    }
+  }
+}
+
+.entries {
+	padding-top: $header-h + 10;
+
+  .font-zoom {
+    font-size: inherit;
+  }
+
+	@at-root body.zoom-1 & {
+		// .entry .zoom-1-2 .byline { display: none; }
+    .entry .zoom-1-2 .image { display: none; }
+	}
+  @at-root body.zoom-1 &, body.zoom-2 & {
+    padding-left: 20px;
+    padding-right: 20px;
+    
+    // .entry .zoom-1-2 { padding: 3px 10px; }
+    .entry { padding: 3px 4px; }
+
+    .entry .zoom-3-4 { display: none; }
+  }
+	@at-root body.zoom-3 & {
+		padding-top: $header-h + $z3m;
+		padding-left: $z3m;
+		.entry {
+			margin: 0 $z3m $z3m 0;
+			.zoom-1-2 { display: none; }
+			.zoom-3-4 { 
+				height: $z3h;
+				display: flex;
+				.image {
+					width: $z3h;
+				}
+				.texts {
+					display: flex;
+          flex-flow: column;
+          justify-content: center;
+          max-width: 300px;
+					padding: 0 15px;
+          .byline, .title { @include font-xs; }
+				}
+			}
+      &[data-template='entity'] .zoom-3-4 .image { 
+        background-size: contain; 
+        border-radius: $z3h/2 - 10px;
+        margin: 10px 0 10px 10px;
+        width: $z3h - 20px !important;
+      }
+		}
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+		align-items: flex-start;
+		align-content: flex-start;
+	}
+	@at-root body.zoom-4 & {
+    padding-top: $header-h + $z4m;
+    padding-bottom: $z4m;
+    padding-left: $metaSidesW;
+    padding-right: $metaSidesW;
+		.entry {
+      margin: 0 $z4m/2 $z4m $z4m/2;
+      .zoom-1-2 { display: none; }
+		  .zoom-3-4 { 
+        width: 30vw; 
+        .image {
+          width: 100%;
+          padding-top: 56.25%;
+        }
+        .texts {
+          padding: 20px;
+          .byline { @include font-xs; }
+          .title { @include font-m; }
+        }
+      }
+    }
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+		align-items: stretch;
+		align-content: center;
+	}
+}
+
+.entry {
+	display: inline;
+	cursor: pointer;
+	@include transition(background-color 100ms);
+
+	&.active {
+		background-color: $red;
+	}
+  
+  &.redacted {
+    text-decoration: line-through;
+  }
+  
+  &.hide {
+    display: none;
+  }
+
+	.zoom-1-2 {
+    .byline { 
+      text-transform: uppercase;
+    }
+		.image {
+      width: 1em;
+      height: 1em;
+      display: inline-block;
+      position: relative;
+      top: .15em;
+	    background-size: cover;
+  		background-position: center center;
+		}
+	}
+  &[data-template='entity'] .zoom-1-2 .image { 
+    background-size: contain; 
+    border-radius: .5em;
+    // margin: 10px 0 10px 10px;
+    // width: $z3h - 20px !important;
+  }
+
+  .zoom-3-4 {
+    background-color: white;
+    .image {
+      background-size: cover;
+      background-position: center center;
+    }
+  }
+}
+
+.meta-left, .meta-right {
+  position: fixed;
+  padding: 50px 20px 20px 20px;
+  top: 0; bottom: 0;
+  width: $metaSidesW;
+  .meta-link {
+    &:hover, &.active, &.selected {
+      background-color: $red;
+    }
+  }
+  overflow-y: scroll;
+  a { @include font-xs; }
+}
+.meta-left { left: 0; } 
+.meta-right { right: 0; text-align: right; }
+
+
+// ------------------------------------------------------------------------
+// ITEM DETAIL
+// ------------------------------------------------------------------------
+
+#overlay {
+  opacity: 0;
+  pointer-events: none;
+  z-index: 9;
+  position: fixed;
+  top: 0; bottom: 0; left: 0; right: 0;
+  background-color: rgba($bg2, 0.7);
+  padding: 20px;
+  padding-top: $header-h + 20px;
+  overflow-y: scroll;
+  text-align: center;
+  @include transition(opacity 400ms);
+  &.show {
+    opacity: 1;
+    pointer-events: all;
+  }
+  #detail-content {
+    text-align: left;
+    background-color: white;
+    display: inline-block;
+    position: relative;
+    padding: 20px 0;
+    // min-height: 400vh;
+    width: 80vw;
+    max-width: 800px;
+    min-width: 300px;
+    // @include media-breakpoint-down(sm) {
+    //   max-width: 300px;
+    // }
+    .image {
+      padding-top: 54.25%;
+      background-size: cover;
+      background-position: center center;
+    }
+  }
+}
+
+// ------------------------------------------------------------------------
+// BOOTSTRAP BREAKPOINTS
+// ------------------------------------------------------------------------
+
+// xs ---                 Portrait phones
+// sm ---  576px and up   Small devices (landscape phones)
+// md ---  768px and up   Medium devices (tablets)
+// lg ---  992px and up   Large devices (desktops)
+// xl --- 1200px and up   Extra large devices (large desktops)
+
+// No media query necessary for xs breakpoint as it's effectively `@media (min-width: 0) { ... }`
+// @include media-breakpoint-up(sm) { ... }
+// @include media-breakpoint-only(md) { ... }
+// @include media-breakpoint-between(md, xl) { ... }
+// @include media-breakpoint-down(lg) { ... }

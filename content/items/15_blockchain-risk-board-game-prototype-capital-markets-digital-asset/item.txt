@@ -1,0 +1,61 @@
+Title: Blockchain Risk Board Game Prototype: Capital Markets Digital Asset
+
+----
+
+Itemtype: project
+
+----
+
+Byline: Simon Denny
+
+----
+
+Img:
+
+- blockchain-risk-board-game.jpg
+
+----
+
+Year: 2016
+
+----
+
+Description: Simon Denny is a Berlin based artist whose practice challenges numerous themes entrenched in modern society’s globalized culture. Recent solo exhibitions include NAK Neuer Aachener Kunstverein (Aachen), Hammer Museum (Los Angeles), Halle für Kunst (Lüneburg), Westfälischer Kunstverein (Münster), MoMA PS1 (New York) and the Contemporary Art Museum (St. Louis). He was the 2012 winner of Art Basel’s annual Baloise Art Prize and is represented by Galerie Buchholz, Petzel Gallery, Michael Lett Gallery and T293 Gallery.
+
+----
+
+Topics: blockchain, capital, risk, game
+
+----
+
+Geo: Nz
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":7,"type":"project","title":"Blockchain Risk Board Game Prototype: Capital Markets Digital Asset","byline":"Simon Denny","date":"2016","full-text":"Simon Denny is a Berlin based artist whose practice challenges numerous themes entrenched in modern society\u2019s globalized culture. Recent solo exhibitions include NAK Neuer Aachener Kunstverein (Aachen), Hammer Museum (Los Angeles), Halle fu\u0308r Kunst (Lu\u0308neburg), Westfa\u0308lischer Kunstverein (Mu\u0308nster), MoMA PS1 (New York) and the Contemporary Art Museum (St. Louis). He was the 2012 winner of Art Basel\u2019s annual Baloise Art Prize and is represented by Galerie Buchholz, Petzel Gallery, Michael Lett Gallery and T293 Gallery.","image":"https:\/\/www.zerodeux.fr\/en\/interviews-en\/simon-denny-2\/","url1":"https:\/\/www.zerodeux.fr\/en\/interviews-en\/simon-denny-2\/","url2":"","url3":"","topics":"blockchain, capital, risk, game","related-country":"Nz","related-people-org-project":70,"role":"","added by":"CIJ","imported":""}
+
+----
+
+Author:
+
+- entities/simon-denny
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 
+
+----
+
+Type: project

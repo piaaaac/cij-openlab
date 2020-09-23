@@ -1,0 +1,59 @@
+Title: ‘They Will Remember Us’: The Miners Of Black Harlan
+
+----
+
+Itemtype: project
+
+----
+
+Byline: Radcliffe Roye For The New York Review Of Books
+
+----
+
+Img:
+
+- blank.png
+
+----
+
+Year: 2019
+
+----
+
+Description: In April 2019, Radcliffe (Ruddy) Roye traveled to Lynch, Kentucky, to photograph black miners in a town that once boasted the largest coal camp in the world. He found a community of fewer than 700 people, without industry, left behind and largely forgotten in national conversations about coal country that presume a white face.
+
+----
+
+Topics: 
+
+----
+
+Geo: USA
+
+----
+
+Addedby: EYEBEAM
+
+----
+
+Importdata: {"id":90,"type":"project","title":"\u2018they Will Remember USA\u2019: The Miners Of Black Harlan","byline":"Radcliffe Roye For The New York Review Of Books","date":"2019","full-text":"In April 2019, Radcliffe (Ruddy) Roye traveled to Lynch, Kentucky, to photograph black miners in a town that once boasted the largest coal camp in the world. He found a community of fewer than 700 people, without industry, left behind and largely forgotten in national conversations about coal country that presume a white face.","image":"https:\/\/www.eyebeam.org\/eyebeam-center-for-the-future-of-journalism\/","url1":"https:\/\/www.eyebeam.org\/eyebeam-center-for-the-future-of-journalism\/","url2":"https:\/\/www.nybooks.com\/daily\/2019\/05\/03\/they-will-remember-us-the-miners-of-black-harlan\/","url3":"","topics":"","related-country":"USA","related-people-org-project":"45, 49","role":"","added by":"EYEBEAM","imported":""}
+
+----
+
+Author: 
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 
+
+----
+
+Type: project

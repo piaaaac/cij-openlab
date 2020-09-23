@@ -1,0 +1,55 @@
+Title: Wormwood
+
+----
+
+Itemtype: video
+
+----
+
+Byline: Errol Morris, Netflix
+
+----
+
+Img:
+
+- wormwood_-miniserie_tv.jpg
+
+----
+
+Year: 2017
+
+----
+
+Description: Oscar-winning filmmaker Errol Morris examines the 1953 death of scientist and CIA employee Frank Olson in this docudrama. Olson fell from the window of his New York City hotel room and the death was originally ruled a suicide, but a 1975 report tied his death to a top-secret experiment. The series follows Olson's son, Eric, on his decades-long quest to identify the mysterious circumstances surrounding his father's death and figure out exactly what happened. As part of the search for information, Eric checks into the hotel room in which his father was staying on that fateful day and a forensics expert exhumes Frank's body to find new clues.
+
+----
+
+Topics: mk ultra, assasination, CIA, US government
+
+----
+
+Geo: USA
+
+----
+
+Addedby:
+
+- wBvyX8MO
+
+----
+
+Author:
+
+- entities/errol-morris
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 

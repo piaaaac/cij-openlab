@@ -1,0 +1,59 @@
+Title: Serial
+
+----
+
+Itemtype: project
+
+----
+
+Byline: Sarah Koenig, This American Life
+
+----
+
+Img:
+
+- blank.png
+
+----
+
+Year: 2014
+
+----
+
+Description: Serial is an investigative journalism podcast hosted by Sarah Koenig, narrating a nonfiction story over multiple episodes. The series was co-created and is co-produced by Koenig and Julie Snyder and developed by This American Life; as of July 2020 it is owned by the New York Times.
+
+----
+
+Topics: investigative journalism, podcast, true crime
+
+----
+
+Geo: USA
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":29,"type":"podcast","title":"Serial","byline":"Sarah Koenig, This American Life","date":"2014","full-text":"Serial is an investigative journalism podcast hosted by Sarah Koenig, narrating a nonfiction story over multiple episodes. The series was co-created and is co-produced by Koenig and Julie Snyder and developed by This American Life; as of July 2020 it is owned by the New York Times.","image":"https:\/\/serialpodcast.org\/","url1":"https:\/\/serialpodcast.org\/","url2":"","url3":"","topics":"investigative journalism, podcast, true crime","related-country":"USA","related-people-org-project":"","role":"","added by":"CIJ","imported":""}
+
+----
+
+Author: 
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 
+
+----
+
+Type: podcast

@@ -1,0 +1,43 @@
+Title: The Bureau Of Investigative Journalism
+
+----
+
+Entitytype: people
+
+----
+
+Byline: Not For Profit
+
+----
+
+Img:
+
+- tbij-logo-homepage.svg
+
+----
+
+Description: The Bureau of Investigative Journalism is a nonprofit news organisation based in London. It was founded in 2010 to pursue "public interest" investigations, funded through philanthropy. The Bureau works with publishers and broadcasters to maximise the impact of its investigations.
+
+----
+
+Topics: investigative journalism, publisher
+
+----
+
+Geo: UK
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":77,"type":"organization","title":"The Bureau Of Investigative Journalism","byline":"Not For Profit","date":"","full-text":"The Bureau of Investigative Journalism is a nonprofit news organisation based in London. It was founded in 2010 to pursue \"public interest\" investigations, funded through philanthropy. The Bureau works with publishers and broadcasters to maximise the impact of its investigations.","image":"https:\/\/www.thebureauinvestigates.com\/","url1":"https:\/\/www.thebureauinvestigates.com\/","url2":"","url3":"","topics":"investigative journalism, publisher","related-country":"UK","related-people-org-project":"31, 60","role":"","added by":"CIJ","imported":""}
+
+----
+
+Relatedentities: 
+
+----
+
+Type: organization

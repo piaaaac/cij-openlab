@@ -1,0 +1,43 @@
+Title: Mairav Zonszein
+
+----
+
+Entitytype: people
+
+----
+
+Byline: Journalist
+
+----
+
+Img:
+
+- mairav-zonszein.jpg
+
+----
+
+Description: Mairav Zonszein is a journalist who covers politics in Israel, Palestine and the U.S.
+
+----
+
+Topics: investigative journalism
+
+----
+
+Geo: USA, Israel, Palestine
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":73,"type":"people","title":"Mairav Zonszein","byline":"Journalist","date":"","full-text":"Mairav Zonszein is a journalist who covers politics in Israel, Palestine and the U.S.","image":"https:\/\/mairavz.com\/","url1":"https:\/\/mairavz.com\/","url2":"https:\/\/twitter.com\/MairavZ","url3":"","topics":"investigative journalism","related-country":"USA, Israel, Palestine","related-people-org-project":6,"role":"","added by":"CIJ","imported":""}
+
+----
+
+Relatedentities: 
+
+----
+
+Type: people

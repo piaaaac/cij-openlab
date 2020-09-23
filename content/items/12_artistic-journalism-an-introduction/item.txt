@@ -1,0 +1,61 @@
+Title: Artistic Journalism: An Introduction
+
+----
+
+Itemtype: project
+
+----
+
+Byline: Aced
+
+----
+
+Img:
+
+- artistic-journalism-intro.jpg
+
+----
+
+Year: 2019
+
+----
+
+Description: Artistic Journalism is a new initiative that presents the work of a new generation of globally operating engaged artists and designers. The focus is on projects in which relevant social issues are investigated by combining journalistic analysis and artistic presentation. An unique and quirky approach that enriches both journalism and the artistic sector. This interdisciplinary approach, which is characterized by a challenging way of questioning, researching and presenting, is indicated in various ways. Following Stijn Postema, who studies the phenomenon at the University of Amsterdam, we have chosen the term 'Artistic Journalism'.
+
+----
+
+Topics: art, journalism, research
+
+----
+
+Geo: Nl
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":57,"type":"project","title":"Artistic Journalism: An Introduction","byline":"Aced","date":"2019","full-text":"Artistic Journalism is a new initiative that presents the work of a new generation of globally operating engaged artists and designers. The focus is on projects in which relevant social issues are investigated by combining journalistic analysis and artistic presentation. An unique and quirky approach that enriches both journalism and the artistic sector. This interdisciplinary approach, which is characterized by a challenging way of questioning, researching and presenting, is indicated in various ways. Following Stijn Postema, who studies the phenomenon at the University of Amsterdam, we have chosen the term 'Artistic Journalism'.","image":"https:\/\/www.aced.site\/","url1":"https:\/\/www.aced.site\/","url2":"https:\/\/vanabbemuseum.nl\/en\/programme\/programme\/artistic-journalism\/","url3":"","topics":"art, journalism, research","related-country":"Nl","related-people-org-project":"58, 54","role":"","added by":"CIJ","imported":""}
+
+----
+
+Author:
+
+- entities/aecd
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 
+
+----
+
+Type: project

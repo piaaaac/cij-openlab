@@ -1,0 +1,59 @@
+Title: Art In The Age Of…asymmetrical Warfare
+
+----
+
+Itemtype: project
+
+----
+
+Byline: Adam Klienman
+
+----
+
+Img:
+
+- art-in-the-age-of.jpg
+
+----
+
+Year: 2015
+
+----
+
+Description: 
+
+----
+
+Topics: 
+
+----
+
+Geo: Nl
+
+----
+
+Addedby: 
+
+----
+
+Importdata: {"id":130,"type":"exhibition","title":"Art In The Age Of\u2026asymmetrical Warfare","byline":"Adam Klienman","date":"2015","full-text":"","image":"https:\/\/www.fkawdw.nl\/en\/our_program\/exhibitions\/art_in_the_age_of_asymmetrical_warfare","url1":"https:\/\/www.fkawdw.nl\/en\/our_program\/exhibitions\/art_in_the_age_of_asymmetrical_warfare","url2":"","url3":"","topics":"","related-country":"Nl","related-people-org-project":"","role":"","added by":"","imported":""}
+
+----
+
+Author: 
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 
+
+----
+
+Type: exhibition

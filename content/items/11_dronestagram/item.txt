@@ -1,0 +1,61 @@
+Title: Dronestagram
+
+----
+
+Itemtype: project
+
+----
+
+Byline: James Bridle
+
+----
+
+Img:
+
+- dronestagram.jpg
+
+----
+
+Year: 2012-2015
+
+----
+
+Description: Dronestagram was a three-year project, posting images of the landscapes of drone strikes to social media, on Instagram, Twitter, and Tumblr.
+
+----
+
+Topics: drones, social media, war on terror
+
+----
+
+Geo: UK, Pakistan, Yemen, Somaila, Afghanistan
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":108,"type":"project","title":"Dronestagram","byline":"James Bridle","date":"2012-2015","full-text":"Dronestagram was a three-year project, posting images of the landscapes of drone strikes to social media, on Instagram, Twitter, and Tumblr.","image":"https:\/\/www.instagram.com\/dronestagram\/?hl=en","url1":"https:\/\/jamesbridle.com\/works\/dronestagram","url2":"https:\/\/www.instagram.com\/dronestagram\/?hl=en","url3":"","topics":"drones, social media, war on terror","related-country":"UK, Pakistan, Yemen, Somaila, Afghanistan","related-people-org-project":93,"role":"","added by":"CIJ","imported":""}
+
+----
+
+Author:
+
+- entities/james-bridle
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 
+
+----
+
+Type: project

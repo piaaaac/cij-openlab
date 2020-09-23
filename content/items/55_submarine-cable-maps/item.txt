@@ -1,0 +1,61 @@
+Title: Submarine Cable Maps
+
+----
+
+Itemtype: project
+
+----
+
+Byline: Ingrid Burrington
+
+----
+
+Img:
+
+- blank.png
+
+----
+
+Year: 2014
+
+----
+
+Description: Documents published on November 25, 2014 by Süddeutsche Zeitung revealed more specific details about submarine cables currently tapped by GCHQ. Previous reporting had made it clear that GCHQ had submarine cable taps created in collusion with companies like Vodafone and BT Cable, but not which specific cables.Seeing as Telegeography publishes landing point maps and submarine cable maps, it seemed like a worthwhile exercise to better understand what, exactly, the reach of GCHQ’s submarine cable tapping might look like.You can look at the actual interactive maphere.A variation of this map was adapted for a story by Ryan Gallagher at The Intercept.
+
+----
+
+Topics: the internet, cables, surveillance, gchq
+
+----
+
+Geo: USA, UK
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":117,"type":"project","title":"Submarine Cable Maps","byline":"Ingrid Burrington","date":"2014","full-text":"Documents published on November 25, 2014 by S\u00fcddeutsche Zeitung revealed more specific details about submarine cables currently tapped by GCHQ. Previous reporting had made it clear that GCHQ had submarine cable taps created in collusion with companies like Vodafone and BT Cable, but not which specific cables.Seeing as Telegeography publishes landing point maps and submarine cable maps, it seemed like a worthwhile exercise to better understand what, exactly, the reach of GCHQ\u2019s submarine cable tapping might look like.You can look at the actual interactive maphere.A variation of this map was adapted for a story by Ryan Gallagher at The Intercept.","image":"http:\/\/lifewinning.com\/projects\/submarine-cable-taps\/","url1":"http:\/\/lifewinning.com\/projects\/submarine-cable-taps\/","url2":"","url3":"","topics":"the internet, cables, surveillance, gchq","related-country":"USA, UK","related-people-org-project":"78, 103","role":"","added by":"CIJ","imported":""}
+
+----
+
+Author:
+
+- entities/ingrid-burrington
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 
+
+----
+
+Type: project

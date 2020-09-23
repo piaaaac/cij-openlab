@@ -1,0 +1,61 @@
+Title: Rojava 2
+
+----
+
+Itemtype: project
+
+----
+
+Byline: Joseph Steele
+
+----
+
+Img:
+
+- blank.png
+
+----
+
+Year: 2018
+
+----
+
+Description: In April 2016 Joseph Steele was invited as an artist in residence to travel through Rojava, Northern Syria, as a guest of the Partiya Yekîtiya Demokrat (PYD), the region’s governing party. Two years later Rojava 2 straddles the fields of investigative journalism, art and explorer, attesting to the region’s complex narratives as well as his (and corresponding our) personal relationship to it in a post-colonial era.
+
+----
+
+Topics: syria, rojava, film
+
+----
+
+Geo: Syria
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":11,"type":"video","title":"Rojava 2","byline":"Joseph Steele","date":"2018","full-text":"In April 2016 Joseph Steele was invited as an artist in residence to travel through Rojava, Northern Syria, as a guest of the Partiya Yeki\u0302tiya Demokrat (PYD), the region\u2019s governing party. Two years later Rojava 2 straddles the fields of investigative journalism, art and explorer, attesting to the region\u2019s complex narratives as well as his (and corresponding our) personal relationship to it in a post-colonial era.","image":"https:\/\/vimeo.com\/296521387","url1":"https:\/\/vimeo.com\/296521387","url2":"","url3":"","topics":"syria, rojava, film","related-country":"Syria","related-people-org-project":65,"role":"","added by":"CIJ","imported":""}
+
+----
+
+Author:
+
+- entities/joseph-steele
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 
+
+----
+
+Type: video

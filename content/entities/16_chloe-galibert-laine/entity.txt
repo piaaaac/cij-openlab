@@ -1,0 +1,43 @@
+Title: Chloé Galibert-laîné
+
+----
+
+Entitytype: people
+
+----
+
+Byline: Filmmaker, Researcher
+
+----
+
+Img:
+
+- chloe-galibert-laine.jpg
+
+----
+
+Description: Chloé Galibert-Laîné is a French researcher and filmmaker. She is currently preparing a research-creation PhD at the Ecole normale supérieure de Paris (SACRe – PSL University), and regularly teaches theory classes and artistic workshops about film and media, recently at the Université Paris 8 (FR), the Royal Academy of Art in The Hague (NL), the Johannes Gutenberg University in Mainz (DE), the Lucerne School of Art and Design (CH) and the Merz Akademie in Stuttgart (DE). Her work takes different forms (texts, films, video installations and live performances) and explores the intersections between cinema and online media. She is particularly interested in questions related to modes of spectatorship, gestures of appropriation and mediated memory.
+
+----
+
+Topics: 
+
+----
+
+Geo: 
+
+----
+
+Addedby: 
+
+----
+
+Importdata: {"id":132,"type":"people","title":"Chlo\u00e9 Galibert-la\u00een\u00e9","byline":"Filmmaker, Researcher","date":"","full-text":"Chlo\u00e9 Galibert-La\u00een\u00e9 is a French researcher and filmmaker. She is currently preparing a research-creation PhD at the Ecole normale sup\u00e9rieure de Paris (SACRe \u2013 PSL University), and regularly teaches theory classes and artistic workshops about film and media, recently at the Universit\u00e9 Paris 8 (FR), the Royal Academy of Art in The Hague (NL), the Johannes Gutenberg University in Mainz (DE), the Lucerne School of Art and Design (CH) and the Merz Akademie in Stuttgart (DE). Her work takes different forms (texts, films, video installations and live performances) and explores the intersections between cinema and online media. She is particularly interested in questions related to modes of spectatorship, gestures of appropriation and mediated memory.","image":"","url1":"","url2":"","url3":"","topics":"","related-country":"","related-people-org-project":"133, 38","role":"","added by":"","imported":""}
+
+----
+
+Relatedentities: 
+
+----
+
+Type: people

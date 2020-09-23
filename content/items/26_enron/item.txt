@@ -1,0 +1,61 @@
+Title: Enron
+
+----
+
+Itemtype: project
+
+----
+
+Byline: Lucy Prebble
+
+----
+
+Img:
+
+- bitmap.png
+
+----
+
+Year: 2009
+
+----
+
+Description: Enron is a 2009 play by the British playwright Lucy Prebble, based on the Enron scandal.
+
+----
+
+Topics: enron, finance, theatre
+
+----
+
+Geo: UK
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":54,"type":"project","title":"Enron","byline":"Lucy Prebble","date":"2009","full-text":"Enron is a 2009 play by the British playwright Lucy Prebble, based on the Enron scandal.","image":"https:\/\/www.google.com\/search?q=lucy+prebble+enron&rlz=1C5CHFA_enGB722GB722&sxsrf=ALeKk011j_-6LykmP8AGaEsQgxTmlRdgDQ:1599133235730&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiy9trD88zrAhVQRhUIHflXD_QQ_AUoAXoECB4QAw&biw=1847&bih=806","url1":"https:\/\/www.nytimes.com\/2010\/02\/21\/theater\/21prebble.html","url2":"https:\/\/www.telegraph.co.uk\/culture\/theatre\/theatre-features\/6905597\/Lucy-Prebble-interview-for-Enron.html","url3":"","topics":"enron, finance, theatre","related-country":"UK","related-people-org-project":"55, 59","role":"","added by":"CIJ","imported":""}
+
+----
+
+Author:
+
+- entities/lucy-prebble
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 
+
+----
+
+Type: project

@@ -1,0 +1,43 @@
+Title: Black Audio Film Collective
+
+----
+
+Entitytype: people
+
+----
+
+Byline: Collective
+
+----
+
+Img:
+
+- blackaudiofilmcollective_fall1989.jpg
+
+----
+
+Description: The Black Audio Film Collective is a pioneering arts initiative founded in 1982 whose ground-breaking experimental works engaged with black popular and political culture in Britain and the black / Asian Diasporas
+
+----
+
+Topics: 
+
+----
+
+Geo: UK
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":95,"type":"organization","title":"Black Audio Film Collective","byline":"Collective","date":"1982","full-text":"The Black Audio Film Collective is a pioneering arts initiative founded in 1982 whose ground-breaking experimental works engaged with black popular and political culture in Britain and the black \/ Asian Diasporas","image":"https:\/\/www.tate.org.uk\/art\/art-terms\/b\/black-audio-film-collective","url1":"","url2":"","url3":"","topics":"","related-country":"UK","related-people-org-project":118,"role":"","added by":"CIJ","imported":""}
+
+----
+
+Relatedentities: 
+
+----
+
+Type: organization

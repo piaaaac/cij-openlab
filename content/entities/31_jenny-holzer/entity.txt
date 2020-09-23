@@ -1,0 +1,43 @@
+Title: Jenny Holzer
+
+----
+
+Entitytype: people
+
+----
+
+Byline: Artist
+
+----
+
+Img:
+
+- jenny-holzer.jpg
+
+----
+
+Description: Jenny Holzer is an American neo-conceptual artist. The main focus of her work is the delivery of words and ideas in public spaces. Holzer belongs to the feminist branch of a generation of artists that emerged around 1980, looking for new ways to make narrative or commentary an implicit part of visual objects.
+
+----
+
+Topics: 
+
+----
+
+Geo: USA
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":99,"type":"people","title":"Jenny Holzer","byline":"Artist","date":"","full-text":"Jenny Holzer is an American neo-conceptual artist. The main focus of her work is the delivery of words and ideas in public spaces. Holzer belongs to the feminist branch of a generation of artists that emerged around 1980, looking for new ways to make narrative or commentary an implicit part of visual objects.","image":"https:\/\/www.thecut.com\/2018\/10\/women-and-power-jenny-holzer.html","url1":"https:\/\/www.hauserwirth.com\/stories\/2325-battle-lines-two-new-shows-artist-jenny-holzer-proves-words-weapons","url2":"https:\/\/projects.jennyholzer.com\/","url3":"","topics":"","related-country":"USA","related-people-org-project":110,"role":"","added by":"CIJ","imported":""}
+
+----
+
+Relatedentities: 
+
+----
+
+Type: people

@@ -1,0 +1,21 @@
+title: Entities
+
+sections:
+
+  drafts:
+    headline: Drafts
+    type: pages
+    status: draft
+    templates: entity
+
+  unlisted:
+    headline: In review
+    type: pages
+    status: unlisted
+    templates: entity
+
+  listed:
+    headline: Published
+    type: pages
+    status: listed
+    templates: entity

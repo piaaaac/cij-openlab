@@ -1,0 +1,43 @@
+Title: Henrik Moltke
+
+----
+
+Entitytype: people
+
+----
+
+Byline: Journalist, Filmmaker
+
+----
+
+Img:
+
+- henrik-moltke.jpg
+
+----
+
+Description: Henrik Moltke is an investigative journalist and documentary filmmaker
+
+----
+
+Topics: tech, investigative journalism
+
+----
+
+Geo: Denmark
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":68,"type":"people","title":"Henrik Moltke","byline":"Journalist, Filmmaker","date":"","full-text":"Henrik Moltke is an investigative journalist and documentary filmmaker","image":"","url1":"https:\/\/theintercept.com\/","url2":"https:\/\/twitter.com\/moltke","url3":"","topics":"tech, investigative journalism","related-country":"Denmark","related-people-org-project":"13, 47, 78","role":"","added by":"CIJ","imported":""}
+
+----
+
+Relatedentities: 
+
+----
+
+Type: people

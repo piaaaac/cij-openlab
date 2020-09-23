@@ -1,0 +1,43 @@
+Title: Arebyte
+
+----
+
+Entitytype: people
+
+----
+
+Byline: Gallery
+
+----
+
+Img:
+
+- arebyte.png
+
+----
+
+Description: Arebyte Gallery is a London-based art organisation which supports the development of artists working across digital and emerging artforms.
+
+----
+
+Topics: art, tech, digital, gallery
+
+----
+
+Geo: UK
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":79,"type":"organization","title":"Arebyte","byline":"Gallery","date":"","full-text":"Arebyte Gallery is a London-based art organisation which supports the development of artists working across digital and emerging artforms.","image":"https:\/\/www.arebyte.com\/","url1":"https:\/\/www.arebyte.com\/","url2":"","url3":"","topics":"art, tech, digital, gallery","related-country":"UK","related-people-org-project":65,"role":"","added by":"CIJ","imported":""}
+
+----
+
+Relatedentities: 
+
+----
+
+Type: organization

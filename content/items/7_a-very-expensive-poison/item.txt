@@ -1,0 +1,61 @@
+Title: A Very Expensive Poison
+
+----
+
+Itemtype: project
+
+----
+
+Byline: Lucy Prebble
+
+----
+
+Img:
+
+- a-very.jpg
+
+----
+
+Year: 2019
+
+----
+
+Description: A shocking assassination in the heart of London. In a bizarre mix of high-stakes global politics and radioactive villainy, a man pays with his life. At this time of global crises and a looming new Cold War, A Very Expensive Poison sends us careering through the shadowy world of international espionage from Moscow to Mayfair.
+
+----
+
+Topics: russia, poision, litvinenko, theatre
+
+----
+
+Geo: UK
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":55,"type":"project","title":"A Very Expensive Poison","byline":"Lucy Prebble","date":"2019","full-text":"A shocking assassination in the heart of London. In a bizarre mix of high-stakes global politics and radioactive villainy, a man pays with his life. At this time of global crises and a looming new Cold War, A Very Expensive Poison sends us careering through the shadowy world of international espionage from Moscow to Mayfair.","image":"https:\/\/www.theguardian.com\/stage\/2019\/sep\/06\/a-very-expensive-poison-review-lucy-prebble-litvinenko","url1":"https:\/\/www.theguardian.com\/stage\/2019\/sep\/06\/a-very-expensive-poison-review-lucy-prebble-litvinenko","url2":"","url3":"","topics":"russia, poision, litvinenko, theatre","related-country":"UK","related-people-org-project":"54, 59","role":"","added by":"CIJ","imported":""}
+
+----
+
+Author:
+
+- entities/lucy-prebble
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 
+
+----
+
+Type: project

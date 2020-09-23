@@ -1,0 +1,61 @@
+Title: Scare Mail
+
+----
+
+Itemtype: project
+
+----
+
+Byline: Benjamin Grosser
+
+----
+
+Img:
+
+- scaremail-logo-85@2x.png
+
+----
+
+Year: 2013
+
+----
+
+Description: ScareMail is a web browser extension that makes email “scary” in order to disrupt NSA surveillance. Extending Google’s Gmail, the work adds to every new email’s signature an algorithmically generated narrative containing a collection of probable NSA search terms. This “story” acts as a trap for NSA programs like PRISM and XKeyscore, forcing them to look at nonsense. Each email’s story is unique in an attempt to avoid automated filtering by NSA search systems.
+
+----
+
+Topics: surveillance, email, browser, NSA
+
+----
+
+Geo: USA
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":3,"type":"project","title":"Scare Mail","byline":"Benjamin Grosser","date":"2013","full-text":"ScareMail is a web browser extension that makes email \u201cscary\u201d in order to disrupt NSA surveillance. Extending Google\u2019s Gmail, the work adds to every new email\u2019s signature an algorithmically generated narrative containing a collection of probable NSA search terms. This \u201cstory\u201d acts as a trap for NSA programs like PRISM and XKeyscore, forcing them to look at nonsense. Each email\u2019s story is unique in an attempt to avoid automated filtering by NSA search systems.","image":"https:\/\/bengrosser.com\/projects\/scaremail\/","url1":"https:\/\/bengrosser.com\/projects\/scaremail\/","url2":"","url3":"","topics":"surveillance, email, nsa, browser","related-country":"USA","related-people-org-project":67,"role":"","added by":"CIJ","imported":""}
+
+----
+
+Author:
+
+- entities/benjamin-grosser
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 
+
+----
+
+Type: project

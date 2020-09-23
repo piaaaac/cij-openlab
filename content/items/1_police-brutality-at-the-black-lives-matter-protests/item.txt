@@ -1,0 +1,58 @@
+Title: Police brutality at the black lives matter protests
+
+----
+
+Itemtype: project
+
+----
+
+Img:
+
+- 917869645_1920x1080-1.jpg
+
+----
+
+Byline: 
+
+----
+
+Year: 2020
+
+----
+
+Description:
+
+In May and June 2020, protests against police brutality swept across the US, following the killing of George Floyd in Minneapolis. Those protests were themselves met with further brutality, against protesters and journalists.
+Forensic Architecture and Bellingcat are working together to locate, record, and classify incidents of violence by police at those protests within an interactive cartographic platform.
+
+----
+
+Topics: osint, black lives matter, geolocation
+
+----
+
+Geo: USA
+
+----
+
+Addedby:
+
+- wBvyX8MO
+
+----
+
+Author:
+
+- entities/forensic-architecture
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 

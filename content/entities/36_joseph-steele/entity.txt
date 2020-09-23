@@ -1,0 +1,43 @@
+Title: Joseph Steele
+
+----
+
+Entitytype: people
+
+----
+
+Byline: Artist
+
+----
+
+Img:
+
+- josephsteele.jpg
+
+----
+
+Description: Joseph Steele is a MFA Graduate from Goldsmiths, University of London. His work has been shown at Arebyte Gallery, Bearspace, Enclave and Tenderpixel (London), and is held by the Ministry of Defence Art Collection. He has participated in Art the Arms Fair and Depford X Fes- tival.
+
+----
+
+Topics: art, graphic design
+
+----
+
+Geo: UK, Germany
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":65,"type":"people","title":"Joseph Steele","byline":"Artist","date":"","full-text":"Joseph Steele is a MFA Graduate from Goldsmiths, University of London. His work has been shown at Arebyte Gallery, Bearspace, Enclave and Tenderpixel (London), and is held by the Ministry of Defence Art Collection. He has participated in Art the Arms Fair and Depford X Fes- tival.","image":"https:\/\/vimeo.com\/296521387","url1":"https:\/\/vimeo.com\/josephsteele","url2":"","url3":"","topics":"art, graphic design","related-country":"UK, Germany","related-people-org-project":"11, 79","role":"","added by":"CIJ","imported":""}
+
+----
+
+Relatedentities: 
+
+----
+
+Type: people

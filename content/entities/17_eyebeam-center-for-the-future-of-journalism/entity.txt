@@ -1,0 +1,43 @@
+Title: Eyebeam Center For The Future Of Journalism
+
+----
+
+Entitytype: people
+
+----
+
+Byline: Marisa Katz
+
+----
+
+Img:
+
+- eyebeam-cfoj.png
+
+----
+
+Description: The Eyebeam Center for the Future of Journalism (ECFJ) is an experimental grant-making program that supports artists and artist-journalist teams producing innovative and revelatory journalistic work for major media outlets. Underwritten by Craig Newmark Philanthropies, ECFJ is the first initiative of its kind to directly facilitate artists’ major media commissions in the realm of journalism. With the belief that artists are central in the invention and design of our shared future, and also critical in shifting public debate, ECFJ supports the execution of pieces that focus on reimagining the way stories are told, particularly around technology and society. The funds distributed to grantees assist with research, travel, and other expenses many media outlets struggle to cover, allowing stories that are often out of reach in today’s climate to be produced.
+
+----
+
+Topics: art, journalism, residency
+
+----
+
+Geo: USA
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":49,"type":"organization","title":"Eyebeam Center For The Future Of Journalism","byline":"Marisa Katz","date":"","full-text":"The Eyebeam Center for the Future of Journalism (ECFJ) is an experimental grant-making program that supports artists and artist-journalist teams producing innovative and revelatory journalistic work for major media outlets. Underwritten by Craig Newmark Philanthropies, ECFJ is the first initiative of its kind to directly facilitate artists\u2019 major media commissions in the realm of journalism. With the belief that artists are central in the invention and design of our shared future, and also critical in shifting public debate, ECFJ supports the execution of pieces that focus on reimagining the way stories are told, particularly around technology and society. The funds distributed to grantees assist with research, travel, and other expenses many media outlets struggle to cover, allowing stories that are often out of reach in today\u2019s climate to be produced.","image":"https:\/\/www.eyebeam.org\/eyebeam-center-for-the-future-of-journalism\/","url1":"https:\/\/www.eyebeam.org\/eyebeam-center-for-the-future-of-journalism\/","url2":"","url3":"","topics":"art, journalism, residency","related-country":"USA","related-people-org-project":"","role":"","added by":"CIJ","imported":""}
+
+----
+
+Relatedentities: 
+
+----
+
+Type: organization

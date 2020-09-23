@@ -1,0 +1,43 @@
+Title: Nick Ryan
+
+----
+
+Entitytype: people
+
+----
+
+Byline: Artist
+
+----
+
+Img:
+
+- nick-ryan.jpg
+
+----
+
+Description: Nick Ryan is a multi award winning composer, sound designer, artist and audio specialist, widely recognised as a leading thinker on the future of sound. His extensive and diverse practice, as an audio expert, involves working with film, motion graphics, animation, TV drama and documentary, interactive media, technology innovation, instrument making and orchestral ensemble.
+
+----
+
+Topics: sound, tech, art, music
+
+----
+
+Geo: UK
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":66,"type":"people","title":"Nick Ryan","byline":"Artist","date":"","full-text":"Nick Ryan is a multi award winning composer, sound designer, artist and audio specialist, widely recognised as a leading thinker on the future of sound. His extensive and diverse practice, as an audio expert, involves working with film, motion graphics, animation, TV drama and documentary, interactive media, technology innovation, instrument making and orchestral ensemble.","image":"http:\/\/www.nickryanmusic.com\/about-1#:~:text=Nick%20Ryan%20is%20a%20multi,on%20the%20future%20of%20sound.","url1":"http:\/\/www.nickryanmusic.com\/","url2":"","url3":"","topics":"sound, tech, art, music","related-country":"UK","related-people-org-project":2,"role":"","added by":"CIJ","imported":""}
+
+----
+
+Relatedentities: 
+
+----
+
+Type: people

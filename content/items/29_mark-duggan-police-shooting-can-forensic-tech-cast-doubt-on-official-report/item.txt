@@ -1,0 +1,64 @@
+Title: Mark Duggan Police Shooting: Can Forensic Tech Cast Doubt On Official Report?
+
+----
+
+Itemtype: project
+
+----
+
+Byline: Haroon Siddique With Forensic Architecture For The Guardian
+
+----
+
+Img:
+
+- mark-duggan-police-shooting.jpg
+
+----
+
+Year: 2020
+
+----
+
+Description: Haroon Siddique with investigation and spacial reconstruction by Forensic Architecture for the Guardian. The police shooting of Mark Duggan led to the largest riots in modern English history, and was widely cited by #BLMUK. Forensic Architecture uses VR and 3D mapping to cast doubt on a key finding from the IPCC (Independent Police Complaints Commission). Long histories of systemic and structural racism all too often become visible in split-second actions of police officers.In the midst of the urgent uprising of #BlackLivesMatter protests in the USA and across the world, this approach could be a new possibility for interrogating police violence.
+
+----
+
+Topics: mark duggan, london riots, technology
+
+----
+
+Geo: UK
+
+----
+
+Addedby: EYEBEAM
+
+----
+
+Importdata: {"id":5,"type":"project","title":"Mark Duggan Police Shooting: Can Forensic Tech Cast Doubt On Official Report?","byline":"Haroon Siddique With Forensic Architecture For The Guardian","date":"2020","full-text":"Haroon Siddique with investigation and spacial reconstruction by Forensic Architecture for the Guardian. The police shooting of Mark Duggan led to the largest riots in modern English history, and was widely cited by #BLMUK. Forensic Architecture uses VR and 3D mapping to cast doubt on a key finding from the IPCC (Independent Police Complaints Commission). Long histories of systemic and structural racism all too often become visible in split-second actions of police officers.In the midst of the urgent uprising of #BlackLivesMatter protests in the USA and across the world, this approach could be a new possibility for interrogating police violence.","image":"https:\/\/www.theguardian.com\/uk-news\/ng-interactive\/2020\/jun\/10\/mark-duggan-shooting-can-forensic-tech-cast-doubt-on-official-report","url1":"https:\/\/www.eyebeam.org\/eyebeam-center-for-the-future-of-journalism\/","url2":"https:\/\/www.theguardian.com\/uk-news\/ng-interactive\/2020\/jun\/10\/mark-duggan-shooting-can-forensic-tech-cast-doubt-on-official-report","url3":"","topics":"mark duggan, london riots, technology","related-country":"UK","related-people-org-project":"49, 53, 74, 82","role":"","added by":"EYEBEAM","imported":""}
+
+----
+
+Author:
+
+- entities/haroon-siddique
+- entities/forensic-architecture
+
+----
+
+Commission:
+
+- entities/the-guardian
+
+----
+
+Funder: 
+
+----
+
+Platform: 
+
+----
+
+Type: project

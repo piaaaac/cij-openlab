@@ -1,0 +1,59 @@
+Title: Journalism And Art: Complementary And Collaborative Storytelling
+
+----
+
+Itemtype: project
+
+----
+
+Byline: Michael Blanding For Neiman Labs
+
+----
+
+Img:
+
+- journ-art.jpg
+
+----
+
+Year: 2016
+
+----
+
+Description: 
+
+----
+
+Topics: journalis, art, essay
+
+----
+
+Geo: USA
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":34,"type":"essay","title":"Journalism And Art: Complementary And Collaborative Storytelling","byline":"Michael Blanding For Neiman Labs","date":"2016","full-text":"","image":"https:\/\/niemanstoryboard.org\/stories\/journalism-and-art-complementary-and-collaborative-storytelling\/","url1":"https:\/\/niemanstoryboard.org\/stories\/journalism-and-art-complementary-and-collaborative-storytelling\/","url2":"","url3":"","topics":"journalis, art, essay","related-country":"USA","related-people-org-project":"","role":"","added by":"CIJ","imported":""}
+
+----
+
+Author: 
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 
+
+----
+
+Type: essay

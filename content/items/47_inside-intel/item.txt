@@ -1,0 +1,61 @@
+Title: Inside Intel
+
+----
+
+Itemtype: project
+
+----
+
+Byline: Jake Charles Rees, Elliott Burns, India Murphy
+
+----
+
+Img:
+
+- blank.png
+
+----
+
+Year: 
+
+----
+
+Description: 
+
+----
+
+Topics: 
+
+----
+
+Geo: UK
+
+----
+
+Addedby: 
+
+----
+
+Importdata: {"id":126,"type":"exhibition","title":"Inside Intel","byline":"Jake Charles Rees, Elliott Burns, India Murphy","date":"","full-text":"","image":"","url1":"","url2":"","url3":"","topics":"","related-country":"UK","related-people-org-project":"","role":"","added by":"","imported":""}
+
+----
+
+Author:
+
+- entities/jake-charles-rees
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 
+
+----
+
+Type: exhibition

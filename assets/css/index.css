@@ -1,0 +1,458 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;500&display=swap");
+*:not(i), *:not(i)::before, *:not(i)::after {
+  margin: 0;
+  padding: 0;
+  border: none;
+  box-sizing: border-box; }
+
+html {
+  -webkit-text-size-adjust: 100%;
+  /* Prevent font scaling in landscape while allowing user zoom */ }
+
+article, aside, details, figcaption, figure,
+footer, header, main, menu, nav, section, summary {
+  display: block; }
+
+::-moz-selection {
+  background: #fc5500;
+  color: black; }
+
+::selection {
+  background: #fc5500;
+  color: black; }
+
+body:not(.user-is-tabbing) button:focus,
+body:not(.user-is-tabbing) input:focus,
+body:not(.user-is-tabbing) select:focus,
+body:not(.user-is-tabbing) textarea:focus {
+  outline: none; }
+
+button,
+input,
+optgroup,
+select,
+textarea, html input[type="button"],
+input[type="reset"],
+input[type="submit"], button[disabled],
+html input[disabled], button::-moz-focus-inner,
+input::-moz-focus-inner, input[type="checkbox"],
+input[type="radio"], input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button, input[type="search"], input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration {
+  border: none;
+  background-image: none;
+  background-color: transparent !important;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none; }
+
+html body input:-internal-autofill-selected {
+  background-color: transparent !important;
+  background-image: none !important;
+  color: -internal-light-dark-color(black, white) !important; }
+
+@font-face {
+  font-family: "MonumentGrotesk";
+  src: url("../fonts/MonumentGrotesk-Semi-Mono.woff") format("woff"); }
+.font-huge {
+  font-family: "MonumentGrotesk", sans-serif;
+  font-size: 5.4vw;
+  letter-spacing: 0;
+  line-height: 1.3em;
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal; }
+  @media (min-width: 576px) {
+    .font-huge {
+      font-size: 5.4vw; } }
+  @media (min-width: 768px) {
+    .font-huge {
+      font-size: 5.4vw; } }
+  @media (min-width: 992px) {
+    .font-huge {
+      font-size: 5.4vw; } }
+  @media (min-width: 1200px) {
+    .font-huge {
+      font-size: 5.4vw; } }
+
+.font-large {
+  font-family: "MonumentGrotesk", sans-serif;
+  font-size: 2.81vw;
+  letter-spacing: 0;
+  line-height: 1.3em;
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal; }
+  @media (min-width: 576px) {
+    .font-large {
+      font-size: 2.81vw; } }
+  @media (min-width: 768px) {
+    .font-large {
+      font-size: 2.81vw; } }
+  @media (min-width: 992px) {
+    .font-large {
+      font-size: 2.81vw; } }
+  @media (min-width: 1200px) {
+    .font-large {
+      font-size: 2.81vw; } }
+
+.font-m {
+  font-family: "MonumentGrotesk", sans-serif;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 1.3em;
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal; }
+  @media (min-width: 576px) {
+    .font-m {
+      font-size: 18px; } }
+  @media (min-width: 768px) {
+    .font-m {
+      font-size: 18px; } }
+  @media (min-width: 992px) {
+    .font-m {
+      font-size: 18px; } }
+  @media (min-width: 1200px) {
+    .font-m {
+      font-size: 18px; } }
+
+.font-s {
+  font-family: "MonumentGrotesk", sans-serif;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 1.3em;
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal; }
+  @media (min-width: 576px) {
+    .font-s {
+      font-size: 15px; } }
+  @media (min-width: 768px) {
+    .font-s {
+      font-size: 15px; } }
+  @media (min-width: 992px) {
+    .font-s {
+      font-size: 15px; } }
+  @media (min-width: 1200px) {
+    .font-s {
+      font-size: 15px; } }
+
+.font-xs {
+  font-family: "MonumentGrotesk", sans-serif;
+  font-size: 10px;
+  letter-spacing: 0;
+  line-height: 1.3em;
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal; }
+  @media (min-width: 576px) {
+    .font-xs {
+      font-size: 10px; } }
+  @media (min-width: 768px) {
+    .font-xs {
+      font-size: 10px; } }
+  @media (min-width: 992px) {
+    .font-xs {
+      font-size: 10px; } }
+  @media (min-width: 1200px) {
+    .font-xs {
+      font-size: 10px; } }
+
+.font-zoom {
+  line-height: 1.3em;
+  font-size: 11px; }
+
+/* USAGE 
+@include keyframes(slide-down) {
+  0% { opacity: 1; }
+  90% { opacity: 0; }
+}
+
+.element {
+  width: 100px;
+  height: 100px;
+  background: black;
+  @include animation('slide-down 5s 3');
+}
+*/
+* {
+  font-family: MonumentGrotesk, serif;
+  color: black; }
+
+a {
+  cursor: pointer; }
+
+.color-white {
+  color: white; }
+
+.color-grey {
+  color: #ABABAB; }
+
+.color-red {
+  color: #E24C00; }
+
+.upper {
+  text-transform: uppercase; }
+
+nav#header {
+  background-color: black;
+  position: fixed;
+  z-index: 10;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px; }
+  nav#header img.logo {
+    margin-right: 15px; }
+  nav#header a {
+    color: white; }
+    nav#header a + a {
+      margin-left: 15px; }
+
+body {
+  -webkit-transition: background-color 400ms;
+  -moz-transition: background-color 400ms;
+  -ms-transition: background-color 400ms;
+  -o-transition: background-color 400ms;
+  transition: background-color 400ms;
+  background-color: #DFE9E5; }
+  body.zoom-3, body.zoom-4 {
+    background-color: #829B90; }
+  body.zoom-1 .meta-left, body.zoom-1 .meta-right, body.zoom-2 .meta-left, body.zoom-2 .meta-right, body.zoom-3 .meta-left, body.zoom-3 .meta-right {
+    display: none; }
+
+.entries {
+  padding-top: 50px; }
+  .entries .font-zoom {
+    font-size: inherit; }
+  body.zoom-1 .entries .entry .zoom-1-2 .image {
+    display: none; }
+  body.zoom-1 .entries, body.zoom-2 .entries {
+    padding-left: 20px;
+    padding-right: 20px; }
+    body.zoom-1 .entries .entry, body.zoom-2 .entries .entry {
+      padding: 3px 4px; }
+    body.zoom-1 .entries .entry .zoom-3-4, body.zoom-2 .entries .entry .zoom-3-4 {
+      display: none; }
+  body.zoom-3 .entries {
+    padding-top: 60px;
+    padding-left: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    align-content: flex-start; }
+    body.zoom-3 .entries .entry {
+      margin: 0 20px 20px 0; }
+      body.zoom-3 .entries .entry .zoom-1-2 {
+        display: none; }
+      body.zoom-3 .entries .entry .zoom-3-4 {
+        height: 120px;
+        display: flex; }
+        body.zoom-3 .entries .entry .zoom-3-4 .image {
+          width: 120px; }
+        body.zoom-3 .entries .entry .zoom-3-4 .texts {
+          display: flex;
+          flex-flow: column;
+          justify-content: center;
+          max-width: 300px;
+          padding: 0 15px; }
+          body.zoom-3 .entries .entry .zoom-3-4 .texts .byline, body.zoom-3 .entries .entry .zoom-3-4 .texts .title {
+            font-family: "MonumentGrotesk", sans-serif;
+            font-size: 10px;
+            letter-spacing: 0;
+            line-height: 1.3em;
+            font-weight: 400;
+            font-style: normal;
+            font-stretch: normal; }
+            @media (min-width: 576px) {
+              body.zoom-3 .entries .entry .zoom-3-4 .texts .byline, body.zoom-3 .entries .entry .zoom-3-4 .texts .title {
+                font-size: 10px; } }
+            @media (min-width: 768px) {
+              body.zoom-3 .entries .entry .zoom-3-4 .texts .byline, body.zoom-3 .entries .entry .zoom-3-4 .texts .title {
+                font-size: 10px; } }
+            @media (min-width: 992px) {
+              body.zoom-3 .entries .entry .zoom-3-4 .texts .byline, body.zoom-3 .entries .entry .zoom-3-4 .texts .title {
+                font-size: 10px; } }
+            @media (min-width: 1200px) {
+              body.zoom-3 .entries .entry .zoom-3-4 .texts .byline, body.zoom-3 .entries .entry .zoom-3-4 .texts .title {
+                font-size: 10px; } }
+      body.zoom-3 .entries .entry[data-template='entity'] .zoom-3-4 .image {
+        background-size: contain;
+        border-radius: 50px;
+        margin: 10px 0 10px 10px;
+        width: 100px !important; }
+  body.zoom-4 .entries {
+    padding-top: 60px;
+    padding-bottom: 20px;
+    padding-left: 15vw;
+    padding-right: 15vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: stretch;
+    align-content: center; }
+    body.zoom-4 .entries .entry {
+      margin: 0 10px 20px 10px; }
+      body.zoom-4 .entries .entry .zoom-1-2 {
+        display: none; }
+      body.zoom-4 .entries .entry .zoom-3-4 {
+        width: 30vw; }
+        body.zoom-4 .entries .entry .zoom-3-4 .image {
+          width: 100%;
+          padding-top: 56.25%; }
+        body.zoom-4 .entries .entry .zoom-3-4 .texts {
+          padding: 20px; }
+          body.zoom-4 .entries .entry .zoom-3-4 .texts .byline {
+            font-family: "MonumentGrotesk", sans-serif;
+            font-size: 10px;
+            letter-spacing: 0;
+            line-height: 1.3em;
+            font-weight: 400;
+            font-style: normal;
+            font-stretch: normal; }
+            @media (min-width: 576px) {
+              body.zoom-4 .entries .entry .zoom-3-4 .texts .byline {
+                font-size: 10px; } }
+            @media (min-width: 768px) {
+              body.zoom-4 .entries .entry .zoom-3-4 .texts .byline {
+                font-size: 10px; } }
+            @media (min-width: 992px) {
+              body.zoom-4 .entries .entry .zoom-3-4 .texts .byline {
+                font-size: 10px; } }
+            @media (min-width: 1200px) {
+              body.zoom-4 .entries .entry .zoom-3-4 .texts .byline {
+                font-size: 10px; } }
+          body.zoom-4 .entries .entry .zoom-3-4 .texts .title {
+            font-family: "MonumentGrotesk", sans-serif;
+            font-size: 18px;
+            letter-spacing: 0;
+            line-height: 1.3em;
+            font-weight: 400;
+            font-style: normal;
+            font-stretch: normal; }
+            @media (min-width: 576px) {
+              body.zoom-4 .entries .entry .zoom-3-4 .texts .title {
+                font-size: 18px; } }
+            @media (min-width: 768px) {
+              body.zoom-4 .entries .entry .zoom-3-4 .texts .title {
+                font-size: 18px; } }
+            @media (min-width: 992px) {
+              body.zoom-4 .entries .entry .zoom-3-4 .texts .title {
+                font-size: 18px; } }
+            @media (min-width: 1200px) {
+              body.zoom-4 .entries .entry .zoom-3-4 .texts .title {
+                font-size: 18px; } }
+
+.entry {
+  display: inline;
+  cursor: pointer;
+  -webkit-transition: background-color 100ms;
+  -moz-transition: background-color 100ms;
+  -ms-transition: background-color 100ms;
+  -o-transition: background-color 100ms;
+  transition: background-color 100ms; }
+  .entry.active {
+    background-color: #E24C00; }
+  .entry.redacted {
+    text-decoration: line-through; }
+  .entry.hide {
+    display: none; }
+  .entry .zoom-1-2 .byline {
+    text-transform: uppercase; }
+  .entry .zoom-1-2 .image {
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    position: relative;
+    top: .15em;
+    background-size: cover;
+    background-position: center center; }
+  .entry[data-template='entity'] .zoom-1-2 .image {
+    background-size: contain;
+    border-radius: .5em; }
+  .entry .zoom-3-4 {
+    background-color: white; }
+    .entry .zoom-3-4 .image {
+      background-size: cover;
+      background-position: center center; }
+
+.meta-left, .meta-right {
+  position: fixed;
+  padding: 50px 20px 20px 20px;
+  top: 0;
+  bottom: 0;
+  width: 15vw;
+  overflow-y: scroll; }
+  .meta-left .meta-link:hover, .meta-left .meta-link.active, .meta-left .meta-link.selected, .meta-right .meta-link:hover, .meta-right .meta-link.active, .meta-right .meta-link.selected {
+    background-color: #E24C00; }
+  .meta-left a, .meta-right a {
+    font-family: "MonumentGrotesk", sans-serif;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: 1.3em;
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal; }
+    @media (min-width: 576px) {
+      .meta-left a, .meta-right a {
+        font-size: 10px; } }
+    @media (min-width: 768px) {
+      .meta-left a, .meta-right a {
+        font-size: 10px; } }
+    @media (min-width: 992px) {
+      .meta-left a, .meta-right a {
+        font-size: 10px; } }
+    @media (min-width: 1200px) {
+      .meta-left a, .meta-right a {
+        font-size: 10px; } }
+
+.meta-left {
+  left: 0; }
+
+.meta-right {
+  right: 0;
+  text-align: right; }
+
+#overlay {
+  opacity: 0;
+  pointer-events: none;
+  z-index: 9;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(130, 155, 144, 0.7);
+  padding: 20px;
+  padding-top: 60px;
+  overflow-y: scroll;
+  text-align: center;
+  -webkit-transition: opacity 400ms;
+  -moz-transition: opacity 400ms;
+  -ms-transition: opacity 400ms;
+  -o-transition: opacity 400ms;
+  transition: opacity 400ms; }
+  #overlay.show {
+    opacity: 1;
+    pointer-events: all; }
+  #overlay #detail-content {
+    text-align: left;
+    background-color: white;
+    display: inline-block;
+    position: relative;
+    padding: 20px 0;
+    width: 80vw;
+    max-width: 800px;
+    min-width: 300px; }
+    #overlay #detail-content .image {
+      padding-top: 54.25%;
+      background-size: cover;
+      background-position: center center; }
+
+/*# sourceMappingURL=index.css.map */

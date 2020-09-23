@@ -1,0 +1,39 @@
+Title: Alfredo Cramerotti
+
+----
+
+Entitytype: people
+
+----
+
+Byline: Curator
+
+----
+
+Img:
+
+- alfredo-cramerotti.jpeg
+
+----
+
+Description: Alfredo Cramerotti is a curator, writer, broadcaster, publisher and organizer of modern & contemporary art, film and video, performance, photography, conference and online media formats.
+
+----
+
+Topics: aesthetic journalism, curator, writer
+
+----
+
+Geo: UK
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: 
+
+----
+
+Relatedentities: 

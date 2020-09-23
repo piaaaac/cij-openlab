@@ -1,0 +1,62 @@
+Title: Interdependence
+
+----
+
+Itemtype: project
+
+----
+
+Byline: Holly Herndon, Mat Dryhurst
+
+----
+
+Img:
+
+- blank.png
+
+----
+
+Year: 2020
+
+----
+
+Description: Conversations with figures shaping 21st century culture from Holly Herndon and Mat Dryhurst's studio in Berlin.
+
+----
+
+Topics: culture, tech, art, music, podcast
+
+----
+
+Geo: Germany
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":32,"type":"podcast","title":"Interdependence","byline":"Holly Herndon, Mat Dryhurst","date":"2020","full-text":"Conversations with figures shaping 21st century culture from Holly Herndon and Mat Dryhurst's studio in Berlin.","image":"https:\/\/interdependence.fm\/","url1":"https:\/\/interdependence.fm\/","url2":"","url3":"","topics":"culture, tech, art, music, podcast","related-country":"Germany","related-people-org-project":"64, 65","role":"","added by":"CIJ","imported":""}
+
+----
+
+Author:
+
+- entities/mat-dryhurst
+- entities/holly-herndon
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 
+
+----
+
+Type: podcast

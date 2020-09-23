@@ -1,0 +1,43 @@
+Title: Eyal Weizman
+
+----
+
+Entitytype: people
+
+----
+
+Byline: Architect
+
+----
+
+Img:
+
+- eyal-weizman36285.jpg
+
+----
+
+Description:
+
+Eyal Weizman is the founding director of Forensic Architecture and Professor of Spatial and Visual Cultures at Goldsmiths, University of London, where he founded the Centre for Research Architecture in 2005.
+The author of over 15 books, he has conducted research and taught at many universities worldwide. He was a Global Scholar at Princeton University and a professor at the Academy of Fine Arts in Vienna. He is a member of several managing and advisory boards, including the Technology Advisory Board of the International Criminal Court and the board of trustees of the Centre for Investigative Journalism. He is also a founding member of the architectural collective DAAR in Beit Sahour/Palestine.
+Eyal studied architecture at the Architectural Association, graduating in 1998. He received his PhD in 2006 from the London Consortium at Birkbeck, University of London.
+
+----
+
+Topics: forensic architecture, human rights, visual investigations
+
+----
+
+Geo: UK
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: 
+
+----
+
+Relatedentities: 

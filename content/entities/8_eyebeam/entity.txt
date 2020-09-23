@@ -1,0 +1,39 @@
+Title: Eyebeam
+
+----
+
+Entitytype: organization
+
+----
+
+Byline: 
+
+----
+
+Img:
+
+- eyebeambox.gif
+
+----
+
+Description: A public storefront, idea space, and experimental platform that is “constantly becoming,” Eyebeam is distinguished for providing space and support for diverse, justice-driven artists.
+
+----
+
+Topics: art, residency
+
+----
+
+Geo: USA
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: 
+
+----
+
+Relatedentities: 

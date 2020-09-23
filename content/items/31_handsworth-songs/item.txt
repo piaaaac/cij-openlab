@@ -1,0 +1,62 @@
+Title: Handsworth Songs
+
+----
+
+Itemtype: project
+
+----
+
+Byline: John Akomfrah And The Black Audio Film Collective
+
+----
+
+Img:
+
+- blank.png
+
+----
+
+Year: 1986
+
+----
+
+Description: An experimental film essay on race and disorder in Britain, filmed in Handsworth and London during the riots of 1985 and incorporating newsreel and archival material.
+
+----
+
+Topics: race, england, riots, birmingham
+
+----
+
+Geo: UK
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":118,"type":"project","title":"Handsworth Songs","byline":"John Akomfrah And The Black Audio Film Collective","date":"1986","full-text":"An experimental film essay on race and disorder in Britain, filmed in Handsworth and London during the riots of 1985 and incorporating newsreel and archival material.","image":"https:\/\/www.lissongallery.com\/news\/screening-now-john-akomfrah-s-handsworth-songs","url1":"http:\/\/www.screenonline.org.uk\/film\/id\/441093\/index.html","url2":"https:\/\/www.tate.org.uk\/art\/artworks\/black-audio-film-collective-handsworth-songs-t12862","url3":"","topics":"race, england, riots, birmingham","related-country":"UK","related-people-org-project":"96, 95","role":"","added by":"CIJ","imported":""}
+
+----
+
+Author:
+
+- entities/john-akomfrah
+- entities/black-audio-film-collective
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 
+
+----
+
+Type: project

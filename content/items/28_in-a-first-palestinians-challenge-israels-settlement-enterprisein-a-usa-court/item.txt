@@ -1,0 +1,64 @@
+Title: In A First, Palestinians Challenge Israel’s Settlement Enterprise—in A USA Court.
+
+----
+
+Itemtype: project
+
+----
+
+Byline: Mairav Zonszein, Sam Lavigne For The Nation
+
+----
+
+Img:
+
+- syria.jpg
+
+----
+
+Year: 2019
+
+----
+
+Description: The challenge comes in response to a case filed by Israeli settlers against Airbnb. Artist Sam Lavigne created a visual, linguistic and geographic dataset that explored the images and language of Airbnb ads along with their locations on the map of the West Bank.
+
+----
+
+Topics: israel, palestine, airbnb, technology
+
+----
+
+Geo: USA, Israel, Palestine
+
+----
+
+Addedby: EYEBEAM
+
+----
+
+Importdata: {"id":6,"type":"project","title":"In A First, Palestinians Challenge Israel\u2019s Settlement Enterprise\u2014in A USA Court.","byline":"Mairav Zonszein, Sam Lavigne For The Nation","date":"2019","full-text":"The challenge comes in response to a case filed by Israeli settlers against Airbnb. Artist Sam Lavigne created a visual, linguistic and geographic dataset that explored the images and language of Airbnb ads along with their locations on the map of the West Bank.","image":"https:\/\/www.thenation.com\/article\/archive\/palestinians-legal-challenge-airbnb-settlers\/","url1":"https:\/\/www.eyebeam.org\/eyebeam-center-for-the-future-of-journalism\/","url2":"https:\/\/www.thenation.com\/article\/archive\/palestinians-legal-challenge-airbnb-settlers\/","url3":"","topics":"israel, palestine, airbnb, technology","related-country":"USA, Israel, Palestine","related-people-org-project":"49, 72, 73","role":"","added by":"EYEBEAM","imported":""}
+
+----
+
+Author:
+
+- entities/mairav-zonszein
+
+----
+
+Commission:
+
+- >
+  entities/eyebeam-center-for-the-future-of-journalism
+
+----
+
+Funder: 
+
+----
+
+Platform: 
+
+----
+
+Type: project

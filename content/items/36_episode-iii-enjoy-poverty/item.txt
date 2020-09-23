@@ -1,0 +1,61 @@
+Title: Episode Iii 'enjoy Poverty'
+
+----
+
+Itemtype: project
+
+----
+
+Byline: Renzo Martens
+
+----
+
+Img:
+
+- blank.png
+
+----
+
+Year: 2008
+
+----
+
+Description: Episode III – ‘Enjoy Poverty’ investigates the emotional and economic value of Africa's most lucrative export: filmed poverty. As with more traditional African exports such as cocoa and gold, the suppliers of this new African commodity hardly benefit from it at all. Deep in the interiors of the Congolese inland, Dutch artist Renzo Martens launches an emancipatory programme that helps the poor become aware of their primary capital resource: poverty. Over several years, Martens singlehandedly undertakes an epic journey. Combining investigative journalism, satire and self-awareness in a deeply singular view, Episode III - ‘Enjoy Poverty’ is ingeniously provocative, ironic and often hilarious, despite the sad reflection staring back in the mirror that he holds up.
+
+----
+
+Topics: poverty, photo journalism, documentary
+
+----
+
+Geo: Dr Congo
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":9,"type":"video","title":"Episode Iii 'enjoy Poverty'","byline":"Renzo Martens","date":"2008","full-text":"Episode III \u2013 \u2018Enjoy Poverty\u2019 investigates the emotional and economic value of Africa's most lucrative export: filmed poverty. As with more traditional African exports such as cocoa and gold, the suppliers of this new African commodity hardly benefit from it at all. Deep in the interiors of the Congolese inland, Dutch artist Renzo Martens launches an emancipatory programme that helps the poor become aware of their primary capital resource: poverty. Over several years, Martens singlehandedly undertakes an epic journey. Combining investigative journalism, satire and self-awareness in a deeply singular view, Episode III - \u2018Enjoy Poverty\u2019 is ingeniously provocative, ironic and often hilarious, despite the sad reflection staring back in the mirror that he holds up.","image":"https:\/\/www.imdb.com\/title\/tt1444307\/mediaviewer\/rm3139968512?ref_=tt_ov_i","url1":"https:\/\/vimeo.com\/144862363","url2":"","url3":"","topics":"poverty, photo journalism, documentary","related-country":"Dr Congo","related-people-org-project":"","role":"","added by":"CIJ","imported":""}
+
+----
+
+Author:
+
+- entities/renzo-martens
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 
+
+----
+
+Type: video

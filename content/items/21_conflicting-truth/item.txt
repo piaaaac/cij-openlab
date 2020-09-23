@@ -1,0 +1,61 @@
+Title: Conflicting Truth
+
+----
+
+Itemtype: project
+
+----
+
+Byline: Airwars, Rectangle, Sophie Dyer
+
+----
+
+Img:
+
+- blank.png
+
+----
+
+Year: 2019
+
+----
+
+Description: “What does it mean to defend the dead?”– Christina Sharpe, 2016Over the duration of the exhibition, the names of 11,431 civilians allegedly killed by air and artillery strikes in Iraq and Syria will be presented, alongside the hyperlocal and social media reports from which they are pulled. The reports are organised by assessments made by the civilian casualty monitor, Airwars, who has documented the conflict since it began in August 2014. To date, the USA-led Coalition has conceded only 1,190 civilian deaths over its four year campaign against the so-called Islamic State. Conversely, by listening to social media, local news and speaking to monitors on the ground, Airwars has recorded over 28,000 alleged deaths, and places the minimum number of civilians killed by Coalition strikes at 7,000–11,000. In 2017, a New York Times article called the civilians killed by Coalition strikes, “the uncounted”. For the philosopher, Judith Butler, they are the “ungrievable”. In other words, those whose deaths do with fit within the narrative frame of war.
+
+----
+
+Topics: osint, syria, iraq, airstrikes
+
+----
+
+Geo: UK, Syria, Iraq
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":56,"type":"project","title":"Conflicting Truth","byline":"Airwars, Rectangle, Sophie Dyer","date":"2019","full-text":"\u201cWhat does it mean to defend the dead?\u201d\u2013 Christina Sharpe, 2016Over the duration of the exhibition, the names of 11,431 civilians allegedly killed by air and artillery strikes in Iraq and Syria will be presented, alongside the hyperlocal and social media reports from which they are pulled. The reports are organised by assessments made by the civilian casualty monitor, Airwars, who has documented the conflict since it began in August 2014. To date, the USA-led Coalition has conceded only 1,190 civilian deaths over its four year campaign against the so-called Islamic State. Conversely, by listening to social media, local news and speaking to monitors on the ground, Airwars has recorded over 28,000 alleged deaths, and places the minimum number of civilians killed by Coalition strikes at 7,000\u201311,000. In 2017, a New York Times article called the civilians killed by Coalition strikes, \u201cthe uncounted\u201d. For the philosopher, Judith Butler, they are the \u201cungrievable\u201d. In other words, those whose deaths do with fit within the narrative frame of war.","image":"https:\/\/rectangle.design\/conflicting-truth","url1":"https:\/\/rectangle.design\/conflicting-truth","url2":"","url3":"","topics":"osint, syria, iraq, airstrikes","related-country":"UK, Syria, Iraq","related-people-org-project":63,"role":"","added by":"CIJ","imported":""}
+
+----
+
+Author:
+
+- entities/sophie-dyer
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 
+
+----
+
+Type: project

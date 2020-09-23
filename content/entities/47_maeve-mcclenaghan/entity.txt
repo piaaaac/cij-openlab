@@ -1,0 +1,43 @@
+Title: Maeve Mcclenaghan
+
+----
+
+Entitytype: people
+
+----
+
+Byline: Journalist
+
+----
+
+Img:
+
+- maeve-mcclenaghan.jpg
+
+----
+
+Description: Maeve McClenaghan is an award-winning investigative journalist at The Bureau of Investigative Journalism and founder of the popular, critically-acclaimed podcast, The Tip Off. She has led investigations for BBC radio, the Guardian and Buzzfeed UK
+
+----
+
+Topics: investigative journalism
+
+----
+
+Geo: UK
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":60,"type":"people","title":"Maeve Mcclenaghan","byline":"Journalist","date":"","full-text":"Maeve McClenaghan is an award-winning investigative journalist at The Bureau of Investigative Journalism and founder of the popular, critically-acclaimed podcast, The Tip Off. She has led investigations for BBC radio, the Guardian and Buzzfeed UK","image":"https:\/\/www.google.com\/search?q=maeve+mcclenaghan&rlz=1C5CHFA_enGB847GB847&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiN5-jxp9frAhUaURUIHa2kAMwQ_AUoAnoECBYQBA&biw=1280&bih=666","url1":"https:\/\/www.thebureauinvestigates.com\/","url2":"https:\/\/twitter.com\/MaeveMCC","url3":"","topics":"investigative journalism","related-country":"UK","related-people-org-project":"31, 77","role":"","added by":"CIJ","imported":""}
+
+----
+
+Relatedentities: 
+
+----
+
+Type: people

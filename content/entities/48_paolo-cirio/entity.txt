@@ -1,0 +1,43 @@
+Title: Paolo Cirio
+
+----
+
+Entitytype: people
+
+----
+
+Byline: Artist
+
+----
+
+Img:
+
+- paolo-cirio.jpg
+
+----
+
+Description: Paolo Cirio is a conceptual artist, hacktivist and cultural critic. Cirio's work embodies hacker ethics, such as open access, privacy policies, and the critique of economic, legal, and political models. He received a number of legal threats for his Internet art performances, including practices such as hacking, piracy, leaking sensitive information, identity theft, and cyber attacks.
+
+----
+
+Topics: 
+
+----
+
+Geo: Italy
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":100,"type":"people","title":"Paolo Cirio","byline":"Artist","date":"","full-text":"Paolo Cirio is a conceptual artist, hacktivist and cultural critic. Cirio's work embodies hacker ethics, such as open access, privacy policies, and the critique of economic, legal, and political models. He received a number of legal threats for his Internet art performances, including practices such as hacking, piracy, leaking sensitive information, identity theft, and cyber attacks.","image":"https:\/\/www.google.com\/search?q=paolo+cirio&rlz=1C5CHFA_enGB847GB847&source=lnms&tbm=isch&sa=X&ved=2ahUKEwirkNyLxNzrAhWAURUIHdpNCqkQ_AUoAXoECB0QAw&biw=1272&bih=661&dpr=2","url1":"https:\/\/www.paolocirio.net\/","url2":"https:\/\/twitter.com\/PaoloCirio","url3":"","topics":"","related-country":"Italy","related-people-org-project":"105, 114","role":"","added by":"CIJ","imported":""}
+
+----
+
+Relatedentities: 
+
+----
+
+Type: people

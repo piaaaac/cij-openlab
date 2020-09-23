@@ -1,0 +1,61 @@
+Title: Chlorine Gas Attacks In Douma
+
+----
+
+Itemtype: project
+
+----
+
+Byline: Forensic Architecture
+
+----
+
+Img:
+
+- blank.png
+
+----
+
+Year: 2018
+
+----
+
+Description: On 7 April 2018, the city of Douma, Syria, was targeted by two chemical weapons attacks. At that time, the city and its surrounding areas had been under siege by the Syrian military since 2013. At least 70 people died in the attacks, according to reports.
+
+----
+
+Topics: syria, douma, airstrikes, chemical attacks
+
+----
+
+Geo: Syria
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":10,"type":"video","title":"Chlorine Gas Attacks In Douma","byline":"Forensic Architecture","date":"2018","full-text":"On 7 April 2018, the city of Douma, Syria, was targeted by two chemical weapons attacks. At that time, the city and its surrounding areas had been under siege by the Syrian military since 2013. At least 70 people died in the attacks, according to reports.","image":"https:\/\/forensic-architecture.org\/investigation\/chemical-attacks-in-douma","url1":"https:\/\/forensic-architecture.org\/investigation\/chemical-attacks-in-douma","url2":"","url3":"","topics":"syria, douma, airstrikes, chemical attacks","related-country":"Syria","related-people-org-project":53,"role":"","added by":"CIJ","imported":""}
+
+----
+
+Author:
+
+- entities/forensic-architecture
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 
+
+----
+
+Type: video

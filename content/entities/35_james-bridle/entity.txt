@@ -1,0 +1,43 @@
+Title: James Bridle
+
+----
+
+Entitytype: people
+
+----
+
+Byline: Artist
+
+----
+
+Img:
+
+- jamesbridle_headshot3.jpg
+
+----
+
+Description: James Bridle (b. 1980) is a writer, artist, journalist, and technologist.
+
+----
+
+Topics: 
+
+----
+
+Geo: UK, Greece
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":93,"type":"people","title":"James Bridle","byline":"Artist","date":"","full-text":"James Bridle (b. 1980) is a writer, artist, journalist, and technologist.","image":"https:\/\/jamesbridle.com\/","url1":"https:\/\/jamesbridle.com\/","url2":"","url3":"","topics":"","related-country":"UK, Greece","related-people-org-project":108,"role":"","added by":"CIJ","imported":""}
+
+----
+
+Relatedentities: 
+
+----
+
+Type: people

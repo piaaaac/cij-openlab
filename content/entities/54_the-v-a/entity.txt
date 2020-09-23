@@ -1,0 +1,41 @@
+Title: The V&A
+
+----
+
+Entitytype: people
+
+----
+
+Byline: Museum
+
+----
+
+Img: - vanda.png
+
+----
+
+Description: The Victoria and Albert Museum in London is the world's largest museum of applied and decorative arts and design, as well as sculpture, housing a permanent collection of over 2.27 million objects. It was founded in 1852 and named after Queen Victoria and Prince Albert.
+
+----
+
+Topics: art, museum
+
+----
+
+Geo: UK
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":80,"type":"organization","title":"The V&a","byline":"Museum","date":"","full-text":"The Victoria and Albert Museum in London is the world's largest museum of applied and decorative arts and design, as well as sculpture, housing a permanent collection of over 2.27 million objects. It was founded in 1852 and named after Queen Victoria and Prince Albert.","image":"https:\/\/www.vam.ac.uk\/","url1":"https:\/\/www.vam.ac.uk\/","url2":"","url3":"","topics":"art, museum","related-country":"UK","related-people-org-project":"","role":"","added by":"CIJ","imported":""}
+
+----
+
+Relatedentities: 
+
+----
+
+Type: organization
