@@ -2,7 +2,7 @@ Title: Forensic Architecture
 
 ----
 
-Entitytype: organization
+entryType: organization
 
 ----
 

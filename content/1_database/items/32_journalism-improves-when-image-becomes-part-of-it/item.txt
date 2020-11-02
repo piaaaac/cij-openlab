@@ -2,7 +2,7 @@ Title: Journalism Improves When Image Becomes Part Of It
 
 ----
 
-Itemtype: project
+entryType: interview
 
 ----
 
@@ -62,7 +62,3 @@ Funder:
 ----
 
 Platform: 
-
-----
-
-Type: interview

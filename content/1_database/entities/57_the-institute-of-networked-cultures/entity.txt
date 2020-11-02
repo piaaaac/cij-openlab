@@ -2,7 +2,7 @@ Title: The Institute Of Networked Cultures
 
 ----
 
-Entitytype: people
+entryType: organization
 
 ----
 
@@ -42,6 +42,3 @@ Importdata: {"id":122,"type":"organization","title":"The Institute Of Networked 
 
 Relatedentities: 
 
-----
-
-Type: organization

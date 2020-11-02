@@ -2,7 +2,7 @@ Title: Ingrid Burrington
 
 ----
 
-Entitytype: people
+entryType: people
 
 ----
 
@@ -46,6 +46,3 @@ Importdata: {"id":103,"type":"people","title":"Ingrid Burrington","byline":"Arti
 
 Relatedentities: 
 
-----
-
-Type: people

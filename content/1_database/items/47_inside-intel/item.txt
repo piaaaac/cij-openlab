@@ -2,7 +2,7 @@ Title: Inside Intel
 
 ----
 
-Itemtype: project
+entryType: exhibition
 
 ----
 
@@ -56,6 +56,3 @@ Funder:
 
 Platform: 
 
-----
-
-Type: exhibition

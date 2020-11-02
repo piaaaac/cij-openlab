@@ -2,7 +2,7 @@ Title: Jake Charles Rees
 
 ----
 
-Entitytype: people
+entryType: people
 
 ----
 

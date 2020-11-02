@@ -2,7 +2,7 @@ Title: Sophie Dyer
 
 ----
 
-Entitytype: people
+entryType: people
 
 ----
 
@@ -49,6 +49,3 @@ Importdata: {"id":63,"type":"people","title":"Sophie Dyer","byline":"Artist \/ R
 
 Relatedentities: 
 
-----
-
-Type: people

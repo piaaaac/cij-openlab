@@ -2,7 +2,7 @@ Title: Artistic Journalism: An Introduction
 
 ----
 
-Itemtype: project
+entryType: project
 
 ----
 
@@ -68,6 +68,3 @@ Funder:
 
 Platform: 
 
-----
-
-Type: project

@@ -2,7 +2,7 @@ Title: Kevin B. Lee
 
 ----
 
-Entitytype: people
+entryType: people
 
 ----
 

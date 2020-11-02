@@ -5,7 +5,7 @@ class ItemPage extends Page {
     if ($this->byline()->isNotEmpty()) {
       return $this->byline()->value();
     }
-    $byline = ucfirst($this->itemType()->value());
+    $byline = ucfirst($this->entryType()->value());
     if ($this->author()->isNotEmpty()) {
       $authors = [];
       foreach ($this->author()->toPages() as $a) {

@@ -2,7 +2,7 @@ Title: Disruption Network Lab
 
 ----
 
-Entitytype: people
+entryType: organization
 
 ----
 
@@ -42,6 +42,3 @@ Importdata: {"id":120,"type":"organization","title":"Disruption Network Lab","by
 
 Relatedentities: 
 
-----
-
-Type: organization

@@ -2,7 +2,7 @@ Title: Mark Duggan Police Shooting: Can Forensic Tech Cast Doubt On Official Rep
 
 ----
 
-Itemtype: project
+entryType: project
 
 ----
 
@@ -72,6 +72,3 @@ Funder:
 
 Platform: 
 
-----
-
-Type: project

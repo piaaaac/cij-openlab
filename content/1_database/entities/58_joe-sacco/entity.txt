@@ -2,7 +2,7 @@ Title: Joe Sacco
 
 ----
 
-Entitytype: people
+entryType: people
 
 ----
 
@@ -42,6 +42,3 @@ Importdata: {"id":127,"type":"people","title":"Joe Sacco","byline":"Cartoonist, 
 
 Relatedentities: 
 
-----
-
-Type: people

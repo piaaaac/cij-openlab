@@ -2,7 +2,7 @@ Title: Nick Ryan
 
 ----
 
-Entitytype: people
+entryType: people
 
 ----
 
@@ -46,6 +46,3 @@ Importdata: {"id":66,"type":"people","title":"Nick Ryan","byline":"Artist","date
 
 Relatedentities: 
 
-----
-
-Type: people

@@ -2,7 +2,7 @@ Title: The V&A
 
 ----
 
-Entitytype: people
+entryType: organization
 
 ----
 
@@ -46,6 +46,3 @@ Importdata: {"id":80,"type":"organization","title":"The V&a","byline":"Museum","
 
 Relatedentities: 
 
-----
-
-Type: organization

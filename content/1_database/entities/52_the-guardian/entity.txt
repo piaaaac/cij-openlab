@@ -2,7 +2,7 @@ Title: The Guardian
 
 ----
 
-Entitytype: people
+entryType: organization
 
 ----
 
@@ -49,6 +49,3 @@ Importdata: {"id":82,"type":"organization","title":"The Guardian","byline":"News
 
 Relatedentities: 
 
-----
-
-Type: organization

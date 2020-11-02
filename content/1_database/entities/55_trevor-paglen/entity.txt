@@ -2,7 +2,7 @@ Title: Trevor Paglen
 
 ----
 
-Entitytype: people
+entryType: people
 
 ----
 
@@ -50,6 +50,3 @@ Importdata: {"id":42,"type":"people","title":"Trevor Paglen","byline":"Artist","
 
 Relatedentities: 
 
-----
-
-Type: people

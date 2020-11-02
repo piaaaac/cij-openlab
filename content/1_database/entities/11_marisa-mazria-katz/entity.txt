@@ -2,7 +2,7 @@ Title: Marisa Mazria Katz
 
 ----
 
-Entitytype: people
+entryType: people
 
 ----
 

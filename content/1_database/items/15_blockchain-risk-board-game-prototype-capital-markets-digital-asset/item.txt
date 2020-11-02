@@ -2,7 +2,7 @@ Title: Blockchain Risk Board Game Prototype: Capital Markets Digital Asset
 
 ----
 
-Itemtype: project
+entryType: project
 
 ----
 
@@ -64,7 +64,3 @@ Funder:
 ----
 
 Platform: 
-
-----
-
-Type: project

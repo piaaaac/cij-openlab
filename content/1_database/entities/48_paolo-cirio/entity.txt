@@ -2,7 +2,7 @@ Title: Paolo Cirio
 
 ----
 
-Entitytype: people
+entryType: people
 
 ----
 
@@ -49,6 +49,3 @@ Importdata: {"id":100,"type":"people","title":"Paolo Cirio","byline":"Artist","d
 
 Relatedentities: 
 
-----
-
-Type: people

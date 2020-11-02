@@ -2,7 +2,7 @@ Title: Jenny Holzer
 
 ----
 
-Entitytype: people
+entryType: people
 
 ----
 
@@ -50,6 +50,3 @@ Importdata: {"id":99,"type":"people","title":"Jenny Holzer","byline":"Artist","d
 
 Relatedentities: 
 
-----
-
-Type: people

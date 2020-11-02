@@ -2,7 +2,7 @@ Title: Goodbye Big Five
 
 ----
 
-Itemtype: project
+entryType: project
 
 ----
 
@@ -66,6 +66,3 @@ Funder:
 
 Platform: 
 
-----
-
-Type: project

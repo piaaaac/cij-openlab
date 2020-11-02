@@ -9,7 +9,7 @@ status:
 
 fields:
 
-  itemType:
+  entryType:
     label: Item type
     type: select
     default: project

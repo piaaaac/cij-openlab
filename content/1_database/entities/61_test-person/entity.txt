@@ -2,7 +2,7 @@ Title: Test person
 
 ----
 
-Entitytype: people
+entryType: people
 
 ----
 

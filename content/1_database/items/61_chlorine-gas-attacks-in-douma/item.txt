@@ -2,7 +2,7 @@ Title: Chlorine Gas Attacks In Douma
 
 ----
 
-Itemtype: project
+entryType: video
 
 ----
 
@@ -65,6 +65,3 @@ Funder:
 
 Platform: 
 
-----
-
-Type: video

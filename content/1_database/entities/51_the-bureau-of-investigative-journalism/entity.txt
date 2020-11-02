@@ -2,7 +2,7 @@ Title: The Bureau Of Investigative Journalism
 
 ----
 
-Entitytype: people
+entryType: organization
 
 ----
 
@@ -46,6 +46,3 @@ Importdata: {"id":77,"type":"organization","title":"The Bureau Of Investigative 
 
 Relatedentities: 
 
-----
-
-Type: organization

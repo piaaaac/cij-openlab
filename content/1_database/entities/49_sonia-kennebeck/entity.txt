@@ -2,7 +2,7 @@ Title: Sonia Kennebeck
 
 ----
 
-Entitytype: people
+entryType: people
 
 ----
 
@@ -49,6 +49,3 @@ Importdata: {"id":46,"type":"people","title":"Sonia Kennebeck","byline":"Directo
 
 Relatedentities: 
 
-----
-
-Type: people

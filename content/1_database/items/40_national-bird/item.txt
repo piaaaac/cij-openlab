@@ -2,7 +2,7 @@ Title: National Bird
 
 ----
 
-Itemtype: project
+entryType: video
 
 ----
 
@@ -64,6 +64,4 @@ Funder:
 
 Platform: 
 
-----
 
-Type: video

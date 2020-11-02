@@ -2,7 +2,7 @@ Title: Art As Evidence
 
 ----
 
-Itemtype: project
+entryType: project
 
 ----
 
@@ -54,6 +54,4 @@ Funder:
 
 Platform: 
 
-----
 
-Type: project

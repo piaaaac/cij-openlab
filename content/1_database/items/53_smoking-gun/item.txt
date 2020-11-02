@@ -2,7 +2,7 @@ Title: Smoking Gun
 
 ----
 
-Itemtype: project
+entryType: project
 
 ----
 
@@ -62,6 +62,3 @@ Funder:
 
 Platform: 
 
-----
-
-Type: project

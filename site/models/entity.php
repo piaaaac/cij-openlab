@@ -5,7 +5,7 @@ class EntityPage extends Page {
 		if ($this->byline()->isNotEmpty()) {
 			return $this->byline()->value();
 		}
-    return ucfirst($this->itemType()->value());
+    return ucfirst($this->entryType()->value());
   }
 
 }

@@ -2,7 +2,7 @@ Title: Artists create a sinister deepfake of Mark Zuckerberg to teach Facebook (
 
 ----
 
-Itemtype: project
+entryType: article
 
 ----
 
@@ -61,6 +61,3 @@ Funder:
 
 Platform: 
 
-----
-
-Type: article

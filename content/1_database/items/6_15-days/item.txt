@@ -2,7 +2,7 @@ Title: 15 Days
 
 ----
 
-Itemtype: project
+entryType: project
 
 ----
 
@@ -68,6 +68,3 @@ Funder:
 
 Platform: 
 
-----
-
-Type: project

@@ -2,7 +2,7 @@ Title: Eyal Weizman
 
 ----
 
-Entitytype: people
+entryType: people
 
 ----
 

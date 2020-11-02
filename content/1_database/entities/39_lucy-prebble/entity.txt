@@ -2,7 +2,7 @@ Title: Lucy Prebble
 
 ----
 
-Entitytype: people
+entryType: people
 
 ----
 
@@ -50,6 +50,3 @@ Importdata: {"id":59,"type":"people","title":"Lucy Prebble","byline":"Director, 
 
 Relatedentities: 
 
-----
-
-Type: people

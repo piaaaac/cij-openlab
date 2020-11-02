@@ -2,7 +2,7 @@ Title: Field Of Vision
 
 ----
 
-Entitytype: people
+entryType: organization
 
 ----
 
@@ -45,7 +45,3 @@ Importdata: {"id":50,"type":"organization","title":"Field Of Vision","byline":""
 ----
 
 Relatedentities: 
-
-----
-
-Type: organization

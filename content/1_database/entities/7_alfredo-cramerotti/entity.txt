@@ -2,7 +2,7 @@ Title: Alfredo Cramerotti
 
 ----
 
-Entitytype: people
+entryType: people
 
 ----
 

@@ -2,7 +2,7 @@ Title: Project X
 
 ----
 
-Itemtype: project
+entryType: video
 
 ----
 
@@ -69,6 +69,3 @@ Funder:
 
 Platform: 
 
-----
-
-Type: video

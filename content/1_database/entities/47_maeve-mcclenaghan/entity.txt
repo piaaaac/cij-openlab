@@ -2,7 +2,7 @@ Title: Maeve Mcclenaghan
 
 ----
 
-Entitytype: people
+entryType: people
 
 ----
 
@@ -49,6 +49,3 @@ Importdata: {"id":60,"type":"people","title":"Maeve Mcclenaghan","byline":"Journ
 
 Relatedentities: 
 
-----
-
-Type: people

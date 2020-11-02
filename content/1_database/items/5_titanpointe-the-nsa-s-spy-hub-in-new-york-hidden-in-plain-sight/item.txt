@@ -2,7 +2,7 @@ Title: Titanpointe: The NSA’s Spy Hub in New York, Hidden in Plain Sight
 
 ----
 
-Itemtype: article
+entryType: article
 
 ----
 

@@ -2,7 +2,7 @@ Title: Natalie Kane
 
 ----
 
-Entitytype: people
+entryType: people
 
 ----
 
@@ -42,6 +42,3 @@ Importdata: {"id":123,"type":"people","title":"Natalie Kane","byline":"Curator O
 
 Relatedentities: 
 
-----
-
-Type: people

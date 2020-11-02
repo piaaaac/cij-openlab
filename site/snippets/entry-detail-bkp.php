@@ -120,7 +120,7 @@ $template = $entry->template() == "item" ? "item" : "entity";
 					<?php 
 					$byType = [];
 					foreach ($relatedItems as $e){
-						$type = $e->itemType()->value();
+						$type = $e->entryType()->value();
 						if (!array_key_exists($type, $byType)) {
 							$byType[$type] = [];
 						}

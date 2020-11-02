@@ -2,7 +2,7 @@ Title: Serial
 
 ----
 
-Itemtype: project
+entryType: podcast
 
 ----
 
@@ -62,6 +62,3 @@ Funder:
 
 Platform: 
 
-----
-
-Type: podcast

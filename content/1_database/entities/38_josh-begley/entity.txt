@@ -2,7 +2,7 @@ Title: Josh Begley
 
 ----
 
-Entitytype: people
+entryType: people
 
 ----
 
@@ -49,6 +49,3 @@ Importdata: {"id":101,"type":"people","title":"Josh Begley","byline":"Artist","d
 
 Relatedentities: 
 
-----
-
-Type: people

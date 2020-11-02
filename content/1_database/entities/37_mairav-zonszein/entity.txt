@@ -2,7 +2,7 @@ Title: Mairav Zonszein
 
 ----
 
-Entitytype: people
+entryType: people
 
 ----
 
@@ -49,6 +49,3 @@ Importdata: {"id":73,"type":"people","title":"Mairav Zonszein","byline":"Journal
 
 Relatedentities: 
 
-----
-
-Type: people

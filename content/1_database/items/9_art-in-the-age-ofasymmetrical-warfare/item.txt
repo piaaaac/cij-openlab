@@ -2,7 +2,7 @@ Title: Art In The Age Of…asymmetrical Warfare
 
 ----
 
-Itemtype: project
+entryType: exhibition
 
 ----
 
@@ -63,6 +63,3 @@ Funder:
 
 Platform: 
 
-----
-
-Type: exhibition

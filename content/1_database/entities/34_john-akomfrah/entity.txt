@@ -2,7 +2,7 @@ Title: John Akomfrah
 
 ----
 
-Entitytype: people
+entryType: people
 
 ----
 
@@ -51,6 +51,3 @@ Importdata: {"id":96,"type":"people","title":"John Akomfrah","byline":"Artist","
 
 Relatedentities: 
 
-----
-
-Type: people

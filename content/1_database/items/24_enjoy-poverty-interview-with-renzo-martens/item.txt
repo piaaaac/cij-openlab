@@ -2,7 +2,7 @@ Title: Enjoy Poverty Interview With Renzo Martens
 
 ----
 
-Itemtype: project
+entryType: interview
 
 ----
 
@@ -64,7 +64,3 @@ Funder:
 ----
 
 Platform: 
-
-----
-
-Type: interview

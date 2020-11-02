@@ -9,7 +9,7 @@ status:
 
 fields:
 
-  entityType:
+  entryType:
     label: Item type
     type: select
     default: people

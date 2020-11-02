@@ -2,7 +2,7 @@ Title: Police brutality at the black lives matter protests
 
 ----
 
-Itemtype: project
+entryType: project
 
 ----
 

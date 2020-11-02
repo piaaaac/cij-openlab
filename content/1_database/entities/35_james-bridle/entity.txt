@@ -2,7 +2,7 @@ Title: James Bridle
 
 ----
 
-Entitytype: people
+entryType: people
 
 ----
 
@@ -46,6 +46,3 @@ Importdata: {"id":93,"type":"people","title":"James Bridle","byline":"Artist","d
 
 Relatedentities: 
 
-----
-
-Type: people

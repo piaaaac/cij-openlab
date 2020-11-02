@@ -2,7 +2,7 @@ Title: Interdependence
 
 ----
 
-Itemtype: project
+entryType: podcast
 
 ----
 
@@ -65,6 +65,3 @@ Funder:
 
 Platform: 
 
-----
-
-Type: podcast

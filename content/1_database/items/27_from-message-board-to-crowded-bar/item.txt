@@ -2,7 +2,7 @@ Title: From Message Board To Crowded Bar
 
 ----
 
-Itemtype: project
+entryType: project
 
 ----
 
@@ -70,6 +70,3 @@ Funder:
 
 Platform: 
 
-----
-
-Type: project

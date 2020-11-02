@@ -2,7 +2,7 @@ Title: Want To Really Block The Tech Giants? Here's How
 
 ----
 
-Itemtype: project
+entryType: project
 
 ----
 
@@ -67,6 +67,3 @@ Funder:
 
 Platform: 
 
-----
-
-Type: project

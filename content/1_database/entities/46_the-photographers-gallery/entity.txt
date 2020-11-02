@@ -2,7 +2,7 @@ Title: The Photographers Gallery
 
 ----
 
-Entitytype: people
+entryType: organization
 
 ----
 
@@ -46,6 +46,3 @@ Importdata: {"id":51,"type":"organization","title":"The Photographers Gallery","
 
 Relatedentities: 
 
-----
-
-Type: organization

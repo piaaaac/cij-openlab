@@ -2,7 +2,7 @@ Title: The Intercept
 
 ----
 
-Entitytype: people
+entryType: organization
 
 ----
 
@@ -46,6 +46,3 @@ Importdata: {"id":78,"type":"organization","title":"The Intercept","byline":"New
 
 Relatedentities: 
 
-----
-
-Type: organization

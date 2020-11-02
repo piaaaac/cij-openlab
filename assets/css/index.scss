@@ -60,6 +60,10 @@ body {
     &.default {
       padding-top: 80px;
     }
+    &.search {
+      padding-top: 80px;
+      background-color: $bg1;
+    }
     &.database {
       background-color: $bg1;
       padding: 40px 0 0 0;
@@ -141,6 +145,40 @@ nav.header {
     background-color: $red; 
     a { color: $red-dark; }
     @include transition(opacity 400ms);
+    .left .icon {
+      display: inline-flex;
+      width: 35px;
+      justify-content: flex-start;
+      align-items: center;
+      img.search { height: 21px; }
+    }
+    .margin { width: 35px; }
+    div#enter {
+      opacity: 0;
+      display: inline-flex;
+      align-items: center;
+      position: absolute;
+      top: 0; left: 0;
+      height: 40px;
+      pointer-events: none;
+      @include font-menu;
+      img { height: 0.9em; }
+      &.show {
+        opacity: 0.5;
+      }
+    }
+    a.zoom-btn {
+      display: flex;
+      width: 40px;
+      height: 40px;
+      align-items: center;
+      justify-content: center;
+      border-left: 1px solid $red-dark;
+      border-right: 1px solid $red-dark;
+    }
+    a.zoom-btn + a.zoom-btn {
+      border-left: 0;
+    }
   }
   &.main, &.sub {
   	height: $header-h;
@@ -307,8 +345,8 @@ body {
     padding-right: $metaSidesW;
     
     column-count: 2;
-    @include media-breakpoint-up(xl) { column-count: 3; }
-    @media only screen and (min-width: 1350px) { column-count: 4; }
+    @include media-breakpoint-up(xl) { column-count: 2; }
+    @media only screen and (min-width: 1350px) { column-count: 3; }
 
     .entry {
       display: inline-block;
@@ -446,12 +484,30 @@ body {
 // SEARCH
 // ------------------------------------------------------------------------
 
+input#search-query {
+  height: 40px;
+  background-color: transparent;
+  color: white;
+  @include font-menu;
+  &::placeholder {
+    color: rgba(255,255,255, 0.5);
+  }
+}
+
 .entry-types {
+  background-color: white;
   height: 80px;
   display: flex;
   flex-flow: row wrap;
   align-items: center;
   justify-content: center;
+  a {
+    color: black;
+    opacity: 0.5;
+    &:hover, &.active {
+      opacity: 1;
+    }
+  }
 }
 
 .search-table {
@@ -474,6 +530,7 @@ body {
       & + .cell {
         padding-left: 20px;
       }
+      &.hide { opacity: 0; }
       overflow: hidden;
       text-overflow: ellipsis;
       white-space: nowrap;

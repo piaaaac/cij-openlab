@@ -2,7 +2,7 @@ Title: Henrik Moltke
 
 ----
 
-Entitytype: people
+entryType: people
 
 ----
 
@@ -49,6 +49,3 @@ Importdata: {"id":68,"type":"people","title":"Henrik Moltke","byline":"Journalis
 
 Relatedentities: 
 
-----
-
-Type: people

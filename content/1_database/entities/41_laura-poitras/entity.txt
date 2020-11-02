@@ -2,7 +2,7 @@ Title: Laura Poitras
 
 ----
 
-Entitytype: people
+entryType: people
 
 ----
 
@@ -47,6 +47,3 @@ Importdata: {"id":47,"type":"people","title":"Laura Poitras","byline":"Director"
 
 Relatedentities: 
 
-----
-
-Type: people

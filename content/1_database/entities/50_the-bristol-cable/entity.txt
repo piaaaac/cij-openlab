@@ -2,7 +2,7 @@ Title: The Bristol Cable
 
 ----
 
-Entitytype: people
+entryType: organization
 
 ----
 
@@ -49,6 +49,3 @@ Importdata: {"id":81,"type":"organization","title":"The Bristol Cable","byline":
 
 Relatedentities: 
 
-----
-
-Type: organization

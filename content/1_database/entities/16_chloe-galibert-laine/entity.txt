@@ -2,7 +2,7 @@ Title: Chloé Galibert-laîné
 
 ----
 
-Entitytype: people
+entryType: people
 
 ----
 
@@ -38,6 +38,3 @@ Importdata: {"id":132,"type":"people","title":"Chlo\u00e9 Galibert-la\u00een\u00
 
 Relatedentities: 
 
-----
-
-Type: people

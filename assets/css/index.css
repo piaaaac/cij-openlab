@@ -238,6 +238,9 @@ body {
     min-height: 100vh; }
     body main.default {
       padding-top: 80px; }
+    body main.search {
+      padding-top: 80px;
+      background-color: #DFE9E5; }
     body main.database {
       background-color: #DFE9E5;
       padding: 40px 0 0 0; }
@@ -336,6 +339,57 @@ nav.header {
     transition: opacity 400ms; }
     nav.header.sub a {
       color: #90311A; }
+    nav.header.sub .left .icon {
+      display: inline-flex;
+      width: 35px;
+      justify-content: flex-start;
+      align-items: center; }
+      nav.header.sub .left .icon img.search {
+        height: 21px; }
+    nav.header.sub .margin {
+      width: 35px; }
+    nav.header.sub div#enter {
+      opacity: 0;
+      display: inline-flex;
+      align-items: center;
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 40px;
+      pointer-events: none;
+      font-family: "MonumentGrotesk", sans-serif;
+      font-size: 18px;
+      letter-spacing: 0.02em;
+      line-height: 1.3em;
+      font-weight: 400;
+      font-style: normal;
+      font-stretch: normal; }
+      @media (min-width: 576px) {
+        nav.header.sub div#enter {
+          font-size: 18px; } }
+      @media (min-width: 768px) {
+        nav.header.sub div#enter {
+          font-size: 18px; } }
+      @media (min-width: 992px) {
+        nav.header.sub div#enter {
+          font-size: 18px; } }
+      @media (min-width: 1200px) {
+        nav.header.sub div#enter {
+          font-size: 18px; } }
+      nav.header.sub div#enter img {
+        height: 0.9em; }
+      nav.header.sub div#enter.show {
+        opacity: 0.5; }
+    nav.header.sub a.zoom-btn {
+      display: flex;
+      width: 40px;
+      height: 40px;
+      align-items: center;
+      justify-content: center;
+      border-left: 1px solid #90311A;
+      border-right: 1px solid #90311A; }
+    nav.header.sub a.zoom-btn + a.zoom-btn {
+      border-left: 0; }
   nav.header.main, nav.header.sub {
     height: 40px;
     display: flex;
@@ -430,10 +484,10 @@ body {
     column-count: 2; }
     @media (min-width: 1200px) {
       body.zoom-level-3 .entries {
-        column-count: 3; } }
+        column-count: 2; } }
     @media only screen and (min-width: 1350px) {
       body.zoom-level-3 .entries {
-        column-count: 4; } }
+        column-count: 3; } }
     body.zoom-level-3 .entries .entry {
       display: inline-block;
       -webkit-transition: opacity 200ms;
@@ -645,12 +699,44 @@ body {
   #filter-alert a.clear:hover, #filter-alert:hover a.clear {
     color: white; }
 
+input#search-query {
+  height: 40px;
+  background-color: transparent;
+  color: white;
+  font-family: "MonumentGrotesk", sans-serif;
+  font-size: 18px;
+  letter-spacing: 0.02em;
+  line-height: 1.3em;
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal; }
+  @media (min-width: 576px) {
+    input#search-query {
+      font-size: 18px; } }
+  @media (min-width: 768px) {
+    input#search-query {
+      font-size: 18px; } }
+  @media (min-width: 992px) {
+    input#search-query {
+      font-size: 18px; } }
+  @media (min-width: 1200px) {
+    input#search-query {
+      font-size: 18px; } }
+  input#search-query::placeholder {
+    color: rgba(255, 255, 255, 0.5); }
+
 .entry-types {
+  background-color: white;
   height: 80px;
   display: flex;
   flex-flow: row wrap;
   align-items: center;
   justify-content: center; }
+  .entry-types a {
+    color: black;
+    opacity: 0.5; }
+    .entry-types a:hover, .entry-types a.active {
+      opacity: 1; }
 
 .search-table {
   margin: 0 -20px;
@@ -674,6 +760,8 @@ body {
       white-space: nowrap; }
       .search-table .search-table-row .cell + .cell {
         padding-left: 20px; }
+      .search-table .search-table-row .cell.hide {
+        opacity: 0; }
       .search-table .search-table-row .cell.image {
         width: 30px;
         height: 30px;

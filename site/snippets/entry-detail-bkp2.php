@@ -40,8 +40,8 @@ elseif ($template == "entity") {
 	// related entities
 
 	if ($entry->relatedEntities()->isNotEmpty()) { 
-		$relPeople 	= $entry->relatedEntities()->toPages()->filterBy("entityType", "people");
-		$relOrgs 		= $entry->relatedEntities()->toPages()->filterBy("entityType", "organization");
+		$relPeople 	= $entry->relatedEntities()->toPages()->filterBy("entryType", "people");
+		$relOrgs 		= $entry->relatedEntities()->toPages()->filterBy("entryType", "organization");
 		if ($relPeople->count() > 0) {
 			$relatedEntries[] = newRelatedEntries("related people", $relPeople, "entity"); }
 		if ($relOrgs->count() > 0) {
@@ -59,7 +59,7 @@ elseif ($template == "entity") {
 	});
 	$relItemsByType = [];
 	foreach ($relItems as $e){
-		$type = $e->itemType()->value();
+		$type = $e->entryType()->value();
 		if (!array_key_exists($type, $relItemsByType)) {
 			$relItemsByType[$type] = [];
 		}
@@ -252,7 +252,7 @@ for each place
 							<?php 
 							$byType = [];
 							foreach ($relatedItems as $e){
-								$type = $e->itemType()->value();
+								$type = $e->entryType()->value();
 								if (!array_key_exists($type, $byType)) {
 									$byType[$type] = [];
 								}
@@ -284,7 +284,7 @@ for each place
 							<?php 
 							$byType = [];
 							foreach ($relatedEntities as $e){
-								$type = $e->entityType()->value();
+								$type = $e->entryType()->value();
 								if (!array_key_exists($type, $byType)) {
 									$byType[$type] = [];
 								}

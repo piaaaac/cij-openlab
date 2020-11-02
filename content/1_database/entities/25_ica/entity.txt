@@ -2,7 +2,7 @@ Title: ICA
 
 ----
 
-Entitytype: people
+entryType: organization
 
 ----
 
@@ -46,6 +46,3 @@ Importdata: {"id":52,"type":"organization","title":"Ica","byline":"","date":"","
 
 Relatedentities: 
 
-----
-
-Type: organization

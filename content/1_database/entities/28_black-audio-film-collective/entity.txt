@@ -2,7 +2,7 @@ Title: Black Audio Film Collective
 
 ----
 
-Entitytype: people
+entryType: organization
 
 ----
 
@@ -38,6 +38,3 @@ Importdata: {"id":95,"type":"organization","title":"Black Audio Film Collective"
 
 Relatedentities: 
 
-----
-
-Type: organization

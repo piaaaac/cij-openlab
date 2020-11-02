@@ -14,8 +14,7 @@ return function ($site) {
 
 	$types = [];
 	foreach ($entries as $e) {
-	  $template = $e->template()->name();
-	  $type = $template == "item" ? $e->itemType()->value() : $e->entityType()->value();
+	  $type = $e->entryType()->value();
 	  if (!array_key_exists($type, $types)) {
 	    $types[$type] = 1;
 	  } else {

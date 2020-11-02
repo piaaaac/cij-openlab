@@ -2,7 +2,7 @@ Title: What Atlanta Can Teach Tech About Cultivating Black Talent
 
 ----
 
-Itemtype: project
+entryType: project
 
 ----
 
@@ -67,6 +67,3 @@ Funder:
 
 Platform: 
 
-----
-
-Type: project

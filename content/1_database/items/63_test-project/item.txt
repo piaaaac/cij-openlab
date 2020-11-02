@@ -2,7 +2,7 @@ Title: Test project
 
 ----
 
-Itemtype: project
+entryType: project
 
 ----
 

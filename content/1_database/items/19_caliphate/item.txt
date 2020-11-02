@@ -2,7 +2,7 @@ Title: Caliphate
 
 ----
 
-Itemtype: project
+entryType: podcast
 
 ----
 
@@ -62,7 +62,3 @@ Funder:
 ----
 
 Platform: 
-
-----
-
-Type: podcast

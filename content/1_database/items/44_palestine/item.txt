@@ -2,7 +2,7 @@ Title: Palestine
 
 ----
 
-Itemtype: project
+entryType: publication
 
 ----
 
@@ -54,6 +54,3 @@ Funder:
 
 Platform: 
 
-----
-
-Type: publication

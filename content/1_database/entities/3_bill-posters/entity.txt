@@ -2,7 +2,7 @@ Title: Bill Posters
 
 ----
 
-Entitytype: people
+entryType: people
 
 ----
 

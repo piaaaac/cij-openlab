@@ -2,7 +2,7 @@ Title: In A First, Palestinians Challenge Israel’s Settlement Enterprise—in 
 
 ----
 
-Itemtype: project
+entryType: project
 
 ----
 
@@ -71,6 +71,4 @@ Funder:
 
 Platform: 
 
-----
 
-Type: project

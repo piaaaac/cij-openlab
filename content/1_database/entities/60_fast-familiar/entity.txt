@@ -2,7 +2,7 @@ Title: Fast Familiar
 
 ----
 
-Entitytype: people
+entryType: organization
 
 ----
 
@@ -46,6 +46,3 @@ Importdata: {"id":83,"type":"organization","title":"Fast Familiar","byline":"Int
 
 Relatedentities: 
 
-----
-
-Type: organization

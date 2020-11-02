@@ -24,7 +24,7 @@ Menu:
   menupage:
     - interchange
   subpages: [ ]
-  visible: 'false'
+  visible: 'true'
   menupagetitle: Interchange
 - 
   menupage:

@@ -2,7 +2,7 @@ Title: Richard Mosse
 
 ----
 
-Entitytype: people
+entryType: people
 
 ----
 
@@ -46,6 +46,3 @@ Importdata: {"id":75,"type":"people","title":"Richard Mosse","byline":"Photograp
 
 Relatedentities: 
 
-----
-
-Type: people

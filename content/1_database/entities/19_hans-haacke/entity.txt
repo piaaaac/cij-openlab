@@ -2,7 +2,7 @@ Title: Hans Haacke
 
 ----
 
-Entitytype: people
+entryType: people
 
 ----
 
@@ -47,6 +47,3 @@ Importdata: {"id":102,"type":"people","title":"Hans Haacke","byline":"Artist","d
 
 Relatedentities: 
 
-----
-
-Type: people

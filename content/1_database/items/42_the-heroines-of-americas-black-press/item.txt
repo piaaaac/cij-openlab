@@ -2,7 +2,7 @@ Title: The Heroines Of America’s Black Press
 
 ----
 
-Itemtype: project
+entryType: project
 
 ----
 
@@ -67,6 +67,4 @@ Funder:
 
 Platform: 
 
-----
 
-Type: project

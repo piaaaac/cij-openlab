@@ -2,7 +2,7 @@ Title: Every Contact Leaves A Trace: Follow The…
 
 ----
 
-Itemtype: project
+entryType: conference
 
 ----
 
@@ -62,7 +62,3 @@ Funder:
 ----
 
 Platform: 
-
-----
-
-Type: conference

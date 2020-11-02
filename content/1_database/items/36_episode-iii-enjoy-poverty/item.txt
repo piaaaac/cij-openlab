@@ -2,7 +2,7 @@ Title: Episode III 'Enjoy Poverty'
 
 ----
 
-Itemtype: project
+entryType: video
 
 ----
 
@@ -59,7 +59,3 @@ Funder:
 ----
 
 Platform: 
-
-----
-
-Type: video

@@ -2,7 +2,7 @@ Title: Rojava 2
 
 ----
 
-Itemtype: project
+entryType: video
 
 ----
 
@@ -63,7 +63,3 @@ Funder:
 ----
 
 Platform: 
-
-----
-
-Type: video

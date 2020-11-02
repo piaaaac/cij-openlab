@@ -2,7 +2,7 @@ Title: ‘They Will Remember Us’: The Miners Of Black Harlan
 
 ----
 
-Itemtype: project
+entryType: project
 
 ----
 
@@ -67,6 +67,3 @@ Funder:
 
 Platform: 
 
-----
-
-Type: project

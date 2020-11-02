@@ -2,7 +2,7 @@ Title: Aesthetic Journalism In Practice
 
 ----
 
-Itemtype: project
+entryType: essay
 
 ----
 
@@ -62,7 +62,3 @@ Funder:
 ----
 
 Platform: 
-
-----
-
-Type: essay

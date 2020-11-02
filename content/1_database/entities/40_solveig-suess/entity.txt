@@ -2,7 +2,7 @@ Title: Solveig Suess
 
 ----
 
-Entitytype: people
+entryType: people
 
 ----
 
@@ -49,6 +49,3 @@ Importdata: {"id":64,"type":"people","title":"Solveig Suess","byline":"Artist \/
 
 Relatedentities: 
 
-----
-
-Type: people

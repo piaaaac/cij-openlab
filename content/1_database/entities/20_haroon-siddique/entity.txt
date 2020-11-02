@@ -2,7 +2,7 @@ Title: Haroon Siddique
 
 ----
 
-Entitytype: people
+entryType: people
 
 ----
 
@@ -50,6 +50,3 @@ Importdata: {"id":74,"type":"people","title":"Haroon Siddique","byline":"Journal
 
 Relatedentities: 
 
-----
-
-Type: people

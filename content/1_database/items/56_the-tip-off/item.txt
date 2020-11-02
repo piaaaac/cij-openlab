@@ -2,7 +2,7 @@ Title: The Tip Off
 
 ----
 
-Itemtype: project
+entryType: podcast
 
 ----
 
@@ -70,6 +70,3 @@ Funder:
 
 Platform: 
 
-----
-
-Type: podcast

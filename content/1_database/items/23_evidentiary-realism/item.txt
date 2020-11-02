@@ -2,7 +2,7 @@ Title: Evidentiary Realism
 
 ----
 
-Itemtype: project
+entryType: exhibition
 
 ----
 
@@ -67,7 +67,3 @@ Funder:
 ----
 
 Platform: 
-
-----
-
-Type: exhibition

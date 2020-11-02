@@ -2,7 +2,7 @@ Title: Mat Dryhurst
 
 ----
 
-Entitytype: people
+entryType: people
 
 ----
 
@@ -49,6 +49,3 @@ Importdata: {"id":62,"type":"people","title":"Mat Dryhurst","byline":"Artist \/ 
 
 Relatedentities: 
 
-----
-
-Type: people

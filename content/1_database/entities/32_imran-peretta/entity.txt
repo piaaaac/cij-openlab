@@ -2,7 +2,7 @@ Title: Imran Peretta
 
 ----
 
-Entitytype: people
+entryType: people
 
 ----
 
@@ -54,6 +54,3 @@ Importdata: {"id":98,"type":"people","title":"Imran Peretta","byline":"Artist","
 
 Relatedentities: 
 
-----
-
-Type: people

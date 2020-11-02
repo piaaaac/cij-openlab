@@ -123,6 +123,40 @@ function App (siteUrl) {
 // FUNCTIONS
 // -------------------------------------------
 
+
+// --- Page Search
+
+function filterTable (target, type) {
+  var isActive = $(target).hasClass("active");
+  var filteredEntries;
+  if (!isActive) {
+    filteredEntries = $("div.search-table-row[data-type='"+ type +"']");
+    $("div.search-table-row").hide();
+    filteredEntries.show();
+    $(".entry-types a").removeClass("active");
+    $(target).addClass("active");
+  } else {
+    filteredEntries = $("div.search-table-row");
+    $("div.search-table-row").show();
+    $(target).removeClass("active");
+  }
+  var counterText = filteredEntries.length == 1 ? "1 ENTRY" : filteredEntries.length +" ENTRIES";
+  $("header .cell.counter").text(counterText);
+}
+
+// --- via https://stackoverflow.com/a/3395975
+function getTextWidth (inputEl) {
+  var tmp = document.createElement("span");
+  tmp.className = "font-menu";
+  tmp.style.whiteSpace = "pre";
+  tmp.innerHTML = inputEl.value.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  document.body.appendChild(tmp);
+  var theWidth = tmp.getBoundingClientRect().width;
+  document.body.removeChild(tmp);
+  return theWidth;
+}
+
+
 // -------------------------------------------
 // EVENTS
 // -------------------------------------------
@@ -222,6 +256,29 @@ $(window).resize(function (e) {
   }
 });
 
+$("input#search-query").on('keyup', function (event) {
+  var inputEl = $("input#search-query")[0];
+  if (event.defaultPrevented) {
+    return; 
+  }
+  var key = event.key || event.keyCode;
+  if (key === 'Enter' || key === 13) {
+    $("search-form").submit();
+  } else {
+    if (inputEl.value.length == 0) {
+      $("#enter").removeClass("show");
+    } else {
+      var pl = 55 + 5 + getTextWidth(inputEl);
+      $("#enter").addClass("show");
+      $("#enter").css("padding-left", pl +"px");
+    }
+  }
+}).on("blur", function () {
+  $("#enter").removeClass("show");
+});
+
+
+
 // -------------------------------------------
 // KEY BINDINGS
 // -------------------------------------------
@@ -235,3 +292,15 @@ document.addEventListener('keyup', function (event) {
     a.closeDetail();
   }
 });
+
+// -------------------------------------------
+// ON READY
+// -------------------------------------------
+
+$(document).ready(function () {
+  $("input#search-query").focus();
+});
+
+
+
+

@@ -2,7 +2,7 @@ Title: Bottled Songs
 
 ----
 
-Itemtype: project
+entryType: project
 
 ----
 
@@ -66,6 +66,3 @@ Funder:
 
 Platform: 
 
-----
-
-Type: project

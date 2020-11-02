@@ -135,4 +135,4 @@ $allPlaces = [];
 a.zoomTo(2);
 </script>
 
-<?php snippet("footer") ?>
+<?php snippet("footer", ["hideFooter" => true]) ?>

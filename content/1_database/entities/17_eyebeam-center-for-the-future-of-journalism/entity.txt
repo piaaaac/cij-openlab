@@ -2,7 +2,7 @@ Title: Eyebeam Center For The Future Of Journalism
 
 ----
 
-Entitytype: people
+entryType: organization
 
 ----
 
@@ -46,7 +46,3 @@ Importdata: {"id":49,"type":"organization","title":"Eyebeam Center For The Futur
 ----
 
 Relatedentities: 
-
-----
-
-Type: organization

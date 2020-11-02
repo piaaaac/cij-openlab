@@ -2,7 +2,7 @@ Title: Sam Lavigne
 
 ----
 
-Entitytype: people
+entryType: people
 
 ----
 
@@ -46,6 +46,3 @@ Importdata: {"id":72,"type":"people","title":"Sam Lavigne","byline":"Artist","da
 
 Relatedentities: 
 
-----
-
-Type: people

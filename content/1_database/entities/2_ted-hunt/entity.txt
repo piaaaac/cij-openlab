@@ -2,7 +2,7 @@ Title: Ted Hunt
 
 ----
 
-Entitytype: people
+entryType: people
 
 ----
 

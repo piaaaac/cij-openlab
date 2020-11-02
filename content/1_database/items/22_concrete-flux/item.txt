@@ -2,7 +2,7 @@ Title: Concrete Flux
 
 ----
 
-Itemtype: project
+entryType: publication
 
 ----
 
@@ -64,7 +64,3 @@ Funder:
 ----
 
 Platform: 
-
-----
-
-Type: publication

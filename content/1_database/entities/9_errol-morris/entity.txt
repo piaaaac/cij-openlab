@@ -2,7 +2,7 @@ Title: Errol Morris
 
 ----
 
-Entitytype: people
+entryType: people
 
 ----
 

@@ -2,7 +2,7 @@ Title: AECD
 
 ----
 
-Entitytype: people
+entryType: organization
 
 ----
 
@@ -49,6 +49,3 @@ Importdata: {"id":109,"type":"organization","title":"Aecd","byline":"","date":"2
 
 Relatedentities: 
 
-----
-
-Type: organization

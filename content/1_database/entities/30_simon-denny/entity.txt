@@ -2,7 +2,7 @@ Title: Simon Denny
 
 ----
 
-Entitytype: people
+entryType: people
 
 ----
 
@@ -50,6 +50,3 @@ Importdata: {"id":70,"type":"people","title":"Simon Denny","byline":"Artist","da
 
 Relatedentities: 
 
-----
-
-Type: people

@@ -2,7 +2,7 @@ Title: Benjamin Grosser
 
 ----
 
-Entitytype: people
+entryType: people
 
 ----
 
@@ -46,6 +46,3 @@ Importdata: {"id":67,"type":"people","title":"Benjamin Grosser","byline":"Artist
 
 Relatedentities: 
 
-----
-
-Type: people

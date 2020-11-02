@@ -2,7 +2,7 @@ Title: Journalism And Art: Complementary And Collaborative Storytelling
 
 ----
 
-Itemtype: project
+entryType: essay
 
 ----
 
@@ -62,7 +62,3 @@ Funder:
 ----
 
 Platform: 
-
-----
-
-Type: essay

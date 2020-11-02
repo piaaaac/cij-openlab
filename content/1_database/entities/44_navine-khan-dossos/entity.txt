@@ -2,7 +2,7 @@ Title: Navine Khan Dossos
 
 ----
 
-Entitytype: people
+entryType: people
 
 ----
 
@@ -46,6 +46,3 @@ Importdata: {"id":76,"type":"people","title":"Navine Khan Dossos","byline":"Arti
 
 Relatedentities: 
 
-----
-
-Type: people

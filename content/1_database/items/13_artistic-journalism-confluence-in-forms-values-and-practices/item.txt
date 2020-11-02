@@ -2,7 +2,7 @@ Title: Artistic Journalism: Confluence In Forms, Values And Practices
 
 ----
 
-Itemtype: project
+entryType: paper
 
 ----
 
@@ -63,6 +63,3 @@ Funder:
 
 Platform: 
 
-----
-
-Type: paper

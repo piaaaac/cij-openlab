@@ -2,7 +2,7 @@ Title: Best Of Luck With The Wall
 
 ----
 
-Itemtype: project
+entryType: project
 
 ----
 
@@ -67,7 +67,3 @@ Funder:
 ----
 
 Platform: 
-
-----
-
-Type: project

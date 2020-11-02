@@ -2,7 +2,7 @@ Title: Molly Crabapple
 
 ----
 
-Entitytype: people
+entryType: people
 
 ----
 

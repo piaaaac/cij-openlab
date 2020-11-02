@@ -2,7 +2,7 @@ Title: Tax Havens: Normalized Grand Theft
 
 ----
 
-Itemtype: publication
+entryType: publication
 
 ----
 

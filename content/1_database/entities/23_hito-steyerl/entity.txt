@@ -2,7 +2,7 @@ Title: Hito Steyerl
 
 ----
 
-Entitytype: people
+entryType: people
 
 ----
 
@@ -47,6 +47,3 @@ Importdata: {"id":94,"type":"people","title":"Hito Steyerl","byline":"Artist","d
 
 Relatedentities: 
 
-----
-
-Type: people
