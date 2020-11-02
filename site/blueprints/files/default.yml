@@ -1,0 +1,6 @@
+title: Default File
+
+fields:
+  caption:
+    label: Caption
+    type: textarea

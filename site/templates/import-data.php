@@ -1,5 +1,9 @@
 <?php
 
+/**********************************
+IMPORT FROM CSV (Translated to JSON)
+
+
 $kirby = kirby();
 $kirby->impersonate('kirby');
 
@@ -2301,6 +2305,92 @@ foreach ($data as $d) {
   }
 
 }
+
+
+*/
+
+/**********************************
+Update urls (from imported json data)
+*/
+
+$kirby = kirby();
+$kirby->impersonate('kirby');
+
+$entries = page("items")->children()->listed()->add(page("entities")->children()->listed());
+
+foreach ($entries as $e) {
+  if ($e->importData()->isEmpty()) {
+    echo "\n--- no json data for ". $e->uid();
+    continue;
+  }
+  $data = json_decode($e->importData()->value(), true);
+  if (json_last_error() !== JSON_ERROR_NONE) {
+    echo "\n--- error parsing json for ". $e->uid();
+    continue;
+  }
+
+  $urls = [];
+  if($u = $data["url1"]) { $urls[] = ["linkText" => urlType ($u), "linkUrl" => $u]; }
+  if($u = $data["url2"]) { $urls[] = ["linkText" => urlType ($u), "linkUrl" => $u]; }
+  if($u = $data["url3"]) { $urls[] = ["linkText" => urlType ($u), "linkUrl" => $u]; }
+  // print_r($urls);
+
+  $i = 0;
+  foreach ($urls as $u) {
+    addToStructure($e, 'links',[
+      'linkUrl'   => $u["linkUrl"],
+      'linkText'  => $u["linkText"]
+    ]);
+    $i++;
+  }
+
+  echo "\nadded $i links to ". $e->uid();
+  // break;
+
+}
+$kirby->impersonate();
+
+
+
+
+function urlType ($url) {
+  if (strpos($url, "twitter") !== false) { return "Twitter"; }
+  elseif (strpos($url, "vimeo") !== false) { return "Vimeo"; }
+  elseif (strpos($url, "instagram") !== false) { return "Instagram"; }
+  elseif (strpos($url, "youtube") !== false) { return "Youtube"; }
+  elseif (stringEndsWith($url, "pdf", false)) { return "PDF"; }
+  else { 
+    return parse_url($url)["host"];
+  }
+}
+
+function stringEndsWith($haystack, $needle, $case = true) {
+  $expectedPosition = strlen($haystack) - strlen($needle);
+  if ($case) {
+    return strrpos($haystack, $needle, 0) === $expectedPosition;
+  }
+  return strripos($haystack, $needle, 0) === $expectedPosition;
+}
+
+function addToStructure($page, $field, $data = array()){
+  $fieldData = page($page)->$field()->yaml();
+  $fieldData[] = $data;
+  $fieldData = yaml::encode($fieldData);
+  try {
+    page($page)->update(array($field => $fieldData),'de');
+  } catch(Exception $e) {
+    return $e->getMessage();
+  }
+}
+ 
+
+
+
+
+
+
+
+
 
 
 

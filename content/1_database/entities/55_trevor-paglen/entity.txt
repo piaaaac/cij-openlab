@@ -1,0 +1,55 @@
+Title: Trevor Paglen
+
+----
+
+Entitytype: people
+
+----
+
+Byline: Artist
+
+----
+
+Img:
+
+- trevor-paglen.jpg
+
+----
+
+Links:
+
+- 
+  linkurl: http://www.paglen.com/
+  linktext: www.paglen.com
+- 
+  linkurl: >
+    https://theintercept.com/2014/02/10/new-photos-of-nsa-and-others/
+  linktext: theintercept.com
+
+----
+
+Description: Trevor Paglen's work blurs lines between contemporary art, journalism, science and other disciplines to construct unfamiliar, yet meticulously researched ways to see and interpret the world around us.
+
+----
+
+Topics: artist, surveillance, tech
+
+----
+
+Geo: Germany
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":42,"type":"people","title":"Trevor Paglen","byline":"Artist","date":"","full-text":"Trevor Paglen's work blurs lines between contemporary art, journalism, science and other disciplines to construct unfamiliar, yet meticulously researched ways to see and interpret the world around us.","image":"https:\/\/theintercept.com\/2014\/02\/10\/new-photos-of-nsa-and-others\/","url1":"http:\/\/www.paglen.com\/","url2":"https:\/\/theintercept.com\/2014\/02\/10\/new-photos-of-nsa-and-others\/","url3":"","topics":"artist, surveillance, tech","related-country":"Germany","related-people-org-project":"","role":"","added by":"CIJ","imported":""}
+
+----
+
+Relatedentities: 
+
+----
+
+Type: people

@@ -7,80 +7,131 @@ title: Dashboard
 
 tabs:
 
-  database:
-    label: Database
-    columns:
+  # database:
+  #   label: Database
+  #   columns:
 
-      - width: 1/2
-        sections:
+  #     - width: 1/2
+  #       sections:
 
-          titleCol1:
-            type: fields
-            fields:
-              title1:
-                label: Items
-                type: headline
+  #         titleCol1:
+  #           type: fields
+  #           fields:
+  #             title1:
+  #               label: Items
+  #               type: headline
 
-          draftItems:
-            headline: Drafts
-            type: pages
-            status: draft
-            parent: site.find('items')
-            templates: item
+  #         draftItems:
+  #           headline: Drafts
+  #           type: pages
+  #           status: draft
+  #           parent: site.find('items')
+  #           templates: item
 
-          unlistedItems:
-            headline: In review
-            type: pages
-            status: unlisted
-            parent: site.find('items')
-            templates: item
+  #         unlistedItems:
+  #           headline: In review
+  #           type: pages
+  #           status: unlisted
+  #           parent: site.find('items')
+  #           templates: item
 
-          listedItems:
-            headline: Published
-            type: pages
-            status: listed
-            parent: site.find('items')
-            templates: item
+  #         listedItems:
+  #           headline: Published
+  #           type: pages
+  #           status: listed
+  #           parent: site.find('items')
+  #           templates: item
 
-      - width: 1/2
-        sections:
+  #     - width: 1/2
+  #       sections:
 
-          titleCol2:
-            type: fields
-            fields:
-              title2:
-                label: People/Organizations
-                type: headline
+  #         titleCol2:
+  #           type: fields
+  #           fields:
+  #             title2:
+  #               label: People/Organizations
+  #               type: headline
 
-          draftEntities:
-            headline: Drafts
-            type: pages
-            status: draft
-            parent: site.find('entities')
-            templates: entity
+  #         draftEntities:
+  #           headline: Drafts
+  #           type: pages
+  #           status: draft
+  #           parent: site.find('entities')
+  #           templates: entity
 
-          unlistedEntities:
-            headline: In review
-            type: pages
-            status: unlisted
-            parent: site.find('entities')
-            templates: entity
+  #         unlistedEntities:
+  #           headline: In review
+  #           type: pages
+  #           status: unlisted
+  #           parent: site.find('entities')
+  #           templates: entity
 
-          listedEntities:
-            headline: Published
-            type: pages
-            status: listed
-            parent: site.find('entities')
-            templates: entity
+  #         listedEntities:
+  #           headline: Published
+  #           type: pages
+  #           status: listed
+  #           parent: site.find('entities')
+  #           templates: entity
 
   otherPages:
-    label: Other pages
+    label: Pages
     sections:
 
       sitePages:
         type: pages
         headline: Site pages
         type: pages
-        # status: draft
+        # templates:
+        #   - database
+        #   - database
+        #   - essays
+
+  settings:
+    label: Settings
+    sections:
+
+      menuSection:
+        type: fields
+        fields:
+
+          menu:
+            type: structure
+            label: Menu
+            fields:
+              
+              # menuPageTitle:
+              #   label: Title in menu
+              #   type: text
+              #   width: 1/4
+
+              menuPage:
+                label: Page
+                type: pages
+                min: 1
+                max: 1
+                width: 1/4
+              
+              subpages:
+                label: Submenu
+                type: pages
+                width: 1/4
+
+              visible:
+                label: Visible
+                type: toggle
+                default: true
+                text:
+                  - "No"
+                  - "Yes"
+                width: 1/4
+
+
+
+
+
+
+
+
+
 
 

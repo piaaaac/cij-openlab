@@ -1,0 +1,70 @@
+Title: Aesthetic Journalism
+
+----
+
+Itemtype: project
+
+----
+
+Byline: Alfredo Cramerotti
+
+----
+
+Img:
+
+- aesthetic-j.jpg
+
+----
+
+Links:
+
+- 
+  linkurl: >
+    https://www.intellectbooks.com/aesthetic-journalism
+  linktext: www.intellectbooks.com
+
+----
+
+Year: 2009
+
+----
+
+Description: Addressing a growing area of focus in contemporary art, Aesthetic Journalism investigates why contemporary art exhibitions often consist of interviews, documentaries, and reportage. Art theorist and critic Alfredo Cramerotti traces the shift in the production of truth from the domain of the news media to that of art and aestheticism—a change that questions the very foundations of journalism and the nature of art. This volume challenges the way we understand art and journalism in contemporary culture and suggests future developments of this new relationship.
+
+----
+
+Topics: aesthetic journalism, book, publication
+
+----
+
+Geo: UK
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":16,"type":"publication","title":"Aesthetic Journalism","byline":"Alfredo Cramerotti","date":"2009","full-text":"Addressing a growing area of focus in contemporary art, Aesthetic Journalism investigates why contemporary art exhibitions often consist of interviews, documentaries, and reportage. Art theorist and critic Alfredo Cramerotti traces the shift in the production of truth from the domain of the news media to that of art and aestheticism\u2014a change that questions the very foundations of journalism and the nature of art. This volume challenges the way we understand art and journalism in contemporary culture and suggests future developments of this new relationship.","image":"https:\/\/www.intellectbooks.com\/aesthetic-journalism","url1":"https:\/\/www.intellectbooks.com\/aesthetic-journalism","url2":"","url3":"","topics":"aesthetic journalism, book, publication","related-country":"UK","related-people-org-project":41,"role":"","added by":"CIJ","imported":""}
+
+----
+
+Author:
+
+- database/entities/alfredo-cramerotti
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 
+
+----
+
+Type: publication

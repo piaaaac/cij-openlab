@@ -1,0 +1,21 @@
+title: Essays
+
+sections:
+
+  draftItems:
+    headline: Drafts
+    type: pages
+    status: draft
+    templates: essay
+
+  unlistedItems:
+    headline: In review
+    type: pages
+    status: unlisted
+    templates: essay
+
+  listedItems:
+    headline: Published
+    type: pages
+    status: listed
+    templates: essay

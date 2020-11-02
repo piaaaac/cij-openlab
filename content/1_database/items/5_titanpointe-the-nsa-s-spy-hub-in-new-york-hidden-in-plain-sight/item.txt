@@ -1,0 +1,71 @@
+Title: Titanpointe: The NSA’s Spy Hub in New York, Hidden in Plain Sight
+
+----
+
+Itemtype: article
+
+----
+
+Byline: Ryan Gallagher, Henrik Moltke for The Intercept
+
+----
+
+Img:
+
+- titanpointe.jpg
+
+----
+
+Links:
+
+- 
+  linkurl: >
+    https://theintercept.com/2016/11/16/the-nsas-spy-hub-in-new-york-hidden-in-plain-sight/
+  linktext: theintercept.com
+- 
+  linkurl: https://fieldofvision.org/project-x
+  linktext: fieldofvision.org
+
+----
+
+Year: 2016
+
+----
+
+Description: This article is the product of a joint reporting project between The Intercept and Field of Vision. “Project X,” a Field of Vision documentary directed by Henrik Moltke and Laura Poitras, will screen at IFC Center starting November 18.
+
+----
+
+Topics: surveillance, US government, NSA, project X
+
+----
+
+Geo: USA
+
+----
+
+Addedby: - wBvyX8MO
+
+----
+
+Importdata: 
+
+----
+
+Author: 
+
+----
+
+Commission:
+
+- database/entities/the-guardian
+
+----
+
+Funder: 
+
+----
+
+Platform:
+
+- database/entities/the-guardian

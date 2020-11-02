@@ -1,0 +1,68 @@
+Title: Artistic Journalism: Confluence In Forms, Values And Practices
+
+----
+
+Itemtype: project
+
+----
+
+Byline: Mark Deuze
+
+----
+
+Img:
+
+- journalism-studies.jpg
+
+----
+
+Links:
+
+- 
+  linkurl: >
+    https://www.tandfonline.com/doi/full/10.1080/1461670X.2020.1745666
+  linktext: www.tandfonline.com
+
+----
+
+Year: 2020
+
+----
+
+Description: In the context of changing values, practices and working arrangements, the worlds of journalism and art converge. Evaluating these professions in conflux and beyond their (supposed) opposing ideologies and discourses, remains both controversial and complex. Through a critical hermeneutic analysis, this paper highlights key areas of tension regarding the confluence of journalism and arts. It is argued that journalism is and always has been inextricably interwoven with the arts, a shared existence not limited to Western democracies. The article proposes a continuum as a theoretical model for mapping and exploring the coexistence of artistic and journalistic approaches of news and news work. This “arts and journalism” continuum offers a potentially fruitful dimension of studying news work as a form of artistic practice in a variety of contexts. In conclusion, a consideration of “Artistic Journalism” is proposed as a way for the profession to articulate its creative foundation with its goal to pursue the truth, including the intrinsic and affective motivations of its practitioners.
+
+----
+
+Topics: art, journalism, paper
+
+----
+
+Geo: Netherlands
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":25,"type":"paper","title":"Artistic Journalism: Confluence In Forms, Values And Practices","byline":"Mark Deuze","date":"2020","full-text":"In the context of changing values, practices and working arrangements, the worlds of journalism and art converge. Evaluating these professions in conflux and beyond their (supposed) opposing ideologies and discourses, remains both controversial and complex. Through a critical hermeneutic analysis, this paper highlights key areas of tension regarding the confluence of journalism and arts. It is argued that journalism is and always has been inextricably interwoven with the arts, a shared existence not limited to Western democracies. The article proposes a continuum as a theoretical model for mapping and exploring the coexistence of artistic and journalistic approaches of news and news work. This \u201carts and journalism\u201d continuum offers a potentially fruitful dimension of studying news work as a form of artistic practice in a variety of contexts. In conclusion, a consideration of \u201cArtistic Journalism\u201d is proposed as a way for the profession to articulate its creative foundation with its goal to pursue the truth, including the intrinsic and affective motivations of its practitioners.","image":"","url1":"https:\/\/www.tandfonline.com\/doi\/full\/10.1080\/1461670X.2020.1745666","url2":"","url3":"","topics":"art, journalism, paper","related-country":"Nl","related-people-org-project":"","role":"","added by":"CIJ","imported":""}
+
+----
+
+Author: 
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 
+
+----
+
+Type: paper

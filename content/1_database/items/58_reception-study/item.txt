@@ -1,0 +1,68 @@
+Title: Reception Study
+
+----
+
+Itemtype: project
+
+----
+
+Byline: Nick Ryan With Sean Malikides
+
+----
+
+Img:
+
+- reception-study.jpg
+
+----
+
+Links:
+
+- 
+  linkurl: >
+    https://kailaboratory.com/reception-study
+  linktext: kailaboratory.com
+
+----
+
+Year: 2018
+
+----
+
+Description: Reception Study is an interactive sound art work by artist Nick Ryan, in collaboration with mechatronics engineer Sean Malikides.An eight minute loop of intercut BBC TV News footage reporting conflicts in Yemen, Syria, Ukraine and North Korea is projected onto a large screen at one end of the theatre. In front of the screen five navigable fields of light subdivide the space, each of which affords an alternative interpretation of the footage through sound.Viewers are given headphones modified with a be- spoke photosensitive receiver device that senses light and decodes sound vibrations embedded within each field. By walking closer to or further away from the screen and into a particular field the viewer is able to directly influ- ence what they hear as an accompaniment or ‘score’ to the footage they see. Close to the screen the viewer will find an emotional musical accompaniment, borrowing from film drama and computer games such as Lord of theRings and Call of Duty. As the viewer moves further away from the screen what they hear becomes increasingly ‘neutral’ and theoretically of less influence on the image. Towards the back of the room the footage is reunited with its original news soundtrack comprising commentary and sound captured on location by TV News crew. Furthest from the screen, where the viewer’s perspective is widest, only the diegetic environmental sounds of each clip are left, carefully rebuilt using film foley and sound effects techniques, to convey a version of unobserved reality.Reception Study presents the viewer as a ‘co-author’ in what is seen by allowing them to experience how the feeling and meaning of images can be profoundly altered by sound. It thus proposes an analogy to the inevitable disconnect between text and interpretation, reminding us that meaning is not inherent in the text itself but created both within the relationship between text and reader and in the reader’s imagination.
+
+----
+
+Topics: sound, bbc news, truth
+
+----
+
+Geo: UK
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":2,"type":"project","title":"Reception Study","byline":"Nick Ryan With Sean Malikides","date":"2018","full-text":"Reception Study is an interactive sound art work by artist Nick Ryan, in collaboration with mechatronics engineer Sean Malikides.An eight minute loop of intercut BBC TV News footage reporting conflicts in Yemen, Syria, Ukraine and North Korea is projected onto a large screen at one end of the theatre. In front of the screen five navigable fields of light subdivide the space, each of which affords an alternative interpretation of the footage through sound.Viewers are given headphones modified with a be- spoke photosensitive receiver device that senses light and decodes sound vibrations embedded within each field. By walking closer to or further away from the screen and into a particular field the viewer is able to directly influ- ence what they hear as an accompaniment or \u2018score\u2019 to the footage they see. Close to the screen the viewer will find an emotional musical accompaniment, borrowing from film drama and computer games such as Lord of theRings and Call of Duty. As the viewer moves further away from the screen what they hear becomes increasingly \u2018neutral\u2019 and theoretically of less influence on the image. Towards the back of the room the footage is reunited with its original news soundtrack comprising commentary and sound captured on location by TV News crew. Furthest from the screen, where the viewer\u2019s perspective is widest, only the diegetic environmental sounds of each clip are left, carefully rebuilt using film foley and sound effects techniques, to convey a version of unobserved reality.Reception Study presents the viewer as a \u2018co-author\u2019 in what is seen by allowing them to experience how the feeling and meaning of images can be profoundly altered by sound. It thus proposes an analogy to the inevitable disconnect between text and interpretation, reminding us that meaning is not inherent in the text itself but created both within the relationship between text and reader and in the reader\u2019s imagination.","image":"https:\/\/kailaboratory.com\/reception-study","url1":"https:\/\/kailaboratory.com\/reception-study","url2":"","url3":"","topics":"sound, bbc news, truth","related-country":"UK","related-people-org-project":66,"role":"","added by":"CIJ","imported":""}
+
+----
+
+Author: 
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 
+
+----
+
+Type: project

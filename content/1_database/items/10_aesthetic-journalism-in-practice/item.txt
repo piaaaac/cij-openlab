@@ -1,0 +1,68 @@
+Title: Aesthetic Journalism In Practice
+
+----
+
+Itemtype: project
+
+----
+
+Byline: Maeve Connolly For Variant
+
+----
+
+Img:
+
+- aesthetic-j-i-p.jpg
+
+----
+
+Links:
+
+- 
+  linkurl: >
+    https://www.variant.org.uk/pdfs/issue39_40/V39_40_AestheticJ.pdf
+  linktext: PDF
+
+----
+
+Year: 2010
+
+----
+
+Description: 
+
+----
+
+Topics: aesthetic journalism, art, journalism
+
+----
+
+Geo: 
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":33,"type":"essay","title":"Aesthetic Journalism In Practice","byline":"Maeve Connolly For Variant","date":"2010","full-text":"","image":"https:\/\/www.variant.org.uk\/pdfs\/issue39_40\/V39_40_AestheticJ.pdf","url1":"https:\/\/www.variant.org.uk\/pdfs\/issue39_40\/V39_40_AestheticJ.pdf","url2":"","url3":"","topics":"aesthetic journalism, art, journalism","related-country":"","related-people-org-project":"","role":"","added by":"CIJ","imported":""}
+
+----
+
+Author: 
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 
+
+----
+
+Type: essay

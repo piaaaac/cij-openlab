@@ -1,0 +1,10 @@
+title: Explore
+template: page
+sidebar: false
+
+fields:
+  info:
+    label: ""
+    type: info
+    text: |
+      No options available for this page.

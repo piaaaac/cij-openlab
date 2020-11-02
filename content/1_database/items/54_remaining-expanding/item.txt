@@ -1,0 +1,70 @@
+Title: Remaining & Expanding
+
+----
+
+Itemtype: project
+
+----
+
+Byline: Navine Khan Dossos
+
+----
+
+Img:
+
+- blank.png
+
+----
+
+Links:
+
+- 
+  linkurl: >
+    http://www.khandossos.com/works/command-print/expanding-remaining/
+  linktext: www.khandossos.com
+
+----
+
+Year: 2016
+
+----
+
+Description: Remaining and Expanding comes out of the artist’s ongoing research into Islamic State propaganda, and in particular its online magazine Dabiq. Thirty-six panel paintings are constructed from the design and layouts of page-spreads from one issue; transformed – in the absence of their controversial contents – into pure form and colour so the viewer can consider the structures rather than content of propaganda. The palette is made up of CMYK and RGB, moving from the printed image to the screen image.
+
+----
+
+Topics: isis, propaganda
+
+----
+
+Geo: UK, Syria, Iraq
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":107,"type":"project","title":"Remaining & Expanding","byline":"Navine Khan Dossos","date":"2016","full-text":"Remaining and Expanding comes out of the artist\u2019s ongoing research into Islamic State propaganda, and in particular its online magazine Dabiq. Thirty-six panel paintings are constructed from the design and layouts of page-spreads from one issue; transformed \u2013 in the absence of their controversial contents \u2013 into pure form and colour so the viewer can consider the structures rather than content of propaganda. The palette is made up of CMYK and RGB, moving from the printed image to the screen image.","image":"http:\/\/www.khandossos.com\/works\/command-print\/expanding-remaining\/","url1":"http:\/\/www.khandossos.com\/works\/command-print\/expanding-remaining\/","url2":"","url3":"","topics":"isis, propaganda,","related-country":"UK, Syria, Iraq","related-people-org-project":76,"role":"","added by":"CIJ","imported":""}
+
+----
+
+Author:
+
+- database/entities/navine-khan-dossos
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 
+
+----
+
+Type: project

@@ -1,0 +1,25 @@
+Title: Black lives matter
+
+----
+
+Text: 
+
+----
+
+Entries:
+
+- >
+  items/what-atlanta-can-teach-tech-about-cultivating-black-talent
+- >
+  items/police-brutality-at-the-black-lives-matter-protests
+- >
+  items/mark-duggan-police-shooting-can-forensic-tech-cast-doubt-on-official-report
+- >
+  items/the-heroines-of-americas-black-press
+- entities/forensic-architecture
+- entities/black-audio-film-collective
+- entities/john-akomfrah
+
+----
+
+Curator: entities/test-person

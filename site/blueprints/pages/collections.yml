@@ -1,0 +1,21 @@
+title: Collections
+
+sections:
+
+  draftItems:
+    headline: Drafts
+    type: pages
+    status: draft
+    templates: collection
+
+  unlistedItems:
+    headline: In review
+    type: pages
+    status: unlisted
+    templates: collection
+
+  listedItems:
+    headline: Published
+    type: pages
+    status: listed
+    templates: collection

@@ -1,0 +1,54 @@
+Title: Solveig Suess
+
+----
+
+Entitytype: people
+
+----
+
+Byline: Artist / Researcher
+
+----
+
+Img:
+
+- suess-solveig.jpg
+
+----
+
+Links:
+
+- 
+  linkurl: http://concreteflux.com/
+  linktext: concreteflux.com
+- 
+  linkurl: https://geocinema.network/
+  linktext: geocinema.network
+
+----
+
+Description: Solveig Suess is a filmmaker and designer whose work researches the uneven relations felt across infrastructures of migration, trade, media, and other circuits. She works in-collaboration on the episodic research and film project Geocinema and is co-producer of 流泥 Concrete Flux, an experimental documentary platform that publishes accounts of aesthetic journalism.
+
+----
+
+Topics: aesthetic journalism, art, graphic design
+
+----
+
+Geo: UK
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":64,"type":"people","title":"Solveig Suess","byline":"Artist \/ Researcher","date":"","full-text":"Solveig Suess is a filmmaker and designer whose work researches the uneven relations felt across infrastructures of migration, trade, media, and other circuits. She works in-collaboration on the episodic research and film project Geocinema and is co-producer of \u6d41\u6ce5 Concrete Flux, an experimental documentary platform that publishes accounts of aesthetic journalism.","image":"https:\/\/www.google.com\/search?q=SOLVEIG+SUESS&rlz=1C5CHFA_enGB847GB847&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiR9r22vdfrAhX7TRUIHeVrCsUQ_AUoAXoECBYQAw&biw=1280&bih=666","url1":"http:\/\/concreteflux.com\/","url2":"https:\/\/geocinema.network\/","url3":"","topics":"aesthetic journalism, art, graphic design","related-country":"UK","related-people-org-project":"15, 63","role":"","added by":"CIJ","imported":""}
+
+----
+
+Relatedentities: 
+
+----
+
+Type: people

@@ -1,4 +1,6 @@
 title: Items
+options:
+  changeStatus: false
 
 sections:
 

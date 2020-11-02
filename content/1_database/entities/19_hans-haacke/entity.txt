@@ -1,0 +1,52 @@
+Title: Hans Haacke
+
+----
+
+Entitytype: people
+
+----
+
+Byline: Artist
+
+----
+
+Img:
+
+- jphaacke2-superjumbo.jpg
+
+----
+
+Links:
+
+- 
+  linkurl: >
+    https://www.tate.org.uk/art/artists/hans-haacke-2217
+  linktext: www.tate.org.uk
+
+----
+
+Description: Hans Haacke is a German-born artist who lives and works in New York City. Haacke is considered a "leading exponent" of Institutional Critique.
+
+----
+
+Topics: 
+
+----
+
+Geo: Germany, USA
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":102,"type":"people","title":"Hans Haacke","byline":"Artist","date":"","full-text":"Hans Haacke is a German-born artist who lives and works in New York City. Haacke is considered a \"leading exponent\" of Institutional Critique.","image":"https:\/\/www.nytimes.com\/2014\/10\/24\/arts\/design\/hans-haacke-gets-establishment-nod-of-approval.html","url1":"https:\/\/www.tate.org.uk\/art\/artists\/hans-haacke-2217","url2":"","url3":"","topics":"","related-country":"Germany, USA","related-people-org-project":113,"role":"","added by":"CIJ","imported":""}
+
+----
+
+Relatedentities: 
+
+----
+
+Type: people

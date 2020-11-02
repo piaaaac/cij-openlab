@@ -1,0 +1,75 @@
+Title: From Message Board To Crowded Bar
+
+----
+
+Itemtype: project
+
+----
+
+Byline: Celine Wong Katzman, Angela Washko For The Nation
+
+----
+
+Img:
+
+- from-message-board.jpg
+
+----
+
+Links:
+
+- 
+  linkurl: >
+    https://www.eyebeam.org/eyebeam-center-for-the-future-of-journalism/
+  linktext: www.eyebeam.org
+- 
+  linkurl: >
+    https://www.thenation.com/article/culture/the-game-video-game-essay/
+  linktext: www.thenation.com
+
+----
+
+Year: 2019
+
+----
+
+Description: Artist Angela Washko gives us a behind-the-scenes look into her latest video game, “The Game: The Game,” which exposes misogyny from lived-experience to online message boards. “The Game” allows for players to recognize the patterns of the male-seduction community through a simulation that interacts with infamous pick-up artists.
+
+----
+
+Topics: 
+
+----
+
+Geo: USA
+
+----
+
+Addedby: EYEBEAM
+
+----
+
+Importdata: {"id":89,"type":"project","title":"From Message Board To Crowded Bar","byline":"Celine Wong Katzman, Angela Washko For The Nation","date":"2019","full-text":"Artist Angela Washko gives us a behind-the-scenes look into her latest video game, \u201cThe Game: The Game,\u201d which exposes misogyny from lived-experience to online message boards. \u201cThe Game\u201d allows for players to recognize the patterns of the male-seduction community through a simulation that interacts with infamous pick-up artists.","image":"https:\/\/www.eyebeam.org\/eyebeam-center-for-the-future-of-journalism\/","url1":"https:\/\/www.eyebeam.org\/eyebeam-center-for-the-future-of-journalism\/","url2":"https:\/\/www.thenation.com\/article\/culture\/the-game-video-game-essay\/","url3":"","topics":"","related-country":"USA","related-people-org-project":"45, 49","role":"","added by":"EYEBEAM","imported":""}
+
+----
+
+Author:
+
+- database/entities/marisa-mazria-katz
+- database/entities/eyebeam-center-for-the-future-of-journalism
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 
+
+----
+
+Type: project

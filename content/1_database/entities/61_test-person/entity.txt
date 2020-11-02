@@ -1,0 +1,56 @@
+Title: Test person
+
+----
+
+Entitytype: people
+
+----
+
+Byline: Artist
+
+----
+
+Img:
+
+- rectangle-copy-5.png
+
+----
+
+Links:
+
+- 
+  linkurl: https://alexpiacentini.com
+  linktext: alexpiacentini.com
+- 
+  linkurl: https://twitter.com/piaaaac
+  linktext: Twitter
+- 
+  linkurl: https://instagram.com/piaaaac
+  linktext: Instagram
+
+----
+
+Description: Donec sagittis nunc id erat aliquam blandit. Ut in sapien magna. Mauris lacus ex, pretium nec odio sit amet, gravida faucibus nisi. Fusce vel nisi scelerisque, gravida purus at, hendrerit purus. Nulla efficitur lorem sit amet scelerisque sagittis. Vestibulum sit amet pellentesque nibh. Nulla id mollis est. In non vestibulum dui, at malesuada quam. Phasellus fermentum tempor purus ac tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed turpis sed ipsum vehicula bibendum imperdiet in orci. In vel vestibulum nisi. Vestibulum sit amet pellentesque nibh. Nulla id mollis est. In non vestibulum dui, at malesuada quam. Phasellus fermentum tempor purus ac tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed turpis sed ipsum vehicula bibendum imperdiet in orci. In vel vestibulum nisi.
+
+----
+
+Topics: digital, exhibitions
+
+----
+
+Geo: Italy
+
+----
+
+Addedby: Alex Piacentini
+
+----
+
+Importdata: 
+
+----
+
+Relatedentities:
+
+- entities/jake-charles-rees
+- entities/eyebeam

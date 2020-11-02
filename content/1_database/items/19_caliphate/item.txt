@@ -1,0 +1,68 @@
+Title: Caliphate
+
+----
+
+Itemtype: project
+
+----
+
+Byline: Rukmini Callimachi For The New York Times
+
+----
+
+Img:
+
+- caliphate.jpg
+
+----
+
+Links:
+
+- 
+  linkurl: >
+    https://www.nytimes.com/interactive/2018/podcasts/caliphate-isis-rukmini-callimachi.html
+  linktext: www.nytimes.com
+
+----
+
+Year: 2018
+
+----
+
+Description: An audio series following Rukmini Callimachi as she reports on the Islamic State and the fall of Mosul.
+
+----
+
+Topics: isis, iraq, syria, terrorism
+
+----
+
+Geo: USA, Iraq, Syria
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":28,"type":"podcast","title":"Caliphate","byline":"Rukmini Callimachi For The New York Times","date":"2018","full-text":"An audio series following Rukmini Callimachi as she reports on the Islamic State and the fall of Mosul.","image":"https:\/\/www.nytimes.com\/interactive\/2018\/podcasts\/caliphate-isis-rukmini-callimachi.html","url1":"https:\/\/www.nytimes.com\/interactive\/2018\/podcasts\/caliphate-isis-rukmini-callimachi.html","url2":"","url3":"","topics":"isis, iraq, syria, terrorism","related-country":"USA, Iraq, Syria","related-people-org-project":"","role":"","added by":"CIJ","imported":""}
+
+----
+
+Author: 
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 
+
+----
+
+Type: podcast

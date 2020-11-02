@@ -1,0 +1,51 @@
+Title: Harun Farocki
+
+----
+
+Entitytype: people
+
+----
+
+Byline: Artist
+
+----
+
+Img:
+
+- harun-farocki.jpg
+
+----
+
+Links:
+
+- 
+  linkurl: http://www.harunfarocki.de/home.html
+  linktext: www.harunfarocki.de
+
+----
+
+Description: Harun Farocki  was a German filmmaker, author, and lecturer in film.
+
+----
+
+Topics: 
+
+----
+
+Geo: Germany, USA
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":104,"type":"people","title":"Harun Farocki","byline":"Artist","date":"","full-text":"Harun Farocki  was a German filmmaker, author, and lecturer in film.","image":"https:\/\/www.google.com\/search?q=HARUN+FAROCKI&rlz=1C5CHFA_enGB847GB847&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjhq_eQx9zrAhXJZxUIHcL1BlQQ_AUoAXoECBwQAw&biw=1272&bih=661","url1":"http:\/\/www.harunfarocki.de\/home.html","url2":"","url3":"","topics":"","related-country":"Germany, USA","related-people-org-project":112,"role":"","added by":"CIJ","imported":""}
+
+----
+
+Relatedentities: 
+
+----
+
+Type: people

@@ -1,0 +1,47 @@
+Title: Jake Charles Rees
+
+----
+
+Entitytype: people
+
+----
+
+Byline: Logan Curator, The Centre for Investigative Journalism
+
+----
+
+Img:
+
+- jake-rees.jpg
+
+----
+
+Links:
+
+- 
+  linkurl: https://tcij.org
+  linktext: tcij.org
+
+----
+
+Description: 
+
+----
+
+Topics: 
+
+----
+
+Geo: UK
+
+----
+
+Addedby: - wBvyX8MO
+
+----
+
+Importdata: 
+
+----
+
+Relatedentities: 

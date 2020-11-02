@@ -1,1 +1,34 @@
 Title: CIJ Open Lab
+
+----
+
+Menu:
+
+- 
+  menupage:
+    - database
+  subpages:
+    - database/explore
+    - database/collections
+    - database/search
+    - database/submit
+  visible: 'true'
+  menupagetitle: Database
+- 
+  menupage:
+    - essays
+  subpages: [ ]
+  visible: 'true'
+  menupagetitle: Essays
+- 
+  menupage:
+    - interchange
+  subpages: [ ]
+  visible: 'false'
+  menupagetitle: Interchange
+- 
+  menupage:
+    - about
+  subpages: [ ]
+  visible: 'true'
+  menupagetitle: About

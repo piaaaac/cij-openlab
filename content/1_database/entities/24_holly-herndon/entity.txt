@@ -1,0 +1,52 @@
+Title: Holly Herndon
+
+----
+
+Entitytype: people
+
+----
+
+Byline: Artist / Researcher
+
+----
+
+Img:
+
+- >
+  holly_herndon_press_credit_suzy_poling_pic_002_wide-e96298d2bdbf2f9acdf9899f64da2cede772c4e6-1.0.0.jpg
+
+----
+
+Links:
+
+- 
+  linkurl: http://www.hollyherndon.com/
+  linktext: www.hollyherndon.com
+
+----
+
+Description: Holly Herndon is an American composer, musician, and sound artist based in Berlin, Germany. After studying composition at Stanford University and completing her Ph.D. at Stanford University’s Center for Computer Research in Music and Acoustics, she pursued a music career internationally.
+
+----
+
+Topics: culture, tech, art, music
+
+----
+
+Geo: USA, Germany
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":61,"type":"people","title":"Holly Herndon","byline":"Artist \/ Researcher","date":"","full-text":"Holly Herndon is an American composer, musician, and sound artist based in Berlin, Germany. After studying composition at Stanford University and completing her Ph.D. at Stanford University\u2019s Center for Computer Research in Music and Acoustics, she pursued a music career internationally.","image":"https:\/\/www.google.com\/search?q=holly+herndon&rlz=1C5CHFA_enGB847GB847&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiZvdzTqtfrAhXxRxUIHfGtDnsQ_AUoAnoECB4QBA&biw=1280&bih=617","url1":"http:\/\/www.hollyherndon.com\/","url2":"","url3":"","topics":"culture, tech, art, music","related-country":"USA, Germany","related-people-org-project":"32, 65","role":"","added by":"CIJ","imported":""}
+
+----
+
+Relatedentities: 
+
+----
+
+Type: people

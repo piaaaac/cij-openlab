@@ -1,0 +1,54 @@
+Title: The Guardian
+
+----
+
+Entitytype: people
+
+----
+
+Byline: Newspaper
+
+----
+
+Img:
+
+- the-guardian.png
+
+----
+
+Links:
+
+- 
+  linkurl: https://www.theguardian.com/uk
+  linktext: www.theguardian.com
+- 
+  linkurl: https://twitter.com/guardian
+  linktext: Twitter
+
+----
+
+Description: The Guardian is a British news and media website
+
+----
+
+Topics: investigative journalism, publisher, newspapers
+
+----
+
+Geo: UK
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":82,"type":"organization","title":"The Guardian","byline":"Newspaper","date":"","full-text":"The Guardian is a British news and media website","image":"https:\/\/twitter.com\/guardian","url1":"https:\/\/www.theguardian.com\/uk","url2":"https:\/\/twitter.com\/guardian","url3":"","topics":"investigative journalism, publisher, newspaper","related-country":"UK","related-people-org-project":"5, 74","role":"","added by":"CIJ","imported":""}
+
+----
+
+Relatedentities: 
+
+----
+
+Type: organization

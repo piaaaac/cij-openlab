@@ -1,0 +1,51 @@
+Title: Fast Familiar
+
+----
+
+Entitytype: people
+
+----
+
+Byline: Interdisciplinary Studio
+
+----
+
+Img:
+
+- fast-familiar.jpg
+
+----
+
+Links:
+
+- 
+  linkurl: https://fastfamiliar.com/
+  linktext: fastfamiliar.com
+
+----
+
+Description: Fast Familiar is a group of artists from different backgrounds who design audience-centric experiences which often utilise ‘digital technology’. Fast Familiar make artworks which are participatory, playful and political. Fast Familiar's lead artists are Dan Barnard, Joe McAlister and Rachel Briscoe.
+
+----
+
+Topics: 
+
+----
+
+Geo: 
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":83,"type":"organization","title":"Fast Familiar","byline":"Interdisciplinary Studio","date":"","full-text":"Fast Familiar is a group of artists from different backgrounds who design audience-centric experiences which often utilise \u2018digital technology\u2019. Fast Familiar make artworks which are participatory, playful and political. Fast Familiar's lead artists are Dan Barnard, Joe McAlister and Rachel Briscoe.","image":"","url1":"https:\/\/fastfamiliar.com\/","url2":"","url3":"","topics":"","related-country":"","related-people-org-project":84,"role":"","added by":"CIJ","imported":""}
+
+----
+
+Relatedentities: 
+
+----
+
+Type: organization

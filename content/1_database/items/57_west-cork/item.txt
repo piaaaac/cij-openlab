@@ -1,0 +1,67 @@
+Title: West Cork
+
+----
+
+Itemtype: project
+
+----
+
+Byline: Jennifer Forde, Sam Bungey For Audible
+
+----
+
+Img:
+
+- blank.png
+
+----
+
+Links:
+
+- 
+  linkurl: 'https://www.audible.co.uk/pd/West-Cork-Audiobook/B079M4J86L?source_code=M2M30DFT1BkSH101514006V&ipRedirectOverride=true'
+  linktext: www.audible.co.uk
+
+----
+
+Year: 2018
+
+----
+
+Description: This much we do know: Sophie Toscan du Plantier was murdered days before Christmas in 1996, her broken body discovered at the edge of her property near the town of Schull in West Cork, Ireland. The rest remains a mystery. Gripping, yet ever elusive, join the real-life hunt for answers in the year’s first not-to-be-missed, true-crime series. Investigative journalist, Sam Bungey, and documentarian, Jennifer Forde, guide listeners through the brutal, unsolved murder and the tangled web of its investigation, while introducing an intricate cast of characters, a provocative prime suspect, and a recovering community whose story begs to be heard.
+
+----
+
+Topics: investigative journalism, true crime, podcast
+
+----
+
+Geo: Ireland
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":30,"type":"podcast","title":"West Cork","byline":"Jennifer Forde, Sam Bungey For Audible","date":"2018","full-text":"This much we do know: Sophie Toscan du Plantier was murdered days before Christmas in 1996, her broken body discovered at the edge of her property near the town of Schull in West Cork, Ireland. The rest remains a mystery. Gripping, yet ever elusive, join the real-life hunt for answers in the year\u2019s first not-to-be-missed, true-crime series. Investigative journalist, Sam Bungey, and documentarian, Jennifer Forde, guide listeners through the brutal, unsolved murder and the tangled web of its investigation, while introducing an intricate cast of characters, a provocative prime suspect, and a recovering community whose story begs to be heard.","image":"https:\/\/www.audible.co.uk\/pd\/West-Cork-Audiobook\/B079M4J86L?source_code=M2M30DFT1BkSH101514006V&ipRedirectOverride=true","url1":"https:\/\/www.audible.co.uk\/pd\/West-Cork-Audiobook\/B079M4J86L?source_code=M2M30DFT1BkSH101514006V&ipRedirectOverride=true","url2":"","url3":"","topics":"investigative journalism, true crime, podcast","related-country":"Ireland","related-people-org-project":"","role":"","added by":"CIJ","imported":""}
+
+----
+
+Author: 
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 
+
+----
+
+Type: podcast

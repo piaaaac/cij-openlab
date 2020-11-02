@@ -1,0 +1,66 @@
+Title: Absolute Relative
+
+----
+
+Itemtype: project
+
+----
+
+Byline: 
+
+----
+
+Img:
+
+- self_nyt_0.gif
+
+----
+
+Links:
+
+- 
+  linkurl: >
+    http://www.ted-hunt.com/ABSOLUTERELATIVE.html
+  linktext: ABSOLUTE RELATIVE on ted-hunt.com
+
+----
+
+Year: 2018
+
+----
+
+Description: An investigative illustration into the often veiled proportional representation of absolute truth and relative truth within contemporary news channels.
+
+----
+
+Topics: truth, new york times, newspapers
+
+----
+
+Geo: USA, UK
+
+----
+
+Addedby: - wBvyX8MO
+
+----
+
+Importdata: 
+
+----
+
+Author:
+
+- database/entities/ted-hunt
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 

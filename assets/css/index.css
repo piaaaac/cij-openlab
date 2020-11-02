@@ -1,3 +1,4 @@
+@charset "UTF-8";
 @import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;500&display=swap");
 *:not(i), *:not(i)::before, *:not(i)::after {
   margin: 0;
@@ -14,11 +15,11 @@ footer, header, main, menu, nav, section, summary {
   display: block; }
 
 ::-moz-selection {
-  background: #fc5500;
+  background: #E64833;
   color: black; }
 
 ::selection {
-  background: #fc5500;
+  background: #E64833;
   color: black; }
 
 body:not(.user-is-tabbing) button:focus,
@@ -54,94 +55,115 @@ html body input:-internal-autofill-selected {
 @font-face {
   font-family: "MonumentGrotesk";
   src: url("../fonts/MonumentGrotesk-Semi-Mono.woff") format("woff"); }
-.font-huge {
+.font-menu {
   font-family: "MonumentGrotesk", sans-serif;
-  font-size: 5.4vw;
-  letter-spacing: 0;
+  font-size: 18px;
+  letter-spacing: 0.02em;
   line-height: 1.3em;
   font-weight: 400;
   font-style: normal;
   font-stretch: normal; }
   @media (min-width: 576px) {
-    .font-huge {
-      font-size: 5.4vw; } }
+    .font-menu {
+      font-size: 18px; } }
   @media (min-width: 768px) {
-    .font-huge {
-      font-size: 5.4vw; } }
+    .font-menu {
+      font-size: 18px; } }
   @media (min-width: 992px) {
-    .font-huge {
-      font-size: 5.4vw; } }
+    .font-menu {
+      font-size: 18px; } }
   @media (min-width: 1200px) {
-    .font-huge {
-      font-size: 5.4vw; } }
+    .font-menu {
+      font-size: 18px; } }
 
-.font-large {
+.font-xxl {
   font-family: "MonumentGrotesk", sans-serif;
-  font-size: 2.81vw;
-  letter-spacing: 0;
+  font-size: 40px;
+  letter-spacing: 0.02em;
   line-height: 1.3em;
   font-weight: 400;
   font-style: normal;
   font-stretch: normal; }
   @media (min-width: 576px) {
-    .font-large {
-      font-size: 2.81vw; } }
+    .font-xxl {
+      font-size: 40px; } }
   @media (min-width: 768px) {
-    .font-large {
-      font-size: 2.81vw; } }
+    .font-xxl {
+      font-size: 40px; } }
   @media (min-width: 992px) {
-    .font-large {
-      font-size: 2.81vw; } }
+    .font-xxl {
+      font-size: 40px; } }
   @media (min-width: 1200px) {
-    .font-large {
-      font-size: 2.81vw; } }
+    .font-xxl {
+      font-size: 40px; } }
+
+.font-xl {
+  font-family: "MonumentGrotesk", sans-serif;
+  font-size: 27px;
+  letter-spacing: 0.02em;
+  line-height: 1.3em;
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal; }
+  @media (min-width: 576px) {
+    .font-xl {
+      font-size: 27px; } }
+  @media (min-width: 768px) {
+    .font-xl {
+      font-size: 27px; } }
+  @media (min-width: 992px) {
+    .font-xl {
+      font-size: 27px; } }
+  @media (min-width: 1200px) {
+    .font-xl {
+      font-size: 27px; } }
+
+.font-l {
+  font-family: "MonumentGrotesk", sans-serif;
+  font-size: 20px;
+  letter-spacing: 0.02em;
+  line-height: 1.2em;
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal; }
+  @media (min-width: 576px) {
+    .font-l {
+      font-size: 20px; } }
+  @media (min-width: 768px) {
+    .font-l {
+      font-size: 20px; } }
+  @media (min-width: 992px) {
+    .font-l {
+      font-size: 20px; } }
+  @media (min-width: 1200px) {
+    .font-l {
+      font-size: 20px; } }
 
 .font-m {
   font-family: "MonumentGrotesk", sans-serif;
-  font-size: 18px;
-  letter-spacing: 0;
-  line-height: 1.3em;
+  font-size: 14px;
+  letter-spacing: 0.02em;
+  line-height: 1.4em;
   font-weight: 400;
   font-style: normal;
   font-stretch: normal; }
   @media (min-width: 576px) {
     .font-m {
-      font-size: 18px; } }
+      font-size: 14px; } }
   @media (min-width: 768px) {
     .font-m {
-      font-size: 18px; } }
+      font-size: 14px; } }
   @media (min-width: 992px) {
     .font-m {
-      font-size: 18px; } }
+      font-size: 14px; } }
   @media (min-width: 1200px) {
     .font-m {
-      font-size: 18px; } }
-
-.font-s {
-  font-family: "MonumentGrotesk", sans-serif;
-  font-size: 15px;
-  letter-spacing: 0;
-  line-height: 1.3em;
-  font-weight: 400;
-  font-style: normal;
-  font-stretch: normal; }
-  @media (min-width: 576px) {
-    .font-s {
-      font-size: 15px; } }
-  @media (min-width: 768px) {
-    .font-s {
-      font-size: 15px; } }
-  @media (min-width: 992px) {
-    .font-s {
-      font-size: 15px; } }
-  @media (min-width: 1200px) {
-    .font-s {
-      font-size: 15px; } }
+      font-size: 14px; } }
 
 .font-xs {
   font-family: "MonumentGrotesk", sans-serif;
   font-size: 10px;
-  letter-spacing: 0;
+  letter-spacing: 0.02em;
   line-height: 1.3em;
   font-weight: 400;
   font-style: normal;
@@ -161,7 +183,7 @@ html body input:-internal-autofill-selected {
 
 .font-zoom {
   line-height: 1.3em;
-  font-size: 11px; }
+  font-size: 10px; }
 
 /* USAGE 
 @include keyframes(slide-down) {
@@ -180,8 +202,94 @@ html body input:-internal-autofill-selected {
   font-family: MonumentGrotesk, serif;
   color: black; }
 
+body {
+  font-family: "MonumentGrotesk", sans-serif;
+  font-size: 14px;
+  letter-spacing: 0.02em;
+  line-height: 1.4em;
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  -webkit-transition: filter 400ms;
+  -moz-transition: filter 400ms;
+  -ms-transition: filter 400ms;
+  -o-transition: filter 400ms;
+  transition: filter 400ms; }
+  @media (min-width: 576px) {
+    body {
+      font-size: 14px; } }
+  @media (min-width: 768px) {
+    body {
+      font-size: 14px; } }
+  @media (min-width: 992px) {
+    body {
+      font-size: 14px; } }
+  @media (min-width: 1200px) {
+    body {
+      font-size: 14px; } }
+  body.detail-open {
+    overflow-y: hidden; }
+    body.detail-open main {
+      filter: blur(9px); }
+    body.detail-open nav.header.sub {
+      opacity: 0; }
+  body main {
+    background-color: white;
+    min-height: 100vh; }
+    body main.default {
+      padding-top: 80px; }
+    body main.database {
+      background-color: #DFE9E5;
+      padding: 40px 0 0 0; }
+    body main .page-title {
+      height: 120px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      font-family: "MonumentGrotesk", sans-serif;
+      font-size: 40px;
+      letter-spacing: 0.02em;
+      line-height: 1.3em;
+      font-weight: 400;
+      font-style: normal;
+      font-stretch: normal; }
+      @media (min-width: 576px) {
+        body main .page-title {
+          font-size: 40px; } }
+      @media (min-width: 768px) {
+        body main .page-title {
+          font-size: 40px; } }
+      @media (min-width: 992px) {
+        body main .page-title {
+          font-size: 40px; } }
+      @media (min-width: 1200px) {
+        body main .page-title {
+          font-size: 40px; } }
+
 a {
   cursor: pointer; }
+  a.button {
+    display: inline-flex;
+    height: 36px;
+    justify-content: center;
+    align-items: center;
+    background-color: #E64833;
+    color: white;
+    text-decoration: none;
+    padding: 0 15px;
+    margin-right: 5px;
+    margin-top: 5px;
+    -webkit-transition: background-color 200ms;
+    -moz-transition: background-color 200ms;
+    -ms-transition: background-color 200ms;
+    -o-transition: background-color 200ms;
+    transition: background-color 200ms; }
+    a.button:hover {
+      background-color: #90311A; }
+    a.button.external::before {
+      content: "↗";
+      margin-right: 0.5em; }
 
 .color-white {
   color: white; }
@@ -190,164 +298,160 @@ a {
   color: #ABABAB; }
 
 .color-red {
-  color: #E24C00; }
+  color: #E64833; }
+
+.color-bg2 {
+  color: #829B90; }
+
+.opacity-0 {
+  opacity: 0; }
+
+.bg-bg1 {
+  background-color: #DFE9E5; }
 
 .upper {
   text-transform: uppercase; }
 
-nav#header {
-  background-color: black;
+.hover-bg-red:hover {
+  background-color: #E64833; }
+
+nav.header {
   position: fixed;
-  z-index: 10;
-  top: 0;
   left: 0;
-  right: 0;
-  height: 40px;
+  right: 0; }
+  nav.header.main {
+    z-index: 10;
+    top: 0;
+    background-color: black; }
+    nav.header.main a {
+      color: #829B90; }
+  nav.header.sub {
+    z-index: 9;
+    top: 40px;
+    background-color: #E64833;
+    -webkit-transition: opacity 400ms;
+    -moz-transition: opacity 400ms;
+    -ms-transition: opacity 400ms;
+    -o-transition: opacity 400ms;
+    transition: opacity 400ms; }
+    nav.header.sub a {
+      color: #90311A; }
+  nav.header.main, nav.header.sub {
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px; }
+    nav.header.main img.logo, nav.header.sub img.logo {
+      padding-right: 10px;
+      width: 35px; }
+    nav.header.main a, nav.header.sub a {
+      font-family: "MonumentGrotesk", sans-serif;
+      font-size: 18px;
+      letter-spacing: 0.02em;
+      line-height: 1.3em;
+      font-weight: 400;
+      font-style: normal;
+      font-stretch: normal;
+      text-transform: uppercase;
+      text-decoration: none; }
+      @media (min-width: 576px) {
+        nav.header.main a, nav.header.sub a {
+          font-size: 18px; } }
+      @media (min-width: 768px) {
+        nav.header.main a, nav.header.sub a {
+          font-size: 18px; } }
+      @media (min-width: 992px) {
+        nav.header.main a, nav.header.sub a {
+          font-size: 18px; } }
+      @media (min-width: 1200px) {
+        nav.header.main a, nav.header.sub a {
+          font-size: 18px; } }
+      nav.header.main a + a, nav.header.sub a + a {
+        margin-left: 20px; }
+      nav.header.main a.active, nav.header.main a:hover, nav.header.sub a.active, nav.header.sub a:hover {
+        color: white; }
+
+.footer {
   display: flex;
+  height: 40px;
   align-items: center;
   justify-content: space-between;
+  background-color: #829B90;
   padding: 0 20px; }
-  nav#header img.logo {
-    margin-right: 15px; }
-  nav#header a {
-    color: white; }
-    nav#header a + a {
-      margin-left: 15px; }
+  .footer a {
+    color: white;
+    text-decoration: none; }
+    .footer a:hover {
+      text-decoration: underline; }
+  .footer a + a {
+    margin-left: 20px; }
 
 body {
   -webkit-transition: background-color 400ms;
   -moz-transition: background-color 400ms;
   -ms-transition: background-color 400ms;
   -o-transition: background-color 400ms;
-  transition: background-color 400ms;
-  background-color: #DFE9E5; }
-  body.zoom-3, body.zoom-4 {
-    background-color: #829B90; }
-  body.zoom-1 .meta-left, body.zoom-1 .meta-right, body.zoom-2 .meta-left, body.zoom-2 .meta-right, body.zoom-3 .meta-left, body.zoom-3 .meta-right {
-    display: none; }
+  transition: background-color 400ms; }
+  body.zoom-level-1 .meta-left, body.zoom-level-2 .meta-left {
+    left: -30vw;
+    opacity: 0; }
+  body.zoom-level-1 .meta-right, body.zoom-level-2 .meta-right {
+    right: -30vw;
+    opacity: 0; }
 
 .entries {
-  padding-top: 50px; }
+  padding-top: 50px;
+  -webkit-transition: margin-top 400ms;
+  -moz-transition: margin-top 400ms;
+  -ms-transition: margin-top 400ms;
+  -o-transition: margin-top 400ms;
+  transition: margin-top 400ms; }
   .entries .font-zoom {
     font-size: inherit; }
-  body.zoom-1 .entries .entry .zoom-1-2 .image {
+  body.filtered .entries {
+    margin-top: 40px; }
+  body.zoom-level-1 .entries .entry .zoom-1-2 .image {
     display: none; }
-  body.zoom-1 .entries, body.zoom-2 .entries {
+  body.zoom-level-1 .entries, body.zoom-level-2 .entries {
     padding-left: 20px;
     padding-right: 20px; }
-    body.zoom-1 .entries .entry, body.zoom-2 .entries .entry {
+    body.zoom-level-1 .entries .entry, body.zoom-level-2 .entries .entry {
       padding: 3px 4px; }
-    body.zoom-1 .entries .entry .zoom-3-4, body.zoom-2 .entries .entry .zoom-3-4 {
+      body.zoom-level-1 .entries .entry.active, body.zoom-level-2 .entries .entry.active {
+        background-color: #E64833; }
+    body.zoom-level-1 .entries .entry .zoom-3, body.zoom-level-2 .entries .entry .zoom-3 {
       display: none; }
-  body.zoom-3 .entries {
-    padding-top: 60px;
-    padding-left: 20px;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: flex-start;
-    align-content: flex-start; }
-    body.zoom-3 .entries .entry {
-      margin: 0 20px 20px 0; }
-      body.zoom-3 .entries .entry .zoom-1-2 {
-        display: none; }
-      body.zoom-3 .entries .entry .zoom-3-4 {
-        height: 120px;
-        display: flex; }
-        body.zoom-3 .entries .entry .zoom-3-4 .image {
-          width: 120px; }
-        body.zoom-3 .entries .entry .zoom-3-4 .texts {
-          display: flex;
-          flex-flow: column;
-          justify-content: center;
-          max-width: 300px;
-          padding: 0 15px; }
-          body.zoom-3 .entries .entry .zoom-3-4 .texts .byline, body.zoom-3 .entries .entry .zoom-3-4 .texts .title {
-            font-family: "MonumentGrotesk", sans-serif;
-            font-size: 10px;
-            letter-spacing: 0;
-            line-height: 1.3em;
-            font-weight: 400;
-            font-style: normal;
-            font-stretch: normal; }
-            @media (min-width: 576px) {
-              body.zoom-3 .entries .entry .zoom-3-4 .texts .byline, body.zoom-3 .entries .entry .zoom-3-4 .texts .title {
-                font-size: 10px; } }
-            @media (min-width: 768px) {
-              body.zoom-3 .entries .entry .zoom-3-4 .texts .byline, body.zoom-3 .entries .entry .zoom-3-4 .texts .title {
-                font-size: 10px; } }
-            @media (min-width: 992px) {
-              body.zoom-3 .entries .entry .zoom-3-4 .texts .byline, body.zoom-3 .entries .entry .zoom-3-4 .texts .title {
-                font-size: 10px; } }
-            @media (min-width: 1200px) {
-              body.zoom-3 .entries .entry .zoom-3-4 .texts .byline, body.zoom-3 .entries .entry .zoom-3-4 .texts .title {
-                font-size: 10px; } }
-      body.zoom-3 .entries .entry[data-template='entity'] .zoom-3-4 .image {
-        background-size: contain;
-        border-radius: 50px;
-        margin: 10px 0 10px 10px;
-        width: 100px !important; }
-  body.zoom-4 .entries {
+  body.zoom-level-3 .entries {
     padding-top: 60px;
     padding-bottom: 20px;
     padding-left: 15vw;
     padding-right: 15vw;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: stretch;
-    align-content: center; }
-    body.zoom-4 .entries .entry {
-      margin: 0 10px 20px 10px; }
-      body.zoom-4 .entries .entry .zoom-1-2 {
+    column-count: 2; }
+    @media (min-width: 1200px) {
+      body.zoom-level-3 .entries {
+        column-count: 3; } }
+    @media only screen and (min-width: 1350px) {
+      body.zoom-level-3 .entries {
+        column-count: 4; } }
+    body.zoom-level-3 .entries .entry {
+      display: inline-block;
+      -webkit-transition: opacity 200ms;
+      -moz-transition: opacity 200ms;
+      -ms-transition: opacity 200ms;
+      -o-transition: opacity 200ms;
+      transition: opacity 200ms;
+      margin: 0 6px 3vw 6px; }
+      body.zoom-level-3 .entries .entry.loading {
+        opacity: 0.1; }
+      body.zoom-level-3 .entries .entry.active .image, body.zoom-level-3 .entries .entry:hover .image {
+        border: 3px solid #E64833; }
+      body.zoom-level-3 .entries .entry.active .texts .byline, body.zoom-level-3 .entries .entry:hover .texts .byline {
+        color: #E64833; }
+      body.zoom-level-3 .entries .entry.active .texts .title, body.zoom-level-3 .entries .entry:hover .texts .title {
+        color: #E64833; }
+      body.zoom-level-3 .entries .entry .zoom-1-2 {
         display: none; }
-      body.zoom-4 .entries .entry .zoom-3-4 {
-        width: 30vw; }
-        body.zoom-4 .entries .entry .zoom-3-4 .image {
-          width: 100%;
-          padding-top: 56.25%; }
-        body.zoom-4 .entries .entry .zoom-3-4 .texts {
-          padding: 20px; }
-          body.zoom-4 .entries .entry .zoom-3-4 .texts .byline {
-            font-family: "MonumentGrotesk", sans-serif;
-            font-size: 10px;
-            letter-spacing: 0;
-            line-height: 1.3em;
-            font-weight: 400;
-            font-style: normal;
-            font-stretch: normal; }
-            @media (min-width: 576px) {
-              body.zoom-4 .entries .entry .zoom-3-4 .texts .byline {
-                font-size: 10px; } }
-            @media (min-width: 768px) {
-              body.zoom-4 .entries .entry .zoom-3-4 .texts .byline {
-                font-size: 10px; } }
-            @media (min-width: 992px) {
-              body.zoom-4 .entries .entry .zoom-3-4 .texts .byline {
-                font-size: 10px; } }
-            @media (min-width: 1200px) {
-              body.zoom-4 .entries .entry .zoom-3-4 .texts .byline {
-                font-size: 10px; } }
-          body.zoom-4 .entries .entry .zoom-3-4 .texts .title {
-            font-family: "MonumentGrotesk", sans-serif;
-            font-size: 18px;
-            letter-spacing: 0;
-            line-height: 1.3em;
-            font-weight: 400;
-            font-style: normal;
-            font-stretch: normal; }
-            @media (min-width: 576px) {
-              body.zoom-4 .entries .entry .zoom-3-4 .texts .title {
-                font-size: 18px; } }
-            @media (min-width: 768px) {
-              body.zoom-4 .entries .entry .zoom-3-4 .texts .title {
-                font-size: 18px; } }
-            @media (min-width: 992px) {
-              body.zoom-4 .entries .entry .zoom-3-4 .texts .title {
-                font-size: 18px; } }
-            @media (min-width: 1200px) {
-              body.zoom-4 .entries .entry .zoom-3-4 .texts .title {
-                font-size: 18px; } }
 
 .entry {
   display: inline;
@@ -357,12 +461,8 @@ body {
   -ms-transition: background-color 100ms;
   -o-transition: background-color 100ms;
   transition: background-color 100ms; }
-  .entry.active {
-    background-color: #E24C00; }
-  .entry.redacted {
-    text-decoration: line-through; }
   .entry.hide {
-    display: none; }
+    display: none !important; }
   .entry .zoom-1-2 .byline {
     text-transform: uppercase; }
   .entry .zoom-1-2 .image {
@@ -371,16 +471,79 @@ body {
     display: inline-block;
     position: relative;
     top: .15em;
+    background-color: rgba(130, 155, 144, 0.3);
     background-size: cover;
     background-position: center center; }
-  .entry[data-template='entity'] .zoom-1-2 .image {
-    background-size: contain;
-    border-radius: .5em; }
-  .entry .zoom-3-4 {
-    background-color: white; }
-    .entry .zoom-3-4 .image {
+    .entry .zoom-1-2 .image.entity {
+      background-size: contain;
+      border-radius: .5em; }
+  .entry .zoom-3 {
+    pointer-events: none;
+    display: inline-block;
+    text-align: center; }
+    .entry .zoom-3 .image {
+      pointer-events: all;
+      border: 3px solid #DFE9E5;
+      display: inline-block;
+      width: 66%;
+      background-color: rgba(130, 155, 144, 0.3);
       background-size: cover;
       background-position: center center; }
+      .entry .zoom-3 .image img {
+        width: 100%; }
+      .entry .zoom-3 .image.entity {
+        border-radius: 50%; }
+    .entry .zoom-3 .texts {
+      pointer-events: all;
+      padding: 15px;
+      height: 50%;
+      text-align: center;
+      display: flex;
+      flex-flow: column;
+      align-items: center;
+      justify-content: space-between; }
+      .entry .zoom-3 .texts .byline {
+        font-family: "MonumentGrotesk", sans-serif;
+        font-size: 10px;
+        letter-spacing: 0.02em;
+        line-height: 1.3em;
+        font-weight: 400;
+        font-style: normal;
+        font-stretch: normal;
+        text-transform: uppercase;
+        margin-bottom: 8px; }
+        @media (min-width: 576px) {
+          .entry .zoom-3 .texts .byline {
+            font-size: 10px; } }
+        @media (min-width: 768px) {
+          .entry .zoom-3 .texts .byline {
+            font-size: 10px; } }
+        @media (min-width: 992px) {
+          .entry .zoom-3 .texts .byline {
+            font-size: 10px; } }
+        @media (min-width: 1200px) {
+          .entry .zoom-3 .texts .byline {
+            font-size: 10px; } }
+      .entry .zoom-3 .texts .title {
+        font-family: "MonumentGrotesk", sans-serif;
+        font-size: 20px;
+        letter-spacing: 0.02em;
+        line-height: 1.2em;
+        font-weight: 400;
+        font-style: normal;
+        font-stretch: normal; }
+        @media (min-width: 576px) {
+          .entry .zoom-3 .texts .title {
+            font-size: 20px; } }
+        @media (min-width: 768px) {
+          .entry .zoom-3 .texts .title {
+            font-size: 20px; } }
+        @media (min-width: 992px) {
+          .entry .zoom-3 .texts .title {
+            font-size: 20px; } }
+        @media (min-width: 1200px) {
+          .entry .zoom-3 .texts .title {
+            font-size: 20px; } }
 
 .meta-left, .meta-right {
   position: fixed;
@@ -388,13 +551,20 @@ body {
   top: 0;
   bottom: 0;
   width: 15vw;
+  opacity: 1;
   overflow-y: scroll; }
-  .meta-left .meta-link:hover, .meta-left .meta-link.active, .meta-left .meta-link.selected, .meta-right .meta-link:hover, .meta-right .meta-link.active, .meta-right .meta-link.selected {
-    background-color: #E24C00; }
+  .meta-left .meta-link, .meta-right .meta-link {
+    color: #829B90;
+    height: 20px;
+    margin: -2px;
+    padding: 2px; }
+    .meta-left .meta-link:hover, .meta-left .meta-link.active, .meta-left .meta-link.selected, .meta-right .meta-link:hover, .meta-right .meta-link.active, .meta-right .meta-link.selected {
+      background-color: #E64833;
+      color: black; }
   .meta-left a, .meta-right a {
     font-family: "MonumentGrotesk", sans-serif;
     font-size: 10px;
-    letter-spacing: 0;
+    letter-spacing: 0.02em;
     line-height: 1.3em;
     font-weight: 400;
     font-style: normal;
@@ -413,11 +583,115 @@ body {
         font-size: 10px; } }
 
 .meta-left {
+  -webkit-transition: left 400ms, opacity 800ms;
+  -moz-transition: left 400ms, opacity 800ms;
+  -ms-transition: left 400ms, opacity 800ms;
+  -o-transition: left 400ms, opacity 800ms;
+  transition: left 400ms, opacity 800ms;
   left: 0; }
 
 .meta-right {
+  -webkit-transition: right 400ms, opacity 800ms;
+  -moz-transition: right 400ms, opacity 800ms;
+  -ms-transition: right 400ms, opacity 800ms;
+  -o-transition: right 400ms, opacity 800ms;
+  transition: right 400ms, opacity 800ms;
   right: 0;
   text-align: right; }
+
+#filter-alert {
+  position: fixed;
+  background-color: #E64833;
+  width: calc(60vw + 42px);
+  left: 50%;
+  transform: translateX(-50%);
+  top: 60px;
+  padding: 0 10px;
+  height: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: "MonumentGrotesk", sans-serif;
+  font-size: 10px;
+  letter-spacing: 0.02em;
+  line-height: 1.3em;
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  text-transform: uppercase;
+  -webkit-transition: opacity 400ms;
+  -moz-transition: opacity 400ms;
+  -ms-transition: opacity 400ms;
+  -o-transition: opacity 400ms;
+  transition: opacity 400ms;
+  opacity: 0;
+  pointer-events: none;
+  cursor: pointer; }
+  @media (min-width: 576px) {
+    #filter-alert {
+      font-size: 10px; } }
+  @media (min-width: 768px) {
+    #filter-alert {
+      font-size: 10px; } }
+  @media (min-width: 992px) {
+    #filter-alert {
+      font-size: 10px; } }
+  @media (min-width: 1200px) {
+    #filter-alert {
+      font-size: 10px; } }
+  body.filtered #filter-alert {
+    opacity: 1;
+    pointer-events: all; }
+  #filter-alert a.clear:hover, #filter-alert:hover a.clear {
+    color: white; }
+
+.entry-types {
+  height: 80px;
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: center; }
+
+.search-table {
+  margin: 0 -20px;
+  background-color: #DFE9E5; }
+  .search-table div.search-table-row:hover {
+    background-color: white;
+    cursor: pointer; }
+  .search-table .search-table-row {
+    -webkit-transition: background-color 400ms;
+    -moz-transition: background-color 400ms;
+    -ms-transition: background-color 400ms;
+    -o-transition: background-color 400ms;
+    transition: background-color 400ms;
+    padding: 0 20px;
+    height: 40px;
+    display: flex;
+    align-items: center; }
+    .search-table .search-table-row .cell {
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap; }
+      .search-table .search-table-row .cell + .cell {
+        padding-left: 20px; }
+      .search-table .search-table-row .cell.image {
+        width: 30px;
+        height: 30px;
+        margin: -6px 0;
+        background-color: rgba(130, 155, 144, 0.3);
+        background-size: cover;
+        background-position: center center; }
+        .search-table .search-table-row .cell.image.entity {
+          border-radius: 15px; }
+      .search-table .search-table-row .cell.type {
+        width: calc((100% - 40px) * 0.15); }
+      .search-table .search-table-row .cell.title {
+        width: calc((100% - 40px) * 0.50); }
+      .search-table .search-table-row .cell.author {
+        width: calc((100% - 40px) * 0.25); }
+      .search-table .search-table-row .cell.year {
+        width: calc((100% - 40px) * 0.10);
+        text-align: right; }
 
 #overlay {
   opacity: 0;
@@ -428,31 +702,394 @@ body {
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: rgba(130, 155, 144, 0.7);
-  padding: 20px;
-  padding-top: 60px;
-  overflow-y: scroll;
   text-align: center;
-  -webkit-transition: opacity 400ms;
-  -moz-transition: opacity 400ms;
-  -ms-transition: opacity 400ms;
-  -o-transition: opacity 400ms;
-  transition: opacity 400ms; }
-  #overlay.show {
+  display: flex;
+  align-items: center;
+  background-color: rgba(223, 233, 229, 0.8);
+  -webkit-transition: opacity 600ms;
+  -moz-transition: opacity 600ms;
+  -ms-transition: opacity 600ms;
+  -o-transition: opacity 600ms;
+  transition: opacity 600ms; }
+  body.detail-open #overlay {
     opacity: 1;
     pointer-events: all; }
+  #overlay .sensi-bg {
+    padding: 40px;
+    padding-top: 80px;
+    width: 100vw;
+    overflow-y: scroll;
+    pointer-events: none;
+    max-height: 100vh; }
   #overlay #detail-content {
+    -webkit-transition: margin-top 600ms;
+    -moz-transition: margin-top 600ms;
+    -ms-transition: margin-top 600ms;
+    -o-transition: margin-top 600ms;
+    transition: margin-top 600ms;
+    -webkit-box-shadow: 0 0 50px rgba(130, 155, 144, 0.4);
+    -moz-box-shadow: 0 0 50px rgba(130, 155, 144, 0.4);
+    box-shadow: 0 0 50px rgba(130, 155, 144, 0.4);
+    margin-top: 60px;
     text-align: left;
     background-color: white;
     display: inline-block;
     position: relative;
-    padding: 20px 0;
-    width: 80vw;
-    max-width: 800px;
+    padding-bottom: 20px;
+    width: calc(100vw - 80px);
+    max-width: 1000px;
     min-width: 300px; }
-    #overlay #detail-content .image {
-      padding-top: 54.25%;
-      background-size: cover;
-      background-position: center center; }
+    body.detail-open #overlay #detail-content {
+      margin-top: 0;
+      pointer-events: all; }
+    @media (max-width: 767.98px) {
+      #overlay #detail-content .image-cont {
+        text-align: center; } }
+    #overlay #detail-content .image-cont .image {
+      background-color: rgba(130, 155, 144, 0.3); }
+      #overlay #detail-content .image-cont .image.item {
+        padding-top: 62.5%;
+        margin: 0 -20px;
+        background-size: cover;
+        background-position: center center; }
+      #overlay #detail-content .image-cont .image.entity {
+        width: calc(62.5% - 40px);
+        padding-top: calc(62.5% - 40px);
+        margin: 20px 0;
+        border-radius: 50%;
+        background-size: cover;
+        background-position: center center; }
+        @media (max-width: 767.98px) {
+          #overlay #detail-content .image-cont .image.entity {
+            display: inline-block; } }
+    #overlay #detail-content .row-detail header {
+      padding-bottom: 7px; }
+    #overlay #detail-content .row-detail + .row-detail {
+      border-top: 1px solid #E3E3E3; }
+    #overlay #detail-content .row-detail .pad {
+      padding: 20px 30px; }
+    #overlay #detail-content .buttons {
+      display: flex;
+      align-items: flex-start;
+      justify-content: flex-start;
+      flex-wrap: wrap; }
+      @media (max-width: 767.98px) {
+        #overlay #detail-content .buttons {
+          display: none; } }
+    #overlay #detail-content .buttons-mobile {
+      display: flex;
+      align-items: flex-start;
+      justify-content: flex-start;
+      flex-wrap: wrap;
+      padding-top: 15px;
+      padding-bottom: 20px; }
+      @media (min-width: 768px) {
+        #overlay #detail-content .buttons-mobile {
+          display: none; } }
+    #overlay #detail-content .list a {
+      color: #E64833;
+      position: relative; }
+
+.page-item-prev {
+  background-color: #DFE9E5;
+  padding: 20px 30px 20px;
+  height: calc(100% - 20px);
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: space-between;
+  margin-bottom: 20px; }
+  .page-item-prev .title {
+    font-family: "MonumentGrotesk", sans-serif;
+    font-size: 27px;
+    letter-spacing: 0.02em;
+    line-height: 1.3em;
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    margin-bottom: 80px; }
+    @media (min-width: 576px) {
+      .page-item-prev .title {
+        font-size: 27px; } }
+    @media (min-width: 768px) {
+      .page-item-prev .title {
+        font-size: 27px; } }
+    @media (min-width: 992px) {
+      .page-item-prev .title {
+        font-size: 27px; } }
+    @media (min-width: 1200px) {
+      .page-item-prev .title {
+        font-size: 27px; } }
+  .page-item-prev .bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; }
+  .page-item-prev:hover {
+    cursor: pointer; }
+    .page-item-prev:hover .title {
+      color: #E64833; }
+    .page-item-prev:hover .stats {
+      color: #E64833; }
+    .page-item-prev:hover .bottom .arrow {
+      color: #E64833; }
+    .page-item-prev:hover .entry-img {
+      border: 2px solid #E64833 !important; }
+  .page-item-prev.collection {
+    margin-bottom: 20px; }
+    .page-item-prev.collection .entries-img {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: nowrap;
+      padding-right: 100px;
+      margin-bottom: 30px; }
+      .page-item-prev.collection .entries-img .entry-img-wrapper {
+        width: 0;
+        overflow: visible; }
+        .page-item-prev.collection .entries-img .entry-img-wrapper .entry-img {
+          width: 100px;
+          height: 100px;
+          background-position: center center;
+          background-size: cover;
+          border: 2px solid #DFE9E5; }
+          .page-item-prev.collection .entries-img .entry-img-wrapper .entry-img.entity {
+            border-radius: 50px; }
+
+.full-collection {
+  background-color: #DFE9E5;
+  padding: 20px 30px; }
+  .full-collection .title {
+    font-family: "MonumentGrotesk", sans-serif;
+    font-size: 27px;
+    letter-spacing: 0.02em;
+    line-height: 1.3em;
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    margin-bottom: 30px; }
+    @media (min-width: 576px) {
+      .full-collection .title {
+        font-size: 27px; } }
+    @media (min-width: 768px) {
+      .full-collection .title {
+        font-size: 27px; } }
+    @media (min-width: 992px) {
+      .full-collection .title {
+        font-size: 27px; } }
+    @media (min-width: 1200px) {
+      .full-collection .title {
+        font-size: 27px; } }
+  .full-collection .text {
+    max-width: 500px; }
+  .full-collection .entries {
+    text-align: center;
+    column-count: 1; }
+    @media (min-width: 576px) {
+      .full-collection .entries {
+        column-count: 2; } }
+    @media (min-width: 768px) {
+      .full-collection .entries {
+        column-count: 3; } }
+
+.full-essay .opening {
+  background-color: #DFE9E5; }
+  .full-essay .opening .content {
+    margin: 2em 0; }
+.full-essay .kt p, .full-essay .kt figure, .full-essay .kt img, .full-essay .kt blockquote {
+  margin: 2em 0; }
+.full-essay .kt figure, .full-essay .kt img {
+  width: 100%;
+  position: relative; }
+.full-essay .kt img {
+  margin-bottom: 0.5em; }
+.full-essay .kt h2 {
+  font-family: "MonumentGrotesk", sans-serif;
+  font-size: 14px;
+  letter-spacing: 0.02em;
+  line-height: 1.4em;
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  text-transform: uppercase;
+  margin: 3em 0 2em; }
+  @media (min-width: 576px) {
+    .full-essay .kt h2 {
+      font-size: 14px; } }
+  @media (min-width: 768px) {
+    .full-essay .kt h2 {
+      font-size: 14px; } }
+  @media (min-width: 992px) {
+    .full-essay .kt h2 {
+      font-size: 14px; } }
+  @media (min-width: 1200px) {
+    .full-essay .kt h2 {
+      font-size: 14px; } }
+.full-essay .kt p, .full-essay .kt h2 {
+  padding: 0 100px; }
+  @media (max-width: 575.98px) {
+    .full-essay .kt p, .full-essay .kt h2 {
+      padding: 0 0px; } }
+.full-essay .kt figcaption {
+  font-family: "MonumentGrotesk", sans-serif;
+  font-size: 10px;
+  letter-spacing: 0.02em;
+  line-height: 1.3em;
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  width: 100%;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 0 100px;
+  margin-bottom: 6em; }
+  @media (min-width: 576px) {
+    .full-essay .kt figcaption {
+      font-size: 10px; } }
+  @media (min-width: 768px) {
+    .full-essay .kt figcaption {
+      font-size: 10px; } }
+  @media (min-width: 992px) {
+    .full-essay .kt figcaption {
+      font-size: 10px; } }
+  @media (min-width: 1200px) {
+    .full-essay .kt figcaption {
+      font-size: 10px; } }
+  @media (max-width: 575.98px) {
+    .full-essay .kt figcaption {
+      padding: 0 0px; } }
+.full-essay .kt blockquote {
+  margin-bottom: 3em; }
+  .full-essay .kt blockquote p {
+    padding: 0;
+    font-family: "MonumentGrotesk", sans-serif;
+    font-size: 27px;
+    letter-spacing: 0.02em;
+    line-height: 1.3em;
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.3em;
+    color: #E64833;
+    margin-bottom: 0em; }
+    @media (min-width: 576px) {
+      .full-essay .kt blockquote p {
+        font-size: 27px; } }
+    @media (min-width: 768px) {
+      .full-essay .kt blockquote p {
+        font-size: 27px; } }
+    @media (min-width: 992px) {
+      .full-essay .kt blockquote p {
+        font-size: 27px; } }
+    @media (min-width: 1200px) {
+      .full-essay .kt blockquote p {
+        font-size: 27px; } }
+    .full-essay .kt blockquote p.small {
+      font-family: "MonumentGrotesk", sans-serif;
+      font-size: 10px;
+      letter-spacing: 0.02em;
+      line-height: 1.3em;
+      font-weight: 400;
+      font-style: normal;
+      font-stretch: normal;
+      text-transform: uppercase;
+      margin-top: 1em;
+      margin-bottom: 0; }
+      @media (min-width: 576px) {
+        .full-essay .kt blockquote p.small {
+          font-size: 10px; } }
+      @media (min-width: 768px) {
+        .full-essay .kt blockquote p.small {
+          font-size: 10px; } }
+      @media (min-width: 992px) {
+        .full-essay .kt blockquote p.small {
+          font-size: 10px; } }
+      @media (min-width: 1200px) {
+        .full-essay .kt blockquote p.small {
+          font-size: 10px; } }
+
+.entry-prev {
+  display: inline-block;
+  text-align: center;
+  max-width: 300px; }
+  .entry-prev .image {
+    border: 3px solid #DFE9E5;
+    display: inline-block;
+    width: 66%;
+    background-color: #DFE9E5;
+    background-size: cover;
+    background-position: center center; }
+    .entry-prev .image img {
+      width: 100%; }
+    .entry-prev .image.entity {
+      border-radius: 50%; }
+  .entry-prev .texts {
+    padding: 15px;
+    height: 50%;
+    text-align: center; }
+    .entry-prev .texts .byline {
+      font-family: "MonumentGrotesk", sans-serif;
+      font-size: 10px;
+      letter-spacing: 0.02em;
+      line-height: 1.3em;
+      font-weight: 400;
+      font-style: normal;
+      font-stretch: normal;
+      text-transform: uppercase;
+      margin-bottom: 8px; }
+      @media (min-width: 576px) {
+        .entry-prev .texts .byline {
+          font-size: 10px; } }
+      @media (min-width: 768px) {
+        .entry-prev .texts .byline {
+          font-size: 10px; } }
+      @media (min-width: 992px) {
+        .entry-prev .texts .byline {
+          font-size: 10px; } }
+      @media (min-width: 1200px) {
+        .entry-prev .texts .byline {
+          font-size: 10px; } }
+    .entry-prev .texts .title {
+      font-family: "MonumentGrotesk", sans-serif;
+      font-size: 20px;
+      letter-spacing: 0.02em;
+      line-height: 1.2em;
+      font-weight: 400;
+      font-style: normal;
+      font-stretch: normal; }
+      @media (min-width: 576px) {
+        .entry-prev .texts .title {
+          font-size: 20px; } }
+      @media (min-width: 768px) {
+        .entry-prev .texts .title {
+          font-size: 20px; } }
+      @media (min-width: 992px) {
+        .entry-prev .texts .title {
+          font-size: 20px; } }
+      @media (min-width: 1200px) {
+        .entry-prev .texts .title {
+          font-size: 20px; } }
+  .entry-prev:hover {
+    cursor: pointer; }
+    .entry-prev:hover .image {
+      border: 3px solid #E64833; }
+    .entry-prev:hover .texts .byline {
+      color: #E64833; }
+    .entry-prev:hover .texts .title {
+      color: #E64833; }
+
+.byline-with-pic {
+  display: inline-flex;
+  align-items: center;
+  justify-content: flex-start; }
+  .byline-with-pic .image {
+    margin-right: 10px;
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: rgba(130, 155, 144, 0.3);
+    background-size: cover;
+    background-position: center center; }
+
+.container-fluid.text-width {
+  max-width: 800px; }
 
 /*# sourceMappingURL=index.css.map */

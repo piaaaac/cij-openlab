@@ -1,0 +1,54 @@
+Title: Ted Hunt
+
+----
+
+Entitytype: people
+
+----
+
+Byline: Artist
+
+----
+
+Img:
+
+- ted-hunt.png
+
+----
+
+Links:
+
+- 
+  linkurl: http://www.ted-hunt.com/
+  linktext: ted-hunt.com
+- 
+  linkurl: >
+    https://www.somersethouse.org.uk/residents/ted-hunt
+  linktext: somersethouse.org.uk
+- 
+  linkurl: https://twitter.com/_ted_hunt
+  linktext: Twitter
+
+----
+
+Description: Ted Hunt is an independent speculative/discursive/critical designer living and working in London and currently a resident of Somerset House Studios.
+
+----
+
+Topics: art, critical design
+
+----
+
+Geo: UK
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: 
+
+----
+
+Relatedentities: 

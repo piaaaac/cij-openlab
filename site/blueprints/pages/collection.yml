@@ -1,0 +1,34 @@
+title: Collection
+preset: page
+pages: false
+
+status:
+  draft: Draft
+  unlisted: In review
+  listed: Published
+
+fields:
+
+  text:
+    label: Description
+    type: textarea
+
+  entries:
+    label: Entries
+    type: pages
+    query: site.find('database/entities').children.add(site.find('database/items').children)
+
+sidebar:
+  meta:
+    type: fields
+    fields:
+      curator:
+        label: Curated by
+        type: pages
+        query: site.find('database/entities').children
+        max: 1
+
+
+
+
+

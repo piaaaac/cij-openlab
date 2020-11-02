@@ -1,0 +1,71 @@
+Title: Goodbye Big Five
+
+----
+
+Itemtype: project
+
+----
+
+Byline: Kashmir Hill For Gizmodo
+
+----
+
+Img:
+
+- big5.jpg
+
+----
+
+Links:
+
+- 
+  linkurl: >
+    https://www.eyebeam.org/eyebeam-center-for-the-future-of-journalism/
+  linktext: www.eyebeam.org
+- 
+  linkurl: https://gizmodo.com/c/goodbye-big-five
+  linktext: gizmodo.com
+
+----
+
+Year: 2019
+
+----
+
+Description: Our very first ECFJ supported piece was a five-part series from artist-technologist Dhruv Mehrotra. Together with Kashmir Hill, Gizmodo’s deputy editor for the Special Projects Desk, he created a VPN that blocked tech giants, including Amazon, Facebook, Google, Microsoft and Apple.
+
+----
+
+Topics: 
+
+----
+
+Geo: USA
+
+----
+
+Addedby: EYEBEAM
+
+----
+
+Importdata: {"id":92,"type":"project","title":"Goodbye Big Five","byline":"Kashmir Hill For Gizmodo","date":"2019","full-text":"Our very first ECFJ supported piece was a five-part series from artist-technologist Dhruv Mehrotra. Together with Kashmir Hill, Gizmodo\u2019s deputy editor for the Special Projects Desk, he created a VPN that blocked tech giants, including Amazon, Facebook, Google, Microsoft and Apple.","image":"https:\/\/www.eyebeam.org\/eyebeam-center-for-the-future-of-journalism\/","url1":"https:\/\/www.eyebeam.org\/eyebeam-center-for-the-future-of-journalism\/","url2":"https:\/\/gizmodo.com\/c\/goodbye-big-five","url3":"","topics":"","related-country":"USA","related-people-org-project":"45, 49","role":"","added by":"EYEBEAM","imported":""}
+
+----
+
+Author: 
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 
+
+----
+
+Type: project

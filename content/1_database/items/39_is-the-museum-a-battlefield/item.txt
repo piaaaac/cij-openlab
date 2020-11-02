@@ -1,0 +1,73 @@
+Title: Is The Museum A Battlefield?
+
+----
+
+Itemtype: project
+
+----
+
+Byline: Hito Steyerl
+
+----
+
+Img:
+
+- blank.png
+
+----
+
+Links:
+
+- 
+  linkurl: >
+    https://conversations.e-flux.com/t/video-hito-steyerls-lecture-is-the-museum-a-battlefield/238
+  linktext: conversations.e-flux.com
+- 
+  linkurl: 'https://kow-berlin.com/artists/hito-steyerl/is-the-museum-a-battlefield-2013#:~:text=In%20%22Is%20The%20Museum%20A,to%20the%20military%2Dcultural%20complex.'
+  linktext: kow-berlin.com
+
+----
+
+Year: 2012
+
+----
+
+Description: “Steyerl’s lecture takes as its departure point her March 2013 talk ‘I Dreamed a Dream: Politics in the Age of Mass Art Production’ and focuses on the arms industry, a phenomenon constantly re-conceptualized by the media through the regular flow of images. It asks the question of how a museum and a battlefield could be related. The question emerges when Steyerl follows the trace of an empty bullet casing which she found in the area where the mass grave of Andrea Wolf and her friends were located in Van, Turkey.”
+
+----
+
+Topics: battle, conflict, weapons, museum
+
+----
+
+Geo: Germany, Turkey, Kurdistan
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":116,"type":"project","title":"Is The Museum A Battlefield?","byline":"Hito Steyerl","date":"2012","full-text":"\u201cSteyerl\u2019s lecture takes as its departure point her March 2013 talk \u2018I Dreamed a Dream: Politics in the Age of Mass Art Production\u2019 and focuses on the arms industry, a phenomenon constantly re-conceptualized by the media through the regular flow of images. It asks the question of how a museum and a battlefield could be related. The question emerges when Steyerl follows the trace of an empty bullet casing which she found in the area where the mass grave of Andrea Wolf and her friends were located in Van, Turkey.\u201d","image":"https:\/\/kow-berlin.com\/artists\/hito-steyerl\/is-the-museum-a-battlefield-2013#:~:text=In%20%22Is%20The%20Museum%20A,to%20the%20military%2Dcultural%20complex.","url1":"https:\/\/conversations.e-flux.com\/t\/video-hito-steyerls-lecture-is-the-museum-a-battlefield\/238","url2":"https:\/\/kow-berlin.com\/artists\/hito-steyerl\/is-the-museum-a-battlefield-2013#:~:text=In%20%22Is%20The%20Museum%20A,to%20the%20military%2Dcultural%20complex.","url3":"","topics":"museums, battle, conflict, weapons","related-country":"Germany, Turkey, Kurdistan","related-people-org-project":94,"role":"","added by":"CIJ","imported":""}
+
+----
+
+Author:
+
+- database/entities/hito-steyerl
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 
+
+----
+
+Type: project

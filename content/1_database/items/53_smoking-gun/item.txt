@@ -1,0 +1,67 @@
+Title: Smoking Gun
+
+----
+
+Itemtype: project
+
+----
+
+Byline: Fast Familiar
+
+----
+
+Img:
+
+- smoking-gun.jpg
+
+----
+
+Links:
+
+- 
+  linkurl: https://fastfamiliar.com/smoking-gun/
+  linktext: fastfamiliar.com
+
+----
+
+Year: 2020
+
+----
+
+Description: 
+
+----
+
+Topics: 
+
+----
+
+Geo: 
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":84,"type":"project","title":"Smoking Gun","byline":"Fast Familiar","date":"2020","full-text":"","image":"","url1":"https:\/\/fastfamiliar.com\/smoking-gun\/","url2":"","url3":"","topics":"","related-country":"","related-people-org-project":83,"role":"","added by":"CIJ","imported":""}
+
+----
+
+Author: 
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 
+
+----
+
+Type: project

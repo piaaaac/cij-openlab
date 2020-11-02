@@ -1,0 +1,72 @@
+Title: What Atlanta Can Teach Tech About Cultivating Black Talent
+
+----
+
+Itemtype: project
+
+----
+
+Byline: Latoya Peterson, Stephanie Dinkins For Wired
+
+----
+
+Img:
+
+- what-atlanta-can-teach.jpg
+
+----
+
+Links:
+
+- 
+  linkurl: >
+    https://www.eyebeam.org/eyebeam-center-for-the-future-of-journalism/
+  linktext: www.eyebeam.org
+- 
+  linkurl: >
+    https://www.wired.com/story/what-atlanta-can-teach-tech-about-cultivating-black-talent/
+  linktext: www.wired.com
+
+----
+
+Year: 2020
+
+----
+
+Description: The city is rich in opportunity for African Americans, who are largely underrepresented in the industry. It’s also poised to become a hotbed for AI innovation. Our latest ECFJ piece by Latoya Peterson and Stephanie Dinkins. How can technology become more diverse and welcoming to underrepresented groups? The answer may be where few are looking—the city of Atlanta.
+
+----
+
+Topics: 
+
+----
+
+Geo: USA
+
+----
+
+Addedby: EYEBEAM
+
+----
+
+Importdata: {"id":87,"type":"project","title":"What Atlanta Can Teach Tech About Cultivating Black Talent","byline":"Latoya Peterson, Stephanie Dinkins For Wired","date":"2020","full-text":"The city is rich in opportunity for African Americans, who are largely underrepresented in the industry. It\u2019s also poised to become a hotbed for AI innovation. Our latest ECFJ piece by Latoya Peterson and Stephanie Dinkins. How can technology become more diverse and welcoming to underrepresented groups? The answer may be where few are looking\u2014the city of Atlanta.","image":"https:\/\/www.eyebeam.org\/eyebeam-center-for-the-future-of-journalism\/","url1":"https:\/\/www.eyebeam.org\/eyebeam-center-for-the-future-of-journalism\/","url2":"https:\/\/www.wired.com\/story\/what-atlanta-can-teach-tech-about-cultivating-black-talent\/","url3":"","topics":"","related-country":"USA","related-people-org-project":"45, 49","role":"","added by":"EYEBEAM","imported":""}
+
+----
+
+Author: 
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 
+
+----
+
+Type: project

@@ -1,0 +1,22 @@
+Title: NSA
+
+----
+
+Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed turpis sed ipsum vehicula bibendum imperdiet in orci. In vel vestibulum nisi. Donec sagittis nunc id erat aliquam blandit.
+
+----
+
+Entries:
+
+- >
+  items/titanpointe-the-nsa-s-spy-hub-in-new-york-hidden-in-plain-sight
+- items/scare-mail
+- items/project-x
+- entities/trevor-paglen
+- items/15-days
+
+----
+
+Curator:
+
+- entities/eyebeam

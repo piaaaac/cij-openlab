@@ -1,0 +1,54 @@
+Title: Sonia Kennebeck
+
+----
+
+Entitytype: people
+
+----
+
+Byline: Director
+
+----
+
+Img:
+
+- sonia-kennebeck.jpg
+
+----
+
+Links:
+
+- 
+  linkurl: 'http://nationalbirdfilm.com/bios/#sonia'
+  linktext: nationalbirdfilm.com
+- 
+  linkurl: https://twitter.com/skdocs?lang=en
+  linktext: Twitter
+
+----
+
+Description: Sonia Kennebeck is an independent documentary filmmaker and investigative journalist with more than 15 years of directing and producing experience. She has directed eight television documentaries and more than 50 investigative reports
+
+----
+
+Topics: director, documentary, film, surveillance
+
+----
+
+Geo: USA
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":46,"type":"people","title":"Sonia Kennebeck","byline":"Director","date":"","full-text":"Sonia Kennebeck is an independent documentary filmmaker and investigative journalist with more than 15 years of directing and producing experience. She has directed eight television documentaries and more than 50 investigative reports","image":"http:\/\/nationalbirdfilm.com\/bios\/#sonia","url1":"http:\/\/nationalbirdfilm.com\/bios\/#sonia","url2":"https:\/\/twitter.com\/skdocs?lang=en","url3":"","topics":"director, documentary, film, surveillance,","related-country":"USA","related-people-org-project":"","role":"","added by":"CIJ","imported":""}
+
+----
+
+Relatedentities: 
+
+----
+
+Type: people

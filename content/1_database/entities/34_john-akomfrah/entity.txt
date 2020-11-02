@@ -1,0 +1,56 @@
+Title: John Akomfrah
+
+----
+
+Entitytype: people
+
+----
+
+Byline: Artist
+
+----
+
+Img:
+
+- john-akomfrah.jpg
+
+----
+
+Links:
+
+- 
+  linkurl: >
+    https://www.royalacademy.org.uk/art-artists/name/john-akomfrah-ra
+  linktext: www.royalacademy.org.uk
+- 
+  linkurl: >
+    https://www.lissongallery.com/artists/john-akomfrah
+  linktext: www.lissongallery.com
+
+----
+
+Description: John Akomfrah is a hugely respected artist and filmmaker, whose works are characterised by their investigations into memory, post-colonialism, temporality and aesthetics and often explores the experiences of migrant diasporas globally. Akomfrah was a founding member of the influential Black Audio Film Collective, which started in London in 1982 alongside the artists David Lawson and Lina Gopaul, who he still collaborates with today. Their first film, Handsworth Songs (1986) explored the events surrounding the 1985 riots in Birmingham and London through a charged combination of archive footage, still photos and newsreel. The film won several international prizes and established a multi-layered visual style that has become a recognisable motif of Akomfrah’s practice.
+
+----
+
+Topics: 
+
+----
+
+Geo: UK
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":96,"type":"people","title":"John Akomfrah","byline":"Artist","date":"","full-text":"John Akomfrah is a hugely respected artist and filmmaker, whose works are characterised by their investigations into memory, post-colonialism, temporality and aesthetics and often explores the experiences of migrant diasporas globally. Akomfrah was a founding member of the influential Black Audio Film Collective, which started in London in 1982 alongside the artists David Lawson and Lina Gopaul, who he still collaborates with today. Their first film, Handsworth Songs (1986) explored the events surrounding the 1985 riots in Birmingham and London through a charged combination of archive footage, still photos and newsreel. The film won several international prizes and established a multi-layered visual style that has become a recognisable motif of Akomfrah\u2019s practice.","image":"https:\/\/www.lissongallery.com\/artists\/john-akomfrah","url1":"https:\/\/www.royalacademy.org.uk\/art-artists\/name\/john-akomfrah-ra","url2":"https:\/\/www.lissongallery.com\/artists\/john-akomfrah","url3":"","topics":"","related-country":"UK","related-people-org-project":118,"role":"","added by":"CIJ","imported":""}
+
+----
+
+Relatedentities: 
+
+----
+
+Type: people

@@ -1,0 +1,47 @@
+Title: The Institute Of Networked Cultures
+
+----
+
+Entitytype: people
+
+----
+
+Byline: 
+
+----
+
+Img:
+
+- blank.png
+
+----
+
+Links: 
+
+----
+
+Description: 
+
+----
+
+Topics: 
+
+----
+
+Geo: 
+
+----
+
+Addedby: 
+
+----
+
+Importdata: {"id":122,"type":"organization","title":"The Institute Of Networked Cultures","byline":"","date":"","full-text":"","image":"","url1":"","url2":"","url3":"","topics":"","related-country":"","related-people-org-project":"","role":"","added by":"","imported":""}
+
+----
+
+Relatedentities: 
+
+----
+
+Type: organization

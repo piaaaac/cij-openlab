@@ -1,0 +1,51 @@
+Title: ICA
+
+----
+
+Entitytype: people
+
+----
+
+Byline: 
+
+----
+
+Img:
+
+- ica.png
+
+----
+
+Links:
+
+- 
+  linkurl: https://www.ica.art/
+  linktext: www.ica.art
+
+----
+
+Description: ‘The Institute of Contemporary Arts in London has been the model for most ICAs that exist in the world today. Since its founding in 1946, the ICA contextualises contemporary culture within the socio-political conditions of the times. The ICA was created as an institute (not a museum), for the contemporary (not just modern) and for all the arts (not just art). As the ICA’s new director, it is my foremost goal to reconnect this organisation to this unique history: by leading those conversations that stand to innovate and by upholding the idealistic promise on which the ICA was founded some 72 years ago.’– Stefan Kalmár, Director
+
+----
+
+Topics: art, culture, exhibitions, commissions
+
+----
+
+Geo: UK
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":52,"type":"organization","title":"Ica","byline":"","date":"","full-text":"\u2018The Institute of Contemporary Arts in London has been the model for most ICAs that exist in the world today. Since its founding in 1946, the ICA contextualises contemporary culture within the socio-political conditions of the times. The ICA was created as an institute (not a museum), for the contemporary (not just modern) and for all the arts (not just art). As the ICA\u2019s new director, it is my foremost goal to reconnect this organisation to this unique history: by leading those conversations that stand to innovate and by upholding the idealistic promise on which the ICA was founded some 72 years ago.\u2019\u2013 Stefan Kalm\u00e1r, Director","image":"https:\/\/www.ica.art\/","url1":"https:\/\/www.ica.art\/","url2":"","url3":"","topics":"art, culture, exhibitions, commissions","related-country":"UK","related-people-org-project":"","role":"","added by":"CIJ","imported":""}
+
+----
+
+Relatedentities: 
+
+----
+
+Type: organization

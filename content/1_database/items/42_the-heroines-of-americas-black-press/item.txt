@@ -1,0 +1,72 @@
+Title: The Heroines Of America’s Black Press
+
+----
+
+Itemtype: project
+
+----
+
+Byline: Maya Millett With Art Commissioned By Johnalynn Holland, Andrea Pippins, Erin Robinson, Elise R. Peterson, Adriana Bellet, And Xia Gordon For The New York Review Of Books
+
+----
+
+Img:
+
+- blank.png
+
+----
+
+Links:
+
+- 
+  linkurl: >
+    https://www.eyebeam.org/eyebeam-center-for-the-future-of-journalism/
+  linktext: www.eyebeam.org
+- 
+  linkurl: >
+    https://www.nybooks.com/daily/2019/11/23/the-heroines-of-americas-black-press/
+  linktext: www.nybooks.com
+
+----
+
+Year: 2019
+
+----
+
+Description: How many black women journalists from the 19th century can you name? Six artists have recreated portraits of the pioneering women working in the field of journalism who have been largely erased until now.
+
+----
+
+Topics: 
+
+----
+
+Geo: USA
+
+----
+
+Addedby: EYEBEAM
+
+----
+
+Importdata: {"id":88,"type":"project","title":"The Heroines Of America\u2019s Black Press","byline":"Maya Millett With Art Commissioned By Johnalynn Holland, Andrea Pippins, Erin Robinson, Elise R. Peterson, Adriana Bellet, And Xia Gordon For The New York Review Of Books","date":"2019","full-text":"How many black women journalists from the 19th century can you name? Six artists have recreated portraits of the pioneering women working in the field of journalism who have been largely erased until now.","image":"https:\/\/www.eyebeam.org\/eyebeam-center-for-the-future-of-journalism\/","url1":"https:\/\/www.eyebeam.org\/eyebeam-center-for-the-future-of-journalism\/","url2":"https:\/\/www.nybooks.com\/daily\/2019\/11\/23\/the-heroines-of-americas-black-press\/","url3":"","topics":"","related-country":"USA","related-people-org-project":"45, 49","role":"","added by":"EYEBEAM","imported":""}
+
+----
+
+Author: 
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 
+
+----
+
+Type: project

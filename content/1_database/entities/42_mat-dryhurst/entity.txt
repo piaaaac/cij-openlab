@@ -1,0 +1,54 @@
+Title: Mat Dryhurst
+
+----
+
+Entitytype: people
+
+----
+
+Byline: Artist / Researcher
+
+----
+
+Img:
+
+- mat-dryhurst.jpg
+
+----
+
+Links:
+
+- 
+  linkurl: http://www.mathewdryhurst.com/
+  linktext: www.mathewdryhurst.com
+- 
+  linkurl: https://twitter.com/matdryhurst
+  linktext: Twitter
+
+----
+
+Description: Mathew Dryhurst is an artist and researcher based in Berlin Germany. His research focuses on technical and ethical protocols. He makes music and creates art with Holly Herndon, and their albums ‘Proto’ and ‘Platform’ (4AD) have garnered international critical acclaim.
+
+----
+
+Topics: culture, tech, art, music
+
+----
+
+Geo: USA, Germany
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":62,"type":"people","title":"Mat Dryhurst","byline":"Artist \/ Researcher","date":"","full-text":"Mathew Dryhurst is an artist and researcher based in Berlin Germany. His research focuses on technical and ethical protocols. He makes music and creates art with Holly Herndon, and their albums \u2018Proto\u2019 and \u2018Platform\u2019 (4AD) have garnered international critical acclaim.","image":"https:\/\/www.dropbox.com\/s\/nm5bh5xgy8kjlrg\/MatDryhurst_headshot_credit_Suzy_Poling.jpg?dl=0","url1":"http:\/\/www.mathewdryhurst.com\/","url2":"https:\/\/twitter.com\/matdryhurst","url3":"","topics":"culture, tech, art, music","related-country":"USA, Germany","related-people-org-project":"32, 64","role":"","added by":"CIJ","imported":""}
+
+----
+
+Relatedentities: 
+
+----
+
+Type: people

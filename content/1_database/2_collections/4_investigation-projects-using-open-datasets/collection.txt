@@ -1,0 +1,30 @@
+Title: Investigation Projects Using Open Datasets
+
+----
+
+Text: Mauris lacus ex, pretium nec odio sit amet, gravida faucibus nisi. Fusce vel nisi scelerisque, gravida purus at, hendrerit purus. Nulla efficitur lorem sit amet scelerisque sagittis. Vestibulum sit amet pellentesque nibh.
+
+----
+
+Entries:
+
+- >
+  items/artistic-journalism-an-introduction
+- >
+  items/artists-create-a-sinister-deepfake-of-mark-zuckerberg-to-teach-facebook-and-the-rest-of-usa-a-lesson-about-digital-propaganda
+- >
+  items/blockchain-risk-board-game-prototype-capital-markets-digital-asset
+- >
+  items/field-of-vision-an-interview-with-co-creators-laura-poitras-aj-schnack-and-charlotte-cook
+- items/goodbye-big-five
+- items/caliphate
+- items/15-days
+- >
+  items/titanpointe-the-nsa-s-spy-hub-in-new-york-hidden-in-plain-sight
+- items/tax-havens-normalized-grand-theft
+- items/wormwood
+- items/absolute-relative
+
+----
+
+Curator: entities/test-person

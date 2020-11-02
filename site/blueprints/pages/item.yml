@@ -37,6 +37,17 @@ fields:
     min: 1
     max: 1
 
+  links:
+    label: Links
+    type: structure
+    fields:
+      linkUrl: 
+        label: URL
+        type: url
+      linkText: 
+        label: Text
+        type: text
+
   year:
     label: Year
     type: text
@@ -49,13 +60,13 @@ fields:
     label: Topics
     type: tags
     options: query
-    query: site.find('items').childrenAndDrafts.add(site.find('entities').childrenAndDrafts).pluck("topics", ",", true)
+    query: site.find('database/items').childrenAndDrafts.add(site.find('database/entities').childrenAndDrafts).pluck("topics", ",", true)
 
   geo:
     label: Related country(ies)
     type: tags
     options: query
-    query: site.find('items').childrenAndDrafts.add(site.find('entities').childrenAndDrafts).pluck("geo", ",", true)
+    query: site.find('database/items').childrenAndDrafts.add(site.find('database/entities').childrenAndDrafts).pluck("geo", ",", true)
 
   addedBy:
     label: Added/edited by
@@ -72,19 +83,19 @@ sidebar:
       author:
         label: Author(s)
         type: pages
-        query: site.find('entities').children
+        query: site.find('database/entities').children
       commission:
         label: Commissioned by
         type: pages
-        query: site.find('entities').children
+        query: site.find('database/entities').children
       funder:
         label: Funder(s)
         type: pages
-        query: site.find('entities').children
+        query: site.find('database/entities').children
       platform:
         label: Platform(s)
         type: pages
-        query: site.find('entities').children
+        query: site.find('database/entities').children
 
   images:
     type: files

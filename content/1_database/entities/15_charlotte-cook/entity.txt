@@ -1,0 +1,51 @@
+Title: Charlotte Cook
+
+----
+
+Entitytype: people
+
+----
+
+Byline: Director
+
+----
+
+Img:
+
+- charlotte-cook.jpeg
+
+----
+
+Links:
+
+- 
+  linkurl: https://fieldofvision.org/staff
+  linktext: fieldofvision.org
+
+----
+
+Description: Charlotte Cook is a curator, writer and producer. Prior to Field of Vision, she was the Director of Programming at Hot Docs, North America’s largest documentary festival. In London, Charlotte was the Head of Film Programming at The Frontline Club. She has also worked with BBC Storyville, the Channel 4 BritDoc Foundation’s Puma Creative Catalyst Fund and the Edinburgh International Film Festival, where she curated the strand Conflict | Reportage. In addition to her work at Field of Vision, Charlotte is currently a programmer at CPH:DOX.
+
+----
+
+Topics: documentary, film
+
+----
+
+Geo: UK/US
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":43,"type":"people","title":"Charlotte Cook","byline":"Director","date":"","full-text":"Charlotte Cook is a curator, writer and producer. Prior to Field of Vision, she was the Director of Programming at Hot Docs, North America\u2019s largest documentary festival. In London, Charlotte was the Head of Film Programming at The Frontline Club. She has also worked with BBC Storyville, the Channel 4 BritDoc Foundation\u2019s Puma Creative Catalyst Fund and the Edinburgh International Film Festival, where she curated the strand Conflict | Reportage. In addition to her work at Field of Vision, Charlotte is currently a programmer at CPH:DOX.","image":"https:\/\/fieldofvision.org\/staff","url1":"https:\/\/fieldofvision.org\/staff","url2":"","url3":"","topics":"documentary, film","related-country":"UK\/us","related-people-org-project":"50,","role":"","added by":"CIJ","imported":""}
+
+----
+
+Relatedentities: 
+
+----
+
+Type: people

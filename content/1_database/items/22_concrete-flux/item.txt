@@ -1,0 +1,70 @@
+Title: Concrete Flux
+
+----
+
+Itemtype: project
+
+----
+
+Byline: Sophie Dyer, Solveig Suess
+
+----
+
+Img:
+
+- blank.png
+
+----
+
+Links:
+
+- 
+  linkurl: http://concreteflux.com/
+  linktext: concreteflux.com
+
+----
+
+Year: 
+
+----
+
+Description: Concrete Flux is an experimental documentary unit that produces, commissions and collates works which move between the poetic and journalistic, fiction and non-fiction. All content is published in Chinese and English, in print and online.
+
+----
+
+Topics: aesthetic journalism, essays, publication
+
+----
+
+Geo: International
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":15,"type":"publication","title":"Concrete Flux","byline":"Sophie Dyer, Solveig Suess","date":"","full-text":"Concrete Flux is an experimental documentary unit that produces, commissions and collates works which move between the poetic and journalistic, fiction and non-fiction. All content is published in Chinese and English, in print and online.","image":"http:\/\/concreteflux.com\/","url1":"http:\/\/concreteflux.com\/","url2":"","url3":"","topics":"aesthetic journalism, essays, publication","related-country":"International","related-people-org-project":"63, 64","role":"","added by":"CIJ","imported":""}
+
+----
+
+Author:
+
+- database/entities/sophie-dyer
+- database/entities/solveig-suess
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 
+
+----
+
+Type: publication

@@ -1,0 +1,51 @@
+Title: Richard Mosse
+
+----
+
+Entitytype: people
+
+----
+
+Byline: Photographer
+
+----
+
+Img:
+
+- richardmosse.jpg
+
+----
+
+Links:
+
+- 
+  linkurl: http://www.richardmosse.com/
+  linktext: www.richardmosse.com
+
+----
+
+Description: Richard Mosse is an Irish conceptual documentary photographer. Mosse gained significant attention for his photographs of the war in eastern Democratic Republic of Congo using colour infrared film intended to create a new perspective on conflict.
+
+----
+
+Topics: photography
+
+----
+
+Geo: UK
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":75,"type":"people","title":"Richard Mosse","byline":"Photographer","date":"","full-text":"Richard Mosse is an Irish conceptual documentary photographer. Mosse gained significant attention for his photographs of the war in eastern Democratic Republic of Congo using colour infrared film intended to create a new perspective on conflict.","image":"https:\/\/artmuseum.is\/events\/artist-qa-richard-mosse-trevor-tweeten-ben-frost-and-john-holten","url1":"http:\/\/www.richardmosse.com\/","url2":"","url3":"","topics":"photography","related-country":"UK","related-people-org-project":85,"role":"","added by":"CIJ","imported":""}
+
+----
+
+Relatedentities: 
+
+----
+
+Type: people

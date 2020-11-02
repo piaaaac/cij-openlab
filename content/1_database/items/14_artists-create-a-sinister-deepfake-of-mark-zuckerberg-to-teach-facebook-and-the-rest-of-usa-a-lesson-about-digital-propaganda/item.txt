@@ -1,0 +1,66 @@
+Title: Artists create a sinister deepfake of Mark Zuckerberg to teach Facebook (and the rest of USA) a lesson about digital propaganda
+
+----
+
+Itemtype: project
+
+----
+
+Byline: Naomi Rea For Artnet
+
+----
+
+Img: - deepfake-zuck.jpg
+
+----
+
+Links:
+
+- 
+  linkurl: >
+    https://news.artnet.com/art-world/mark-zuckerberg-deepfake-artist-1571788
+  linktext: news.artnet.com
+
+----
+
+Year: 2019
+
+----
+
+Description: “Imagine this for a second,” Mark Zuckerberg intones in a measured voice as a news ticker below him flashes a message about ad transparency on screen. “One man with total control of billions of people’s stolen data, all their secrets, their lives, their futures.” The Facebook CEO goes on to thank a mysterious entity called “Spectre” for showing him that “whoever controls the data, controls the future.”
+
+----
+
+Topics: surveillance, tech, deep fake, art
+
+----
+
+Geo: UK
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":19,"type":"article","title":"Artists Create A Sinister \u2018deepfake\u2019 Of Mark Zuckerberg To Teach Facebook (and The Rest Of USA) A Lesson About Digital Propaganda","byline":"Naomi Rea For Artnet","date":"2019","full-text":"\u201cImagine this for a second,\u201d Mark Zuckerberg intones in a measured voice as a news ticker below him flashes a message about ad transparency on screen. \u201cOne man with total control of billions of people\u2019s stolen data, all their secrets, their lives, their futures.\u201d The Facebook CEO goes on to thank a mysterious entity called \u201cSpectre\u201d for showing him that \u201cwhoever controls the data, controls the future.\u201d","image":"https:\/\/news.artnet.com\/art-world\/mark-zuckerberg-deepfake-artist-1571788","url1":"https:\/\/news.artnet.com\/art-world\/mark-zuckerberg-deepfake-artist-1571788","url2":"","url3":"","topics":"surveillance, tech, deep fake, art","related-country":"UK","related-people-org-project":37,"role":"","added by":"CIJ","imported":""}
+
+----
+
+Author: - database/entities/bill-posters
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 
+
+----
+
+Type: article

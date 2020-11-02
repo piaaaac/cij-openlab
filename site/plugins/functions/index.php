@@ -24,3 +24,40 @@ function lipsum($times = 3){
 function spacer($n){
   echo '<div class="spacer" style="height: '. $n .'px;"></div>';
 }
+
+// -------------------------------------
+// PROJECT SPECIFIC
+// -------------------------------------
+
+function pluralName ($str) {
+  if ($str == "people") { return "people"; }
+  return $str ."s";
+}
+
+function bylineWithPic ($page) {
+  
+  $pageTypes = [
+    "collection"  => ["fieldName" => "curator", "text" => "Curated by "],
+    "essay"       => ["fieldName" => "author",  "text" => "Essay by "]
+  ];
+  $template = $page->template()->name();
+  
+  if (!array_key_exists($template, $pageTypes)) {
+    kill("bylineWithPic() - not available for template ". $template ." (err. 09238472)");
+  }
+
+  $fieldName = $pageTypes[$template]["fieldName"];
+  $text = $pageTypes[$template]["text"];
+
+  if ($entity = $page->$fieldName()->toPage()) {
+
+    return "
+    <div class='byline-with-pic'>
+      <div class='image' style='background-image: url(\"". $entity->img()->toFile()->url() ."\");'></div>
+      <div class='font-xs upper'>". $text ."<a class='color-red' onclick='a.openDetail(\"". $entity->id() ."\");'>". $entity->title() ."</a></div>
+    </div>";
+
+  } else {
+    return "&mdash;";
+  }
+}

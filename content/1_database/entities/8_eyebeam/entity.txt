@@ -1,0 +1,53 @@
+Title: Eyebeam
+
+----
+
+Entitytype: organization
+
+----
+
+Byline: 
+
+----
+
+Img:
+
+- eyebeambox.gif
+
+----
+
+Links:
+
+- 
+  linkurl: https://www.eyebeam.org/
+  linktext: www.eyebeam.org
+- 
+  linkurl: https://twitter.com/eyebeamnyc
+  linktext: Twitter
+- 
+  linkurl: https://www.instagram.com/eyebeamnyc/
+  linktext: Instagram
+
+----
+
+Description: A public storefront, idea space, and experimental platform that is “constantly becoming,” Eyebeam is distinguished for providing space and support for diverse, justice-driven artists.
+
+----
+
+Topics: art, residency
+
+----
+
+Geo: USA
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: 
+
+----
+
+Relatedentities: 

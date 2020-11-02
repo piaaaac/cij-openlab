@@ -1,0 +1,47 @@
+Title: Molly Crabapple
+
+----
+
+Entitytype: people
+
+----
+
+Byline: Illustrator
+
+----
+
+Img:
+
+- molly-crabapple-1-1024x546.jpg
+
+----
+
+Links:
+
+- 
+  linkurl: https://mollycrabapple.com/
+  linktext: mollycrabapple.com
+
+----
+
+Description: Molly Crabapple is an award-winning artist, writer and author of Drawing Blood and Brothers of the Gun (with Marwan Hisham).
+
+----
+
+Topics: illustration, art, author
+
+----
+
+Geo: USA
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: 
+
+----
+
+Relatedentities: 

@@ -1,0 +1,47 @@
+Title: Renzo Martens
+
+----
+
+Entitytype: people
+
+----
+
+Byline: Artist
+
+----
+
+Img:
+
+- renzo-martens.jpg
+
+----
+
+Links:
+
+- 
+  linkurl: https://www.humanactivities.org/en/
+  linktext: humanactivities.org
+
+----
+
+Description: Renzo Martens is a Dutch artist who currently lives and works in Amsterdam and Kinshasa. Martens became known for his provocations, including Episode III: Enjoy Poverty, a documentary that suggests that the Congo market their poverty as a natural resource.
+
+----
+
+Topics: art, journalism, congo
+
+----
+
+Geo: Netherlands, DR Congo
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: 
+
+----
+
+Relatedentities: 

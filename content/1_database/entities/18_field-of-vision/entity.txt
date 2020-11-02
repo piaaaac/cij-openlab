@@ -1,0 +1,51 @@
+Title: Field Of Vision
+
+----
+
+Entitytype: people
+
+----
+
+Byline: 
+
+----
+
+Img:
+
+- field-of-vision.png
+
+----
+
+Links:
+
+- 
+  linkurl: https://fieldofvision.org/
+  linktext: fieldofvision.org
+
+----
+
+Description: Field of Vision is a filmmaker-driven documentary unit that commissions and creates original short-form, episodic, and feature-length nonfiction films about developing and ongoing stories around the globe, led by Academy Award-winning filmmaker Laura Poitras and curator & producer Charlotte Cook. Inspired by the creative potential of visual journalism, they produce and support cinematic work that tells the stories of our world from new perspectives.
+
+----
+
+Topics: documentary, film, journalism
+
+----
+
+Geo: USA
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":50,"type":"organization","title":"Field Of Vision","byline":"","date":"","full-text":"Field of Vision is a filmmaker-driven documentary unit that commissions and creates original short-form, episodic, and feature-length nonfiction films about developing and ongoing stories around the globe, led by Academy Award-winning filmmaker Laura Poitras and curator & producer Charlotte Cook. Inspired by the creative potential of visual journalism, they produce and support cinematic work that tells the stories of our world from new perspectives.","image":"https:\/\/fieldofvision.org\/","url1":"https:\/\/fieldofvision.org\/","url2":"","url3":"","topics":"documentary, film, journalism","related-country":"USA","related-people-org-project":"43, 47","role":"","added by":"CIJ","imported":""}
+
+----
+
+Relatedentities: 
+
+----
+
+Type: organization

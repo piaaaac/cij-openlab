@@ -1,0 +1,70 @@
+Title: Enjoy Poverty Interview With Renzo Martens
+
+----
+
+Itemtype: project
+
+----
+
+Byline: Joe Penney For Africa Is A Country
+
+----
+
+Img:
+
+- blank.png
+
+----
+
+Links:
+
+- 
+  linkurl: >
+    https://africasacountry.com/2010/07/poverty-for-sale/
+  linktext: africasacountry.com
+
+----
+
+Year: 2010
+
+----
+
+Description: An interview with the filmmaker, Renzo Martens, who has made a film about how the West directly and indirectly—interact with the Congolese. Only as victims.
+
+----
+
+Topics: art, dr congo, poverty
+
+----
+
+Geo: Dr Congo
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":22,"type":"interview","title":"Enjoy Poverty Interview With Renzo Martens","byline":"Joe Penney For Africa Is A Country","date":"2010","full-text":"An interview with the filmmaker, Renzo Martens, who has made a film about how the West directly and indirectly\u2014interact with the Congolese. Only as victims.","image":"https:\/\/africasacountry.com\/2010\/07\/poverty-for-sale\/","url1":"https:\/\/africasacountry.com\/2010\/07\/poverty-for-sale\/","url2":"","url3":"","topics":"art, dr congo, poverty,","related-country":"Dr Congo","related-people-org-project":44,"role":"","added by":"CIJ","imported":""}
+
+----
+
+Author:
+
+- database/entities/renzo-martens
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 
+
+----
+
+Type: interview

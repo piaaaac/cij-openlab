@@ -26,20 +26,22 @@ $font:  "MonumentGrotesk", sans-serif;
   @include media-breakpoint-up(xl) { font-size: $xl; }  
 }
 
-// ------------------------------------------------ xs ---- sm ---- md ---- lg ---- xl -- lsp ---- lh ---- w --- style
-@mixin font-huge  { @include font-style($font,  5.40vw, 5.40vw, 5.40vw, 5.40vw, 5.40vw,     0,  1.3em,   400,   normal); }
-@mixin font-large { @include font-style($font,  2.81vw, 2.81vw, 2.81vw, 2.81vw, 2.81vw,     0,  1.3em,   400,   normal); }
-@mixin font-m     { @include font-style($font,    18px,   18px,   18px,   18px,   18px,     0,  1.3em,   400,   normal); }
-@mixin font-s     { @include font-style($font,    15px,   15px,   15px,   15px,   15px,     0,  1.3em,   400,   normal); }
-@mixin font-xs    { @include font-style($font,    10px,   10px,   10px,   10px,   10px,     0,  1.3em,   400,   normal); }
+// ------------------------------------------------ xs ---- sm ---- md ---- lg ---- xl --- lsp ---- lh ---- w --- style
+@mixin font-menu  { @include font-style($font,    18px,   18px,   18px,   18px,   18px, 0.02em,  1.3em,   400,   normal); }
+@mixin font-xxl   { @include font-style($font,    40px,   40px,   40px,   40px,   40px, 0.02em,  1.3em,   400,   normal); }
+@mixin font-xl    { @include font-style($font,    27px,   27px,   27px,   27px,   27px, 0.02em,  1.3em,   400,   normal); }
+@mixin font-l     { @include font-style($font,    20px,   20px,   20px,   20px,   20px, 0.02em,  1.2em,   400,   normal); }
+@mixin font-m     { @include font-style($font,    14px,   14px,   14px,   14px,   14px, 0.02em,  1.4em,   400,   normal); }
+@mixin font-xs    { @include font-style($font,    10px,   10px,   10px,   10px,   10px, 0.02em,  1.3em,   400,   normal); }
 
-.font-huge        { @include font-huge; }
-.font-large       { @include font-large; }
+.font-menu        { @include font-menu; }
+.font-xxl         { @include font-xxl; }
+.font-xl          { @include font-xl; }
+.font-l           { @include font-l; }
 .font-m           { @include font-m; }
-.font-s           { @include font-s; }
 .font-xs          { @include font-xs; }
 
-@mixin font-zoom  { line-height: 1.3em; font-size: 11px; }
+@mixin font-zoom  { line-height: 1.3em; font-size: 10px; }
 .font-zoom        { @include font-zoom; }
 
 

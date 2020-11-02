@@ -1,0 +1,72 @@
+Title: Want To Really Block The Tech Giants? Here's How
+
+----
+
+Itemtype: project
+
+----
+
+Byline: Dhruv Mehrotra For Gizmodo
+
+----
+
+Img:
+
+- blank.png
+
+----
+
+Links:
+
+- 
+  linkurl: >
+    https://www.eyebeam.org/eyebeam-center-for-the-future-of-journalism/
+  linktext: www.eyebeam.org
+- 
+  linkurl: >
+    https://gizmodo.com/want-to-really-block-the-tech-giants-heres-how-1832261612
+  linktext: gizmodo.com
+
+----
+
+Year: 2019
+
+----
+
+Description: Here, Dhruv Mehrotra talks about the process of creating a VPN for Gizmodo’s deputy editor for the Special Projects Desk, Kashmir Hill, and her five-part series blocking tech giants.
+
+----
+
+Topics: 
+
+----
+
+Geo: USA
+
+----
+
+Addedby: EYEBEAM
+
+----
+
+Importdata: {"id":91,"type":"project","title":"Want To Really Block The Tech Giants? Here's How","byline":"Dhruv Mehrotra For Gizmodo","date":"2019","full-text":"Here, Dhruv Mehrotra talks about the process of creating a VPN for Gizmodo\u2019s deputy editor for the Special Projects Desk, Kashmir Hill, and her five-part series blocking tech giants.","image":"https:\/\/www.eyebeam.org\/eyebeam-center-for-the-future-of-journalism\/","url1":"https:\/\/www.eyebeam.org\/eyebeam-center-for-the-future-of-journalism\/","url2":"https:\/\/gizmodo.com\/want-to-really-block-the-tech-giants-heres-how-1832261612","url3":"","topics":"","related-country":"USA","related-people-org-project":"45, 49","role":"","added by":"EYEBEAM","imported":""}
+
+----
+
+Author: 
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 
+
+----
+
+Type: project

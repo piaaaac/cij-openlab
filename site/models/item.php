@@ -1,18 +1,19 @@
 <?php
 class ItemPage extends Page {
-  public function smartByline () {
   	
-    
+  public function smartByline () {    
     if ($this->byline()->isNotEmpty()) {
       return $this->byline()->value();
     }
-
-    $byline = $this->itemType()->toUpper();
-
+    $byline = ucfirst($this->itemType()->value());
     if ($this->author()->isNotEmpty()) {
-    	$byline .= " by ". $this->author()->toPage()->title();
+      $authors = [];
+      foreach ($this->author()->toPages() as $a) {
+        $authors[] = $a->title();
+      }
+    	$byline .= " by ". implode(", ", $authors);
     }
-
     return $byline;
   }
+
 }

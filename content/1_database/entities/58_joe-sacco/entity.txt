@@ -1,0 +1,47 @@
+Title: Joe Sacco
+
+----
+
+Entitytype: people
+
+----
+
+Byline: Cartoonist, Journalist
+
+----
+
+Img:
+
+- blank.png
+
+----
+
+Links: 
+
+----
+
+Description: 
+
+----
+
+Topics: 
+
+----
+
+Geo: 
+
+----
+
+Addedby: 
+
+----
+
+Importdata: {"id":127,"type":"people","title":"Joe Sacco","byline":"Cartoonist, Journalist","date":"","full-text":"","image":"","url1":"","url2":"","url3":"","topics":"","related-country":"","related-people-org-project":"","role":"","added by":"","imported":""}
+
+----
+
+Relatedentities: 
+
+----
+
+Type: people

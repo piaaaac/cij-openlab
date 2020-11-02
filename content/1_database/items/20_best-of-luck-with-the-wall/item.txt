@@ -1,0 +1,73 @@
+Title: Best Of Luck With The Wall
+
+----
+
+Itemtype: project
+
+----
+
+Byline: Josh Begley
+
+----
+
+Img:
+
+- blank.png
+
+----
+
+Links:
+
+- 
+  linkurl: 'https://www.youtube.com/watch?v=sIe9p7tslpg&ab_channel=FieldofVision'
+  linktext: Youtube
+- 
+  linkurl: >
+    https://fieldofvision.org/interview-with-josh-begley
+  linktext: fieldofvision.org
+
+----
+
+Year: 2016
+
+----
+
+Description: A voyage across the USA-Mexico border, stitched together from 200,000 satellite images.
+
+----
+
+Topics: border, wall, satillite imagery
+
+----
+
+Geo: USA, Mexico
+
+----
+
+Addedby: CIJ
+
+----
+
+Importdata: {"id":111,"type":"project","title":"Best Of Luck With The Wall","byline":"Josh Begley","date":"2016","full-text":"A voyage across the USA-Mexico border, stitched together from 200,000 satellite images.","image":"https:\/\/www.youtube.com\/watch?v=sIe9p7tslpg&ab_channel=FieldofVision","url1":"https:\/\/www.youtube.com\/watch?v=sIe9p7tslpg&ab_channel=FieldofVision","url2":"https:\/\/fieldofvision.org\/interview-with-josh-begley","url3":"","topics":"border, wall, satillite imagery","related-country":"USA, Mexico","related-people-org-project":"50, 101","role":"","added by":"CIJ","imported":""}
+
+----
+
+Author:
+
+- database/entities/josh-begley
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 
+
+----
+
+Type: project
