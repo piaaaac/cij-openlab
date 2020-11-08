@@ -16,7 +16,7 @@
       	<div class="entry-img-wrapper">
 	      	<div class="entry-img <?= $entry->template() ?>" 
 	      		   style="background-image: url(<?= $entry->img()->toFile()->url() ?>);" 
-	      		   onclick="a.openDetail('<?= $entry->id() ?>')"></div>
+	      		   onclick="a.openDetail(event, '<?= $entry->id() ?>')"></div>
       	</div>
 	    <?php endforeach ?>
     	

@@ -1,0 +1,27 @@
+title: Article
+preset: page
+pages: false
+
+status:
+  draft: Draft
+  unlisted: In review
+  listed: Published
+
+fields:
+
+  text:
+    label: Text
+    type: textarea
+
+sidebar:
+  meta:
+    type: fields
+    fields:
+      author:
+        label: Author
+        type: pages
+        query: site.find('database/entities').children
+        max: 1
+
+  images:
+    type: files

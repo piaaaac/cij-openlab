@@ -8,6 +8,7 @@ $allPlaces = [];
 ?>
 
 <main class="database">
+  <?php snippet("page-title", ["forceTitle" => "DATABASE"]) ?>
   <div class="entries">
 
     <?php for ($multiply = 0; $multiply < 1; $multiply++): ?>
@@ -78,9 +79,10 @@ $allPlaces = [];
              data-places="<?=   count($places)   == 0 ? "" : "<". implode(">,<", $places)   .">" ?>">
 
           <span class="zoom-1-2">
-            <div class="image <?= $template ?>" style="background-image: url(<?= $imgUrl ?>);"></div>
-            <span class="title font-zoom"><strong><?= $entry->title() ?></strong></span>
-            <span class="byline font-xs"><?= $byline ?></span></span><div 
+            <span class="placeholder"></span>
+            <span class="image <?= $template ?>" style="background-image: url(<?= $imgUrl ?>);"></span>
+            <span class="title font-zoom"><?= $entry->title() ?></span><span class="byline font-xs">
+              <?= $byline ?></span></span><div 
 
           class="zoom-3">
             <div class="image <?= $template ?>" style="background-image: url(<?= $imgUrl ?>);">
@@ -94,26 +96,25 @@ $allPlaces = [];
 
       <?php endforeach ?>
     <?php endfor ?>
-
-    <?php 
-      ksort($allEntities);
-      ksort($allTopics);
-      ksort($allPlaces);
-      // kill([
-      //   "allEntities" => $allEntities, 
-      //   "allTopics" => $allTopics, 
-      //   "allPlaces" => $allPlaces
-      // ]);
-    ?>
+  
+    <svg id="connections"></svg>
 
   </div>
 
+  <?php 
+    ksort($allEntities);
+    ksort($allTopics);
+    ksort($allPlaces);
+  ?>
+
   <div class="meta-left">
+    <p class="font-xs mt-3">PEOPLE & ORGANIZATIONS</p>
     <?php foreach ($allEntities as $eSlug => $entity): ?>
       <a class="meta-link" data-filter-by="entities" data-entities="<?= "<$eSlug>" ?>"><?= $entity ?></a>
     <?php endforeach ?>
   </div>
   <div class="meta-right">
+    <p class="font-xs mt-3">TOPICS</p>
     <?php foreach ($allTopics as $tSlug => $topic): ?>
       <a class="meta-link" data-filter-by="topics" data-topics="<?= "<$tSlug>" ?>"><?= $topic ?></a>
     <?php endforeach ?>
@@ -123,8 +124,10 @@ $allPlaces = [];
   -->
   <div id="filter-alert" onclick="a.clearFilter();">
     <div id="message">Filter: journalism (15 entries)</div>
-    <a class="clear">clear filter &times;</a>
+    <a class="clear">&times;</a>
   </div>
+
+  <div class="spacer py-5"></div>
 
 </main>
 
@@ -135,4 +138,5 @@ $allPlaces = [];
 a.zoomTo(2);
 </script>
 
-<?php snippet("footer", ["hideFooter" => true]) ?>
+<!-- <?php snippet("footer", ["hideFooter" => true]) ?> -->
+<?php snippet("footer") ?>

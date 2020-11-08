@@ -14,7 +14,7 @@ function tableRow ($entry) {
 
   <div class="search-table-row" 
        data-type="<?= $entry->entryType()->value() ?>" 
-       onclick="a.openDetail('<?= $entry->id() ?>');"
+       onclick="a.openDetail(event, '<?= $entry->id() ?>');"
    >
     <div class="cell image <?= $entry->template() ?>" 
          style="background-image: url(<?= $entry->img()->toFile()->thumb()->url() ?>);"></div>
@@ -28,29 +28,34 @@ function tableRow ($entry) {
 <?php }
 ?>
 
-<main class="search">
-  <div class="container-fluid">
-    <div class="row">
-      <div class="col entry-types">
-        <?php foreach ($types as $type => $stat): ?>
-          <a class="mx-2" 
-             onclick="filterTable(this, '<?= $type ?>');"
-          ><?= ucfirst($type) ?><sup class="font-xs apex ml-1"><?= $stat ?></sup></a>
-        <?php endforeach ?>
+<main class="green">
+  <section class="bg-white">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col entry-types">
+          <?php foreach ($types as $type => $stat): ?>
+            <a class="mx-2" 
+               onclick="filterTable(this, '<?= $type ?>');"
+            ><?= ucfirst($type) ?><sup class="font-xs apex ml-1"><?= $stat ?></sup></a>
+          <?php endforeach ?>
+        </div>
       </div>
     </div>
+  </section>
+  
+  <div class="container-fluid">
     <div class="row">
       <div class="col">
         
         <div class="search-table">
 
           <header class="search-table-row">
-            <div class="cell color-bg2 title counter"><?= $counterText ?></div>
+            <div class="cell color-black40 title counter"><?= $counterText ?></div>
             <div class="cell opacity-0 <?= $hideHeaderCells ?>image"></div>
-            <div class="cell color-bg2 <?= $hideHeaderCells ?>type">TYPE</div>
-            <div class="cell color-bg2 <?= $hideHeaderCells ?>author">AUTHOR</div>
-            <div class="cell color-bg2 <?= $hideHeaderCells ?>flex-grow-1"></div>
-            <div class="cell color-bg2 <?= $hideHeaderCells ?>year">YEAR</div>
+            <div class="cell color-black40 <?= $hideHeaderCells ?>type">TYPE</div>
+            <div class="cell color-black40 <?= $hideHeaderCells ?>author">AUTHOR</div>
+            <div class="cell color-black40 <?= $hideHeaderCells ?>flex-grow-1"></div>
+            <div class="cell color-black40 <?= $hideHeaderCells ?>year">YEAR</div>
           </header>
 
           <?php foreach ($entries as $entry): ?>
@@ -61,6 +66,9 @@ function tableRow ($entry) {
       </div>
     </div>
   </div>
+
+  <div class="spacer py-5"></div>
+
 </main>
 
 <?php snippet("overlay") ?>

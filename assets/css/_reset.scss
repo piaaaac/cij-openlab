@@ -64,7 +64,7 @@ input[type="search"]::-webkit-search-decoration {
 
 // --- B --- custom
 html body input:-internal-autofill-selected {
-  background-color: transparent !important;
+  background-color: rgba(0,0,0,0) !important;
   background-image: none !important;
   color: -internal-light-dark-color(black, white) !important;
 }

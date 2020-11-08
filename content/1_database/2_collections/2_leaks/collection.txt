@@ -9,14 +9,12 @@ Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed turpis
 Entries:
 
 - >
-  items/titanpointe-the-nsa-s-spy-hub-in-new-york-hidden-in-plain-sight
-- items/scare-mail
-- items/project-x
-- entities/trevor-paglen
-- items/15-days
+  database/items/titanpointe-the-nsa-s-spy-hub-in-new-york-hidden-in-plain-sight
+- database/items/scare-mail
+- database/items/project-x
+- database/entities/trevor-paglen
+- database/items/15-days
 
 ----
 
-Curator:
-
-- entities/eyebeam
+Curator: 

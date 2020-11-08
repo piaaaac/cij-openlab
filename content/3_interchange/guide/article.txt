@@ -1,0 +1,96 @@
+Title: Guide for interchange and essay articles
+
+----
+
+Text:
+
+## Links
+
+To add a link use the `link` tag and the optional `text` and `target` keywords, like in the following examples.
+
+<pre>
+&#40;link: https://tcij.org text: click me)
+&#40;link: https://tcij.org text: click me target: _blank)
+&#40;link: interchange/guide text: click me)
+</pre>
+
+Result:
+
+Lorem ipsum (link: https://tcij.org text: link that opens in the same tab) sit amet.
+
+Lorem ipsum (link: https://tcij.org text: link that opens in a new tab target: _blank) sit amet.
+
+Lorem ipsum (link: interchange/guide text: link to an internal page target: _blank) sit amet.
+
+ 
+
+## Videos
+
+To embed a Vimeo video responsively use the following custom tag.
+
+<pre>
+&#40;videor: https://vimeo.com/266116279 caption: Lorem ipsum dolor sit amet.)
+</pre>
+
+Result:
+
+(videor: https://vimeo.com/266116279 caption: Lorem ipsum dolor sit amet.)
+
+ 
+
+## Images
+
+To embed an image:
+- upload an image using the panel on the left
+- use the following tag, or drag the image inside the text field
+
+<pre>
+&#40;image: imagename.png caption: Lorem ipsum dolor sit amet.)
+</pre>
+
+Result:
+
+(image: screenshot-2020-10-06-at-21.48.59.png caption: Lorem ipsum dolor sit amet.)
+
+ 
+
+## Soundcloud embed
+
+To embed a Soundcloud audio copy the embed code from Soundcloud and paste it here.
+
+Result:
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/129496766&color=%23d9d0c7&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/gen-ohm" title="Gen-Ohm" target="_blank" style="color: #cccccc; text-decoration: none;">Gen-Ohm</a> · <a href="https://soundcloud.com/gen-ohm/of-monsters-and-men-little" title="Of Monsters And Men - Little Talks (Gen-Ohm Remix) [FREE DOWNLOAD]" target="_blank" style="color: #cccccc; text-decoration: none;">Of Monsters And Men - Little Talks (Gen-Ohm Remix) [FREE DOWNLOAD]</a></div>
+
+ 
+
+## SIMPLE QUOTES
+
+To add a simple quote just start a paragraph with `>`, as follows.
+
+<pre>
+> Fusce vel nisi scelerisque, gravida purus at, hendrerit purus. Nulla efficitur lorem sit amet scelerisque sagittis. Vestibulum sit amet pellentesque nibh. Nulla id mollis est. In non vestibulum dui, at malesuada quam. Phasellus fermentum tempor purus ac tincidunt. 
+</pre>
+
+Result:
+
+> Fusce vel nisi scelerisque, gravida purus at, hendrerit purus. Nulla efficitur lorem sit amet scelerisque sagittis. Vestibulum sit amet pellentesque nibh. Nulla id mollis est. In non vestibulum dui, at malesuada quam. Phasellus fermentum tempor purus ac tincidunt. 
+
+ 
+
+## FANCY QUOTES
+
+To add a quote with "redacted" decoration and small byline text use the `fancyquote` custom tag and the `small` keyword.
+
+<pre>
+&#40;fancyquote: Quote ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed turpis sed ipsum vehicula bibendum imperdiet in orci. In vel vestibulum nisi. Donec sagittis nunc id erat aliquam blandit. small: Lorem Ipsum, dolor</pre>
+
+Result:
+
+(fancyquote: Quote ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed turpis sed ipsum vehicula bibendum imperdiet in orci. In vel vestibulum nisi. Donec sagittis nunc id erat aliquam blandit. small: Lorem Ipsum, dolor)
+
+----
+
+Author:
+
+- database/entities/test-person

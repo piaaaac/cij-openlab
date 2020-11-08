@@ -9,8 +9,8 @@ Menu:
     - database
   subpages:
     - database/explore
-    - database/collections
     - database/search
+    - database/collections
     - database/submit
   visible: 'true'
   menupagetitle: Database
@@ -26,6 +26,11 @@ Menu:
   subpages: [ ]
   visible: 'true'
   menupagetitle: Interchange
+- 
+  menupage:
+    - commissions
+  subpages: [ ]
+  visible: 'true'
 - 
   menupage:
     - about

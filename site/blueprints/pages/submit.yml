@@ -1,0 +1,18 @@
+title: Submit
+template: page
+sidebar: false
+
+fields:
+  intro:
+    type: textarea
+    label: Page intro text
+
+  formEmail:
+    type: email
+    label: Submit form destination email
+    required: true
+
+  formFeedback:
+    type: text
+    label: Feedback text on successful submission
+    required: true

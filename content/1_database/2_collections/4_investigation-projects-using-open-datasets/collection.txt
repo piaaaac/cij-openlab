@@ -9,22 +9,24 @@ Text: Mauris lacus ex, pretium nec odio sit amet, gravida faucibus nisi. Fusce v
 Entries:
 
 - >
-  items/artistic-journalism-an-introduction
-- >
-  items/artists-create-a-sinister-deepfake-of-mark-zuckerberg-to-teach-facebook-and-the-rest-of-usa-a-lesson-about-digital-propaganda
-- >
-  items/blockchain-risk-board-game-prototype-capital-markets-digital-asset
-- >
-  items/field-of-vision-an-interview-with-co-creators-laura-poitras-aj-schnack-and-charlotte-cook
-- items/goodbye-big-five
-- items/caliphate
-- items/15-days
-- >
-  items/titanpointe-the-nsa-s-spy-hub-in-new-york-hidden-in-plain-sight
-- items/tax-havens-normalized-grand-theft
-- items/wormwood
-- items/absolute-relative
+  database/entities/the-bureau-of-investigative-journalism
+- database/entities/mairav-zonszein
+- database/entities/haroon-siddique
+- database/items/serial
+- database/entities/the-intercept
+- database/items/west-cork
+- database/items/the-tip-off
+- database/entities/maeve-mcclenaghan
+- database/entities/the-guardian
+- database/entities/sonia-kennebeck
+- database/entities/sophie-dyer
+- database/items/episode-iii-enjoy-poverty
+- database/entities/henrik-moltke
+- database/entities/forensic-architecture
+- database/entities/the-bristol-cable
 
 ----
 
-Curator: entities/test-person
+Curator:
+
+- database/entities/test-person

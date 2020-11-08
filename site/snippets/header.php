@@ -1,7 +1,7 @@
 <?php
 $url = "https://www..net";
 $urlSocialImg = $url. "/assets/images/----card.jpg";
-$title = $page->title();
+$title = $site->title() ." &rarr; ". $page->title();
 $desc = "Lorem ipsum dolor sit amet.";
 ?>
 
@@ -11,7 +11,7 @@ $desc = "Lorem ipsum dolor sit amet.";
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="description" content="<?= $desc ?>">
-  <meta name="viewport" content="width=device-width, initial-scale=0.86, maximum-scale=3.0, minimum-scale=0.86">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 
   <!-- TWITTER -->
   <meta name="twitter:card" content="summary_large_image" />

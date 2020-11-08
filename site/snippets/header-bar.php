@@ -1,48 +1,3 @@
-<?php /*
-
-<nav class="header main">
-  <div class="left d-flex align-items-center">
-    <a class="d-inline-flex" href="<?= $site->url() ?>"><img class="home-link logo" src="<?= kirby()->url("assets") ?>/images/logo.svg" /></a>
-    <a class="active ml-0" href="<?= $site->url() ?>">OPEN LAB</a>
-  </div>
-  <div class="right d-flex align-items-center">
-    <?php foreach ($site->pages()->listed() as $p): ?>
-      <?php 
-      $active = "";
-      if ($page->is($p) || $page->parents()->has($p)) {
-        $active = "active";
-        $currentMenuItem = $p;
-      }
-      ?>
-      <a class="<?= $active ?>" href="<?= $p->url() ?>"><?= $p->title() ?></a>
-    <?php endforeach ?>
-  </div>
-</nav>
-
-<nav class="header sub">
-  <div class="left">
-
-    <a class="px-4" role="button" id="zoom-out" onclick="a.zoomOut();">–</a>
-    <span class="color-white">Zoom</span>
-    <a class="px-4" role="button" id="zoom-in" onclick="a.zoomIn();">+</a>
-  
-  </div>
-  <div class="right d-flex align-items-center">
-    <?php if ($currentMenuItem): ?>
-      <?php foreach ($currentMenuItem->children()->listed() as $sp): ?>
-        <a class="<?= "WIP" ?>" href="<?= $sp->url() ?>"><?= $sp->title() ?></a>
-      <?php endforeach ?>
-    <?php endif ?>
-  </div>
-</nav>
-
-*/ ?>
-
-
-
-
-
-
 
 <?php 
 $currentMenuItem = null;
@@ -51,21 +6,30 @@ $currentMenuItem = null;
 <nav class="header main">
   <div class="left d-flex align-items-center">
     <a class="d-inline-flex" href="<?= $site->url() ?>"><img class="home-link logo" src="<?= kirby()->url("assets") ?>/images/logo.svg" /></a>
-    <a class="active ml-0" href="<?= $site->url() ?>">OPEN&nbsp;LAB</a>
+    <a class="active ml-0" href="<?= $site->url() ?>">Open&nbsp;Lab</a>
   </div>
   <div class="right d-flex align-items-center">
-    <?php foreach ($site->menu()->toStructure() as $item): ?>
-      <?php 
-      if (!$item->visible()->toBool()) { continue; }
-      $p = $item->menuPage()->toPage();
-      $active = "";
-      if ($page->is($p) || $page->parents()->has($p)) {
-        $active = "active";
-        $currentMenuItem = $item;
-      }
-      ?>
-      <a class="<?= $active ?>" href="<?= $p->url() ?>"><?= $p->title() ?></a>
-    <?php endforeach ?>
+  
+    <div class="mobile">
+      <button class="hamburger hamburger--slider d-md-none" type="button" onclick="a.toggleXsMenu();">
+        <span class="hamburger-box"><span class="hamburger-inner"></span></span>
+      </button>
+    </div>
+    <div class="d-flex align-items-center desktop">
+      <?php foreach ($site->menu()->toStructure() as $item): ?>
+        <?php 
+        if (!$item->visible()->toBool()) { continue; }
+        $p = $item->menuPage()->toPage();
+        $active = "";
+        if ($page->is($p) || $page->parents()->has($p)) {
+          $active = "active";
+          $currentMenuItem = $item;
+        }
+        ?>
+        <a class="<?= $active ?>" href="<?= $p->url() ?>"><?= $p->title() ?></a>
+      <?php endforeach ?>
+    </div>
+  
   </div>
 </nav>
 
@@ -78,8 +42,13 @@ $currentMenuItem = null;
 
     <?php if ($page->is("database/explore")): ?>
       <span class="margin"></span>
-      <span class="color-white font-menu mr-3">ZOOM</span>
-      <a class="zoom-btn" role="button" id="zoom-out" onclick="a.zoomOut();">–</a><a class="zoom-btn" role="button" id="zoom-in" onclick="a.zoomIn();">+</a>
+      <span class="font-menu mr-3">Zoom level</span>
+      <!--  
+      <a class="zoom-btn" role="button" onclick="a.zoomOut();">–</a><a class="zoom-btn" role="button" onclick="a.zoomIn();">+</a>
+      -->
+      <a class="zoom-btn" role="button" data-zoom="1" onclick="a.zoomTo(1);">1</a>
+      <a class="zoom-btn" role="button" data-zoom="2" onclick="a.zoomTo(2);">2</a>
+      <a class="zoom-btn" role="button" data-zoom="3" onclick="a.zoomTo(3);">3</a>
     <?php endif ?>
   
     <!-- Search --- Input UI -->
@@ -97,9 +66,25 @@ $currentMenuItem = null;
       <form id="search-form" action="<?= $page->url() ?>" method="get">
         <input id="search-query" name="q" type="text" value="<?= $query ?>" placeholder="search" /></form>
     <?php endif ?>
+
+    <!-- Subpages --- Back -->
+
+    <?php 
+    $pgz = new Pages();
+    $pgz->add("essays")->add("interchange")->add("database/collections");
+    ?>
+    <?php if ($pgz->has($page->parent())): ?>
+      <a class="d-inline-flex align-items-center justify-content-start" 
+         href="<?= $page->parent()->url() ?>"
+       >
+        <span class="margin">&larr;</span>
+        <span><?= $page->parent()->title() ?></span>
+      </a>
+    <?php endif ?>
+
   
   </div>
-  <div class="right d-flex align-items-center">
+  <div class="right d-flex align-items-center desktop">
     <?php if ($currentMenuItem): ?>
       <?php foreach ($currentMenuItem->subpages()->toPages() as $sp): ?>
         <?php 
@@ -114,5 +99,59 @@ $currentMenuItem = null;
   </div>
 </nav>
 
+<!-- Menu Mobile -->
+
+<nav id="menu-xs">
+
+  <?php foreach ($site->menu()->toStructure() as $item):
+
+    if (!$item->visible()->toBool()) { continue; }
+    $p = $item->menuPage()->toPage();
+    $active = "";
+    $currentlyOpen = false;
+    $hasSubItems = $item->subpages()->toPages()->count() > 0;
+    if ($page->is($p) || $page->parents()->has($p)) {
+      $active = " active";
+      $currentlyOpen = true;
+    }
+    ?>
+
+    <?php if ($hasSubItems): ?>
+      
+      <div class="group<?= $currentlyOpen ? " open" : "" ?>" 
+           data-uid="<?= $p->uid() ?>"
+           style="--group-sub-height: <?= $item->subpages()->toPages()->count() * 40 + 40 ?>px;"
+      >
+
+        <div class="main-row bordered">
+          <a class="main<?= $active ?>" href="<?= $p->url() ?>"><?= $p->title() ?></a>
+          <a class="arrow" onclick="a.xsMenuToggle('<?= $p->uid() ?>');"></a>
+        </div>
+
+        <?php foreach ($item->subpages()->toPages() as $sp):
+          $subActive = "";
+          if ($page->is($sp) || $page->parents()->has($sp)) {
+            $subActive = "active";
+          }
+          ?>
+          <a class="sub <?= $subActive ?>" href="<?= $sp->url() ?>"><?= $sp->title() ?></a>
+        <?php endforeach ?>
+      </div>
+
+    <?php else: ?>
+      <a class="main bordered <?= $active ?>" href="<?= $p->url() ?>"><?= $p->title() ?></a>
+
+    <?php endif ?>
+
+
+
+
+
+
+  <?php endforeach ?>
+
+
+
+</nav>
 
 

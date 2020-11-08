@@ -1,8 +1,8 @@
-Title: Test person
+Title: Some person
 
 ----
 
-entryType: people
+Entrytype: people
 
 ----
 
@@ -10,9 +10,7 @@ Byline: Artist
 
 ----
 
-Img:
-
-- rectangle-copy-5.png
+Img: - rectangle-copy-5.png
 
 ----
 

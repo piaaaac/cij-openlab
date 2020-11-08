@@ -1,0 +1,59 @@
+Title: Test project 2
+
+----
+
+Entrytype: project
+
+----
+
+Byline: 
+
+----
+
+Img:
+
+- rectangle-copy-5.png
+
+----
+
+Links: 
+
+----
+
+Year: 2003
+
+----
+
+Description: 
+
+----
+
+Topics: drones, finance
+
+----
+
+Geo: Kurdistan, Pakistan
+
+----
+
+Addedby: Alex Piacentini
+
+----
+
+Importdata: 
+
+----
+
+Author: 
+
+----
+
+Commission: 
+
+----
+
+Funder: 
+
+----
+
+Platform: 

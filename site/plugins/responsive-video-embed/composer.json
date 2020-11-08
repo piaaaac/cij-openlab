@@ -1,0 +1,13 @@
+{
+    "name": "piaaaac/bettervideo",
+    "description": "a kirbytag for embedding youtube and vimeo videos with more options",
+    "type": "kirby plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex Piacentini",
+            "email": "piacentini.alex@gmail.com"
+        }
+    ],
+    "require": {}
+}

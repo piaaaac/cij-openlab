@@ -1,0 +1,28 @@
+title: Articles
+
+sections:
+
+  meta:
+    type: fields
+    fields:
+      intro:
+        type: textarea
+        label: Page intro text
+
+  draftItems:
+    headline: Drafts
+    type: pages
+    status: draft
+    templates: article
+
+  unlistedItems:
+    headline: In review
+    type: pages
+    status: unlisted
+    templates: article
+
+  listedItems:
+    headline: Published
+    type: pages
+    status: listed
+    templates: article

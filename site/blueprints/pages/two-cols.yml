@@ -1,0 +1,21 @@
+title: Two columns
+preset: page
+pages: false
+
+status:
+  draft: Draft
+  unlisted: Unlisted
+  listed: Published
+
+fields:
+
+  col1:
+    label: Text column 1
+    type: textarea
+    width: 1/2
+
+  col2:
+    label: Text column 2
+    type: textarea
+    width: 1/2
+

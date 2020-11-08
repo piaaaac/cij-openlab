@@ -1,1 +1,13 @@
 Title: Submit
+
+----
+
+Intro: This database is a living repository of resources on investigative journalism. Do you know a project, organization or author that is not present? Let us know using the following form!
+
+----
+
+Formemail: piacentini.alex@gmail.com
+
+----
+
+Formfeedback: Thank you for your submission, we'll get back to you soon.

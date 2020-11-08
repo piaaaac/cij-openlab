@@ -2,6 +2,13 @@ title: Collections
 
 sections:
 
+  meta:
+    type: fields
+    fields:
+      intro:
+        type: textarea
+        label: Page intro text
+
   draftItems:
     headline: Drafts
     type: pages

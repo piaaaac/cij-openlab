@@ -2,24 +2,25 @@ Title: Black lives matter
 
 ----
 
-Text: 
+Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed turpis sed ipsum vehicula bibendum imperdiet in orci. In vel vestibulum nisi. Donec sagittis nunc id erat aliquam blandit in sapien magna.
 
 ----
 
 Entries:
 
 - >
-  items/what-atlanta-can-teach-tech-about-cultivating-black-talent
+  database/entities/black-audio-film-collective
 - >
-  items/police-brutality-at-the-black-lives-matter-protests
+  database/items/what-atlanta-can-teach-tech-about-cultivating-black-talent
 - >
-  items/mark-duggan-police-shooting-can-forensic-tech-cast-doubt-on-official-report
+  database/items/police-brutality-at-the-black-lives-matter-protests
+- database/entities/john-akomfrah
+- database/items/mapping-wikipedia
 - >
-  items/the-heroines-of-americas-black-press
-- entities/forensic-architecture
-- entities/black-audio-film-collective
-- entities/john-akomfrah
+  database/items/mark-duggan-police-shooting-can-forensic-tech-cast-doubt-on-official-report
 
 ----
 
-Curator: entities/test-person
+Curator:
+
+- database/entities/test-person

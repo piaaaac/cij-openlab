@@ -4,13 +4,26 @@
 // Fonts
 // ------------------------------------------------------------------------
 
+// @font-face {
+//   font-family: "MonumentGrotesk";
+//   src: url("../fonts/MonumentGrotesk-Semi-Mono.woff") format('woff');
+// }
+
+// @font-face {
+//   font-family: 'Diatype Semi Mono';
+//   src:  url('../fonts/Diatype-Semi-Mono/ABCDiatypeSemi-Mono-Medium-Trial.woff2') format('woff2'),
+//         url('../fonts/Diatype-Semi-Mono/ABCDiatypeSemi-Mono-Medium-Trial.woff') format('woff');
+// }
 @font-face {
-  font-family: "MonumentGrotesk";
-  src: url("../fonts/MonumentGrotesk-Semi-Mono.woff") format('woff');
+  font-family: 'Diatype Semi Mono';
+  src:  url('../fonts/Diatype-Semi-Mono/ABCDiatypeSemi-Mono-Regular.woff2') format('woff2'),
+        url('../fonts/Diatype-Semi-Mono/ABCDiatypeSemi-Mono-Regular.woff') format('woff');
 }
+
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;500&display=swap');
 
-$font:  "MonumentGrotesk", sans-serif;
+// $font:  "MonumentGrotesk", sans-serif;
+$font:  "Diatype Semi Mono", sans-serif;
 
 @mixin font-style($font-fam, $xs, $sm, $md, $lg, $xl, $letter-sp, $line-h, $weight, $style){
   font-family: $font-fam;
@@ -24,13 +37,38 @@ $font:  "MonumentGrotesk", sans-serif;
   @include media-breakpoint-up(md) { font-size: $md; }
   @include media-breakpoint-up(lg) { font-size: $lg; }
   @include media-breakpoint-up(xl) { font-size: $xl; }  
+
+
+  /* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+  // font-feature-settings: "nalt" 1 !important;
+  // font-feature-settings: "aalt" !important;
+  // font-feature-settings: "salt" !important;
+  font-feature-settings: "tnum" !important;
+  font-feature-settings: "zero" !important;
+
+  // font-variant-alternates: historical-forms;
+  // font-variant-alternates: stylistic(user-defined-ident);
+  // font-variant-alternates: styleset(user-defined-ident);
+  // font-variant-alternates: character-variant(user-defined-ident);
+  // font-variant-alternates: swash(user-defined-ident);
+  // font-variant-alternates: ornaments(user-defined-ident);
+  // font-variant-alternates: annotation(user-defined-ident);
+  // font-variant-alternates: swash(ident1) annotation(ident2);
+
 }
 
 // ------------------------------------------------ xs ---- sm ---- md ---- lg ---- xl --- lsp ---- lh ---- w --- style
 @mixin font-menu  { @include font-style($font,    18px,   18px,   18px,   18px,   18px, 0.02em,  1.3em,   400,   normal); }
-@mixin font-xxl   { @include font-style($font,    40px,   40px,   40px,   40px,   40px, 0.02em,  1.3em,   400,   normal); }
-@mixin font-xl    { @include font-style($font,    27px,   27px,   27px,   27px,   27px, 0.02em,  1.3em,   400,   normal); }
-@mixin font-l     { @include font-style($font,    20px,   20px,   20px,   20px,   20px, 0.02em,  1.2em,   400,   normal); }
+@mixin font-xxxl  { @include font-style($font,    14vw,   14vw,   14vw,   14vw,   14vw, 0.00em,    1em,   400,   normal); }
+
+
+// @mixin font-xxl   { @include font-style($font,    50px,   50px,   60px,   60px,   64px, 0.00em,    1em,   400,   normal); }
+// @mixin font-xxl   { @include font-style($font,    40px,   40px,   50px,   50px,   54px, 0.00em,    1em,   400,   normal); }
+@mixin font-xxl   { @include font-style($font,     30px,    30px,    3.8vw,    3.8vw,    3.5vw, 0.00em,    1.1em,   400,   normal); }
+
+
+@mixin font-xl    { @include font-style($font,    27px,   27px,   27px,   27px,   27px, 0.01em, 1.15em,   400,   normal); }
+@mixin font-l     { @include font-style($font,    18px,   18px,   18px,   18px,   18px, 0.01em, 1.25em,   400,   normal); }
 @mixin font-m     { @include font-style($font,    14px,   14px,   14px,   14px,   14px, 0.02em,  1.4em,   400,   normal); }
 @mixin font-xs    { @include font-style($font,    10px,   10px,   10px,   10px,   10px, 0.02em,  1.3em,   400,   normal); }
 

@@ -83,7 +83,7 @@ elseif ($template == "entity") {
 	}
 }
 
-$relatedEntries[] = separator();
+// $relatedEntries[] = separator();
 
 // RELATED VIA TOPIC OR GEO
 // template item or entity
@@ -145,12 +145,20 @@ for each place
 	all items and entities filtered by place
 
 */
+
+// --- Part below
+
+$tags = array_merge($entry->geo()->split(), $entry->topics()->split());
+$hasDesc = $entry->description()->isNotEmpty();
+$hasTags = count($tags) > 0;
+$hasRelations = count($relatedEntries) > 0;
+
 ?>
 
-<div class="container-fluid">
+<div class="container-fluid pad-ori">
 	<div class="row row-detail">
 		<div class="col-md-6 pad d-flex flex-column justify-content-between">
-			<div class="title">
+			<div class="title pr-4 pr-sm-0">
 				<h1 class="font-l mb-2"><?= $entry->title() ?></h1>
 				<p class="color-grey"><?= $entry->smartByline() ?></p>
 				<?php if ($entry->year()->isNotEmpty()): ?>
@@ -167,7 +175,7 @@ for each place
 		</div>
 		<div class="col-md-6 image-cont">
 			<div class="image <?= $template ?>" style="background-image: url(<?= $entry->img()->toFile()->url() ?>);"></div>
-			<div class="buttons-mobile">
+			<div class="buttons-mobile pad">
 				<?php foreach ($entry->links()->toStructure() as $link): ?>
 					<a class="button external" href="<?= $link->linkUrl()->value() ?>" target="_blank">
 						<?= $link->linkText()->value() ?>
@@ -177,82 +185,84 @@ for each place
 		</div>
 	</div>
 
-	<div class="row row-detail">
-		<div class="col-md-6 pad">
-			<div class="description pr-md-3">
-				
-				<?php if ($entry->description()->isNotEmpty()): ?>
-					<div class="mb-4"><?= $entry->description()->kt() ?></div>
-				<?php endif ?>
+	<?php if ($hasDesc || $hasTags || $hasRelations): ?>
 
-				<?php 
-				$tags = array_merge($entry->geo()->split(), $entry->topics()->split());
-				?>
-				<?php if (count($tags) > 0): ?>
-					<div>
-						<header class="font-xs upper">Filed under</header>
-						<p><?= implode(", ", $tags) ?></p>
-					</div>
-				<?php endif ?>
-				
+		<div class="row row-detail">
+			<div class="col-md-6 pad">
+				<div class="description pr-md-3">
+					
+					<?php if ($entry->description()->isNotEmpty()): ?>
+						<div class="mb-4"><?= $entry->description()->kt() ?></div>
+					<?php endif ?>
 
-				<?php /*
-				<?php if ($entry->topics()->isNotEmpty()): ?>
-					<div class="mt-4">
-						<header class="font-xs upper">Topics</header>
-						<p><?= $entry->topics()->value() ?></p>
-					</div>
-				<?php endif ?>
-
-				<?php if ($entry->geo()->isNotEmpty()): ?>
-					<div class="mt-4">
-						<header class="font-xs upper">Related countries</header>
-						<p><?= $entry->geo()->value() ?></p>
-					</div>
-				<?php endif ?>
-				*/ ?>
-				
-				<!--  
-				<p class="mt-2">&blacksquare;</p>
-				<p class="mt-3">&block;</p>
-				<p>&lhblk;</p>
-				<p>&block;&block;&block;</p>
-				-->
-			</div>
-		</div>
-		<div class="col-md-6 pad">
-			<div class="row">
-
-				<!--  
-				"colTitle"			=> $colTitle,
-				"pages"					=> $pages,
-				"template"			=> $entriesTemplate,
-				"relationType"	=> $relationType,
-				"relationVia"		=> $relationVia
-				-->
-
-				<?php foreach ($relatedEntries as $block): ?>
-					<?php if ($block["type"] == "separator"): ?>
-						<div class="col-12"></div>
-					<?php else: ?>
-						<?php 
-						$col = ($block["template"] == "entity") ? "col-md-6" : "col-12";
-						?>
-						<div class="<?= $col ?> mb-4">
-							<div class="related-block">
-								<header class="font-xs upper"><?= $block["colTitle"] ?></header>
-								<div class="list">
-									<?php foreach ($block["pages"] as $e): ?>
-										<a class="hover-bg-red" onclick="a.openDetail('<?= $e->id() ?>');"><?= $e->title() ?></a>
-										<br />
-									<?php endforeach ?>
-								</div>
-							</div>
+					<?php if (count($tags) > 0): ?>
+						<div>
+							<header class="font-xs upper">Filed under</header>
+							<p><?= implode(", ", $tags) ?></p>
 						</div>
 					<?php endif ?>
-				<?php endforeach ?>
+					
 
+					<?php /*
+					<?php if ($entry->topics()->isNotEmpty()): ?>
+						<div class="mt-4">
+							<header class="font-xs upper">Topics</header>
+							<p><?= $entry->topics()->value() ?></p>
+						</div>
+					<?php endif ?>
+
+					<?php if ($entry->geo()->isNotEmpty()): ?>
+						<div class="mt-4">
+							<header class="font-xs upper">Related countries</header>
+							<p><?= $entry->geo()->value() ?></p>
+						</div>
+					<?php endif ?>
+					*/ ?>
+					
+					<!--  
+					<p class="mt-2">&blacksquare;</p>
+					<p class="mt-3">&block;</p>
+					<p>&lhblk;</p>
+					<p>&block;&block;&block;</p>
+					-->
+				</div>
+			</div>
+			<div class="col-md-6 pad pl-md-0">
+				<div class="row">
+
+					<!--  
+					"colTitle"			=> $colTitle,
+					"pages"					=> $pages,
+					"template"			=> $entriesTemplate,
+					"relationType"	=> $relationType,
+					"relationVia"		=> $relationVia
+					-->
+
+					<?php foreach ($relatedEntries as $block): ?>
+						<?php if ($block["type"] == "separator"): ?>
+							<div class="col-12"></div>
+						<?php else: ?>
+							<?php 
+							$col = ($block["template"] == "entity") ? "col-md-6" : "col-12";
+							?>
+							<div class="<?= $col ?> mb-4">
+								<div class="related-block">
+									<header class="font-xs upper"><?= $block["colTitle"] ?></header>
+									<div class="list">
+										<?php foreach ($block["pages"] as $e): ?>
+											<a class="hover-bg-red" onclick="a.openDetail(event, '<?= $e->id() ?>');"><?= $e->title() ?></a>
+											<br />
+										<?php endforeach ?>
+									</div>
+								</div>
+							</div>
+						<?php endif ?>
+					<?php endforeach ?>
+
+				</div>
 			</div>
 		</div>
-	</div>
+
+	<?php endif ?>
+
 </div>

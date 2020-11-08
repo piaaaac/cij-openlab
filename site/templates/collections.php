@@ -5,18 +5,19 @@ $collections = $page->children()->listed();
 ?>
 
 <main class="default">
+
+  <?php snippet("page-title") ?>
+
   <div class="container-fluid">
-    <div class="row">
-      <div class="col">
-        <h1 class="page-title">COLLECTIONS</h1>
-      </div>
-    </div>
     <div class="row">
       <?php foreach ($collections as $collection) {
         snippet("collection-prev", ["collection" => $collection]);
       } ?>
     </div>
   </div>
+
+  <div class="my-5 py-5">
+
 </main>
 
 <?php snippet("overlay") ?>

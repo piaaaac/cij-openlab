@@ -1,13 +1,14 @@
 		<?php if (!isset($hideFooter) || !$hideFooter): ?>
 
+			<!-- <div class="bg-black py-4"></div> -->
 			<div class="footer">
 				<div class="left">
-					<a href="">All content under CC License</a>
+					<span>All content under CC License</span>
 				</div>
 				<div class="right">
-					<a href="">Visit tcij.org</a>
-					<a href="">Privacy</a>
-					<a href="">Login</a>
+					<a href="https://tcij.org">tcij.org</a>
+					<a href="https://tcij.org/about/legal/">Privacy</a>
+					<a href="<?= $site->panelUrl() ?>">Login</a>
 				</div>
 			</div>
 		

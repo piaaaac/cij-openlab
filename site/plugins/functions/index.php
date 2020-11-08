@@ -37,8 +37,8 @@ function pluralName ($str) {
 function bylineWithPic ($page) {
   
   $pageTypes = [
-    "collection"  => ["fieldName" => "curator", "text" => "Curated by "],
-    "essay"       => ["fieldName" => "author",  "text" => "Essay by "]
+    "collection"  => ["fieldName" => "curator", "text" => "Collection curated by ", "textEmpty" => "Collection"],
+    "article"     => ["fieldName" => "author",  "text" => "Essay by ", "textEmpty" => "Essay"],
   ];
   $template = $page->template()->name();
   
@@ -47,17 +47,21 @@ function bylineWithPic ($page) {
   }
 
   $fieldName = $pageTypes[$template]["fieldName"];
-  $text = $pageTypes[$template]["text"];
 
   if ($entity = $page->$fieldName()->toPage()) {
+
+    $text = $pageTypes[$template]["text"];
 
     return "
     <div class='byline-with-pic'>
       <div class='image' style='background-image: url(\"". $entity->img()->toFile()->url() ."\");'></div>
-      <div class='font-xs upper'>". $text ."<a class='color-red' onclick='a.openDetail(\"". $entity->id() ."\");'>". $entity->title() ."</a></div>
+      <div class='font-xs upper'>". $text ."<a class='color-red' onclick='a.openDetail(event, \"". $entity->id() ."\");'>". $entity->title() ."</a></div>
     </div>";
 
   } else {
-    return "&mdash;";
+  
+    $text = $pageTypes[$template]["textEmpty"];
+    return "<div class='byline-with-pic'><div>". $text ."</div></div>";
+
   }
 }

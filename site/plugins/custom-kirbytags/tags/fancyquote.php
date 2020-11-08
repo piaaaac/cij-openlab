@@ -20,7 +20,7 @@ return [
 			$redacted = "";
 			$n = rand(3, 12);
 			for ($count = 0; $count < $n; $count++) {
-				$redacted .= "█";
+				$redacted .= "<span style='letter-spacing: 0px; color: inherit;'>█</span>";
 			}
 			array_splice($words, $index, 0, $redacted);
 		}
