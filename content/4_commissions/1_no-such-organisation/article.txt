@@ -1,0 +1,43 @@
+Title: No Such Organisation: Navine G. Khan Dossos
+
+----
+
+Img:
+
+- splash_1.png
+
+----
+
+Text:
+
+(image: splash_1.png)
+
+No Such Organisation (2018-2020) is a series of one hundred paintings that document the fallout from a single event: the killing of Saudi dissident Jamal Khashoggi in 2018. This cycle of paintings follows the repercussions of this event in real time, through the news articles and the investigations it triggered, confronting the development of cyber weapons and spyware, and the ways in which they have compromised the safety and working conditions of journalists, activists and political dissidents throughout the world.
+
+The reporting of the death of Khashoggi changed radically during the first days and weeks following the event; a kaleidoscope of tumbling details constantly re-arranging themselves, a story that never quite settled, in facts, or in responsibility. The paintings respond to this uncertainty by deploying symbolic elements which stand in for players in the story – nation states, agencies, technologies, and – which shift, recompose, and come into new alignments with each retelling of the story.
+
+Significantly, the case remains without a central visual figure, as the body of Khashoggi was never recovered, while sound and silence played a key role in the case, as a recording from the Saudi Embassy in Istanbul circulated in the media. Into this absence of images, Khan-Dossos inscribes a hundred tracings of the event.
+
+As the narrative of the killing expanded over the subsequent months, so the subjects of the paintings branch out to cover wider issues raised by this case, in particular the role of surveillance technologies sold by private companies to governments for domestic and international use in matters of security and intelligence, with little oversight. However, a critical stance is now developing around the ethics of such tools of surveillance, and the paintings explore these changes in awareness, campaigning and attitudes towards the role of cyber weapons in global politics.
+
+<iframe class="w-100 embed h-60vh mb-0" src="https://rectangle.design/projects/nso-paintings-gallery" style="border: 1px solid #ddd;"></iframe>
+<figure class="mt-2">
+<figcaption>Interactive timeline developed by (link: https://rectangle.design text: Rectangle).</figcaption>
+</figure>
+
+"We had planned on showing a selection of the paintings as part of our live event in Paris, but the pandemic presented us with the challenge of working out how to show the paintings to an online audience. Over the past 6 months we’ve worked with Navine to produce a website that archives the full cycle of one hundred paintings, and the reports that shaped them.  We've also worked with the graphic and interaction design studio Rectangle to produce a series of interactive timelines. Scroll left to right across the top of the timelines above and below."  
+
+-- Jake Charles Rees, CIJ Curator
+
+(link: http://nosuchorganisation.khandossos.com/ text: You can view the works and website here.)
+
+<iframe class="full-width embed h-80vh" src="https://rectangle.design/projects/nso-paintings" style="border: 1px solid #ddd;"></iframe><div class="h-80vh embed"></div>
+<figure>
+<figcaption>Interactive timeline developed by (link: https://rectangle.design text: Rectangle).</figcaption>
+</figure>
+
+----
+
+Author:
+
+- database/entities/navine-khan-dossos

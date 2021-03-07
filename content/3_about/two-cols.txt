@@ -1,0 +1,27 @@
+Title: About
+
+----
+
+Col1:
+
+## CIJ OPEN LAB
+
+The Open Lab is a new initiative from The Centre for Investigative Journalism. It brings together a range of experiments at the intersection of journalism and the arts, including new commissions and the new Creative Investigations Database. 
+
+If you would like to discuss the Open Lab, please email: jake@tcij.org
+
+----
+
+Col2:
+
+## PARTNERS
+
+The Open Lab is a collaboration between (link: https://tcij.org/ text: The Centre for Investigative Journalism) and (link: https://www.iam-internet.com/ text: IAM) for the 4th edition of the CIJ Logan Symposium.
+
+Credits
+Website designed and built by (link: http://alexpiacentini.com/ text: Alex Piacentini)
+
+---
+
+(image: logo-iam.png class: small mt-0 link: https://www.iam-internet.com/)
+(image: logo-cij.png class: small mt-0 link: https://tcij.org)

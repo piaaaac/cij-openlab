@@ -1,0 +1,46 @@
+Title: Tatiana Bazzichelli
+
+----
+
+Entrytype: people
+
+----
+
+Byline: Curator & Founder of The Disruption Network Lab
+
+----
+
+Img:
+
+- >
+  tatiana_bazzichelli_by_ticha_matting_9595_lores.jpg
+
+----
+
+Links: 
+
+----
+
+Description: Tatiana Bazzichelli is founder and programme director at Disruption Network Lab, an organisation in Berlin examining the intersection of politics, technology, and society, and exposing the misconduct and wrongdoing of the powerful (disruptionlab.org). Her focus of work is hacktivism, network culture, art and whistleblowing. In 2011-2014 she was programme curator at transmediale art & digital culture festival, where she developed the year-round initiative reSource transmedial culture Berlin, and curated several conference events, workshops and installations. She is a member of the Transparency International Anti-Corruption Award Committee 2020. In 2019 she has been appointed jury member for the Hauptstadtkulturfonds (Capital Cultural Fund) by the German federal government and Berlin, and in 2020 jury member for the Kulturlichter prize, a new award for digital cultural education by the German federal government.
+
+----
+
+Topics: Art as Evidence, whistleblowers, hacking
+
+----
+
+Geo: Germany
+
+----
+
+Addedby: 
+
+----
+
+Importdata: 
+
+----
+
+Relatedentities:
+
+- database/entities/disruption-network-lab
