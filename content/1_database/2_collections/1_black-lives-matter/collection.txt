@@ -24,3 +24,5 @@ Entries:
 Curator:
 
 - database/entities/test-person
+- database/entities/ted-hunt
+- database/entities/forensic-architecture

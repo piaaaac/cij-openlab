@@ -127,9 +127,9 @@ function App (siteUrl) {
     if (this.zoom == 2) { 
       $(".entry")
         .css("font-size", "")
-        .addClass("font-xxl");
+        .addClass("font-zoom2");
     }
-    if (this.zoom == 1) { 
+    else if (this.zoom == 1) { 
       var size = 12; // min
       var min = Math.round($(window).width() / 30); // max
       $(".entry .zoom-1-2 .byline").css("display", "inline");

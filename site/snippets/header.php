@@ -1,8 +1,9 @@
 <?php
-$url = "https://www..net";
-$urlSocialImg = $url. "/assets/images/----card.jpg";
-$title = $site->title() ." &rarr; ". $page->title();
-$desc = "Lorem ipsum dolor sit amet.";
+$url = $site->url();
+$urlSocialImg = $url. "/assets/images/open-lab-card.jpg";
+$siteTitle = $site->title();
+$title = $site->title() ." :: ". $page->title();
+$desc = $site->siteDescription()->value();
 ?>
 
 <!DOCTYPE html><html><head>
@@ -15,8 +16,8 @@ $desc = "Lorem ipsum dolor sit amet.";
 
   <!-- TWITTER -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:site" content="@matilde_muozz" />
-  <meta name="twitter:title" content="<?= $title ?>" />
+  <meta name="twitter:site" content="@cijournalism" />
+  <meta name="twitter:title" content="<?= $siteTitle ?>" />
   <meta name="twitter:description" content="<?= $desc ?>" />
   <meta name="twitter:image" content="<?= $urlSocialImg ?>" />
 
@@ -24,10 +25,19 @@ $desc = "Lorem ipsum dolor sit amet.";
   <meta property="og:url" content="<?= $url ?>" />
   <meta property="og:image" content="<?= $urlSocialImg ?>" />
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="<?= $title ?>" />
+  <meta property="og:title" content="<?= $siteTitle ?>" />
   <meta property="og:description" content="<?= $desc ?>" />
 
   <!-- Matomo? -->
+  
+  <!-- Favicon -->
+  <link rel="apple-touch-icon" sizes="180x180" href="<?= $kirby->url("assets") ?>/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="<?= $kirby->url("assets") ?>/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="<?= $kirby->url("assets") ?>/favicon/favicon-16x16.png">
+  <link rel="manifest" href="<?= $kirby->url("assets") ?>/favicon/site.webmanifest">
+  <link rel="mask-icon" href="<?= $kirby->url("assets") ?>/favicon/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
 
   <!-- Vendor -->
   <script src="<?= $kirby->url('assets') ?>/lib/jquery-3.5.1/jquery-3.5.1.min.js"></script>

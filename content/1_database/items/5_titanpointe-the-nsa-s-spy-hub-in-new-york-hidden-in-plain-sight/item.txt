@@ -2,7 +2,7 @@ Title: Titanpointe: The NSA’s Spy Hub in New York, Hidden in Plain Sight
 
 ----
 
-entryType: article
+Entrytype: article
 
 ----
 
@@ -58,7 +58,7 @@ Author:
 
 Commission:
 
-- database/entities/the-guardian
+- database/entities/the-intercept
 
 ----
 
@@ -68,4 +68,4 @@ Funder:
 
 Platform:
 
-- database/entities/the-guardian
+- database/entities/the-intercept

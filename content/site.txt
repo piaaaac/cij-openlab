@@ -2,6 +2,10 @@ Title: CIJ Open Lab
 
 ----
 
+Sitedescription: A new initiative from The Centre for Investigative Journalism
+
+----
+
 Menu:
 
 - 
@@ -22,13 +26,12 @@ Menu:
   menupagetitle: Essays
 - 
   menupage:
-    - interchange
+    - commissions
   subpages: [ ]
   visible: 'true'
-  menupagetitle: Interchange
 - 
   menupage:
-    - commissions
+    - collaborations
   subpages: [ ]
   visible: 'true'
 - 

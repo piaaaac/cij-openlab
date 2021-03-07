@@ -42,7 +42,7 @@ $currentMenuItem = null;
 
     <?php if ($page->is("database/explore")): ?>
       <span class="margin"></span>
-      <span class="font-menu mr-3">Zoom level</span>
+      <span class="font-menu mr-3">ZOOM LEVEL</span>
       <!--  
       <a class="zoom-btn" role="button" onclick="a.zoomOut();">–</a><a class="zoom-btn" role="button" onclick="a.zoomIn();">+</a>
       -->
@@ -71,7 +71,12 @@ $currentMenuItem = null;
 
     <?php 
     $pgz = new Pages();
-    $pgz->add("essays")->add("interchange")->add("database/collections");
+    if (page("database/collections")) { $pgz->add("database/collections"); }
+
+    // articles template
+    if (page("essays")) { $pgz->add("essays"); }
+    if (page("interchange")) { $pgz->add("interchange"); }
+    if (page("commissions")) { $pgz->add("commissions"); }
     ?>
     <?php if ($pgz->has($page->parent())): ?>
       <a class="d-inline-flex align-items-center justify-content-start" 

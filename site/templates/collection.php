@@ -4,24 +4,21 @@
 
   <?php snippet("page-title-byline") ?>
 
+  <div class="text-width kt">
+    <div class="text font-l"><?= $page->text()->kt() ?></div>
+  </div>
+
   <div class="container-fluid">
     <div class="row">
       <div class="col">
-        <div class="full-collection">
-          
+        <div class="full-collection">          
           <div class="row">
-            <div class="col">
-              <div class="text font-l mb-5"><?= $page->text()->kt() ?></div>
-            </div>
             <div class="col-12 entries">
-
               <?php foreach ($page->entries()->toPages() as $entry): ?>
                 <?php snippet("entry-prev", ["entry" => $entry]) ?>
               <?php endforeach ?>
-
             </div>
           </div>
-
         </div>
       </div>
     </div>

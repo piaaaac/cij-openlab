@@ -37,8 +37,8 @@ function pluralName ($str) {
 function bylineWithPic ($page) {
   
   $pageTypes = [
-    "collection"  => ["fieldName" => "curator", "text" => "Collection curated by ", "textEmpty" => "Collection"],
-    "article"     => ["fieldName" => "author",  "text" => "Essay by ", "textEmpty" => "Essay"],
+    "collection"  => ["fieldName" => "curator",/*, "text" => "Collection curated by ",*/ "textEmpty" => ""],
+    "article"     => ["fieldName" => "author",/*,  "text" => "Essay by ",*/ "textEmpty" => ""],
   ];
   $template = $page->template()->name();
   
@@ -48,20 +48,44 @@ function bylineWithPic ($page) {
 
   $fieldName = $pageTypes[$template]["fieldName"];
 
-  if ($entity = $page->$fieldName()->toPage()) {
+  $entities = $page->$fieldName()->toPages();
+  if ($entities && $entities->count() > 0) {
 
-    $text = $pageTypes[$template]["text"];
+    // $text = $pageTypes[$template]["text"];
+    $linksMarkup = [];
+    $imagesMarkup = "";
+    $n = $entities->count();
+    $i = 0;
+    foreach ($entities as $entity) {
+      $linksMarkup[] = "<a class='color-red' onclick='a.openDetail(event, \"". $entity->id() ."\");'>". $entity->title() ."</a>";
+      $imagesMarkup .= "<div class='image' style='background-image: url(\"". $entity->img()->toFile()->url() ."\");'></div>";
+      $i++;
+    }
+
+    $text = "By ";
+    switch ($n) {
+      case 1:
+        $text .= $linksMarkup[0];
+        break;
+      case 2:
+        $text .= implode(" and ", $linksMarkup);
+        break;
+      case 3:
+        $text .= $linksMarkup[0] .", ".$linksMarkup[1] ." and ". $linksMarkup[2];
+        break;
+    }
 
     return "
     <div class='byline-with-pic'>
-      <div class='image' style='background-image: url(\"". $entity->img()->toFile()->url() ."\");'></div>
-      <div class='font-xs upper'>". $text ."<a class='color-red' onclick='a.openDetail(event, \"". $entity->id() ."\");'>". $entity->title() ."</a></div>
+      $imagesMarkup
+      <div class='font-m'>". $text ."</div>
     </div>";
 
   } else {
   
-    $text = $pageTypes[$template]["textEmpty"];
-    return "<div class='byline-with-pic'><div>". $text ."</div></div>";
+    // $text = $pageTypes[$template]["textEmpty"];
+    // return "<div class='byline-with-pic'><div>". $text ."</div></div>";
+    return "";
 
   }
 }

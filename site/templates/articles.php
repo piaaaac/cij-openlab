@@ -8,6 +8,8 @@ $articles = $page->children()->listed();
 
   <?php snippet("page-title") ?>
 
+  <div class="my-5 py-5">
+
   <div class="container-fluid">
     <div class="row">
       <?php foreach ($articles as $article) {

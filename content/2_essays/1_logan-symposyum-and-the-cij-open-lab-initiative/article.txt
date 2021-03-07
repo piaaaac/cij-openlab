@@ -1,26 +1,20 @@
-Title: Logan Symposium and the CIJ Open Lab initiative
+Title: The Creative Investigations Database
 
 ----
 
 Text:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed turpis sed ipsum vehicula bibendum imperdiet in orci. In (link: database/search text: vel vestibulum) nisi. Donec sagittis nunc id erat aliquam blandit. Ut in sapien magna. Mauris lacus ex, pretium nec odio sit amet, gravida faucibus nisi. Fusce vel nisi scelerisque, gravida purus at, hendrerit purus. Nulla efficitur lorem sit amet scelerisque sagittis. Vestibulum sit amet pellentesque nibh. Nulla id mollis est. In non vestibulum dui, at malesuada quam. Phasellus fermentum tempor purus ac tincidunt.
+The Creative Investigations Database is an attempt to map out the people, projects and institutions at the forefront of creative and experimental investigations combining practices from across the arts and journalism.
 
-## SUBTITLE LOREM IPSUM
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed turpis sed ipsum vehicula bibendum imperdiet in orci. In vel vestibulum nisi. Donec sagittis nunc id erat aliquam blandit. Ut in sapien magna. Mauris lacus ex, pretium nec odio sit amet, gravida faucibus nisi. Fusce vel nisi scelerisque, gravida purus at, hendrerit purus. Nulla efficitur lorem sit amet scelerisque sagittis. Vestibulum sit amet pellentesque nibh. Nulla id mollis est. In non vestibulum dui, at malesuada quam. Phasellus fermentum tempor purus ac tincidunt.
+The database is unfinished and open to the public for contributions. It is a tool that we hope will be used to empower a new wave of creative investigators. To facilitate this we have indexed existing works and research in the field, and highlighted some of the organisations and people that are commissioning and producing creative investigations.
 
-(image: bitmap.jpg)
+We want to track everything from small-scale interventions to cross-border investigations — from artists, designers, film-makers, playwrights, architects and anyone else experimenting from within the creative disciplines.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed turpis sed ipsum vehicula bibendum imperdiet in orci. In vel vestibulum nisi. Donec sagittis nunc id erat aliquam blandit. Ut in sapien magna. Mauris lacus ex, pretium nec odio sit amet, gravida faucibus nisi. Fusce vel nisi scelerisque, gravida purus at, hendrerit purus. 
+Over more than a decade there have been several efforts to formalise these practices within art historical contexts, from Alfredo Cramerotti’s Manifesta 8 exhibition and book “Aesthetic Journalism” to Tatiana Bazichelli’s “Art as Evidence” research, through to Paolo Cirio’s exhibition “Evidentiary Realism”. 
 
-Nulla efficitur lorem sit amet scelerisque sagittis. Vestibulum sit amet pellentesque nibh. Nulla id mollis est. In non vestibulum dui, at malesuada quam. Phasellus fermentum tempor purus ac tincidunt.
+Today there are several organisations pushing the boundaries of “artistic journalism” from The Center for Future of Journalism at EYEBEAM, who commission artists to work with journalists and news outlets to produce new online investigations, to ACED in the Netherlands who are working from within an educational context to train the next generation of artistic investigators practicing “Artistic Journalism”. 
 
-(fancyquote: Quote ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed turpis sed ipsum vehicula bibendum imperdiet in orci. In vel vestibulum nisi. Donec sagittis nunc id erat aliquam blandit. small: Lorem Ipsum, dolor)
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed turpis sed ipsum vehicula bibendum imperdiet in orci. In vel vestibulum nisi. Donec sagittis nunc id erat aliquam blandit. Ut in sapien magna. Mauris lacus ex, pretium nec odio sit amet, gravida faucibus nisi. Fusce vel nisi scelerisque, gravida purus at, hendrerit purus. 
-
-Nulla efficitur lorem sit amet scelerisque sagittis. Vestibulum sit amet pellentesque nibh. Nulla id mollis est. In non vestibulum dui, at malesuada quam. Phasellus fermentum tempor purus ac tincidunt.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed turpis sed ipsum vehicula bibendum imperdiet in orci. In vel vestibulum nisi. Donec sagittis nunc id erat aliquam blandit. Ut in sapien magna. Mauris lacus ex, pretium nec odio sit amet, gravida faucibus nisi. Fusce vel nisi scelerisque, gravida purus at, hendrerit purus. Nulla efficitur lorem sit amet scelerisque sagittis. Vestibulum sit amet pellentesque nibh. Nulla id mollis est. In non vestibulum dui, at malesuada quam. Phasellus fermentum tempor purus ac tincidunt.
+We hope that you find this small contribution to the field useful and consider developing your own creative investigations.
 
 ----
 

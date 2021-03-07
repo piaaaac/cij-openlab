@@ -19,6 +19,11 @@ tabs:
         type: fields
         fields:
 
+          siteDescription:
+            label: Site description
+            type: text
+            help: Will be used for meta tags and social media
+
           menu:
             type: structure
             label: Menu

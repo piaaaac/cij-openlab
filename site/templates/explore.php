@@ -76,13 +76,13 @@ $allPlaces = [];
              data-uid="<?= $entry->uid() ?>" 
              data-entities="<?= count($entities) == 0 ? "" : "<". implode(">,<", $entities) .">" ?>" 
              data-topics="<?=   count($topics)   == 0 ? "" : "<". implode(">,<", $topics)   .">" ?>" 
-             data-places="<?=   count($places)   == 0 ? "" : "<". implode(">,<", $places)   .">" ?>">
-
-          <span class="zoom-1-2">
-            <span class="placeholder"></span>
-            <span class="image <?= $template ?>" style="background-image: url(<?= $imgUrl ?>);"></span>
-            <span class="title font-zoom"><?= $entry->title() ?></span><span class="byline font-xs">
-              <?= $byline ?></span></span><div 
+             data-places="<?=   count($places)   == 0 ? "" : "<". implode(">,<", $places)   .">" ?>"
+        ><span class="zoom-1-2"><span 
+               class="placeholder"></span><span 
+               class="image <?= $template ?>" style="background-image: url(<?= $imgUrl ?>);"></span><span 
+               class="title font-zoom"><?= $entry->title() ?></span><span 
+               class="byline font-xs">
+          <?= $byline ?></span></span><div 
 
           class="zoom-3">
             <div class="image <?= $template ?>" style="background-image: url(<?= $imgUrl ?>);">

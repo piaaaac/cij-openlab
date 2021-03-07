@@ -1,8 +1,8 @@
-Title: Navine Khan Dossos
+Title: Navine G. Khan Dossos
 
 ----
 
-entryType: people
+Entrytype: people
 
 ----
 
@@ -10,9 +10,7 @@ Byline: Artist
 
 ----
 
-Img:
-
-- navine-khan-dossos.jpg
+Img: - navine-khan-dossos.jpg
 
 ----
 
@@ -45,4 +43,3 @@ Importdata: {"id":76,"type":"people","title":"Navine Khan Dossos","byline":"Arti
 ----
 
 Relatedentities: 
-

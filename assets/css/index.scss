@@ -34,6 +34,8 @@ $z3b: 4px;
 $metaSidesW: 15vw;
 $space: 20px;
 
+$text-width-w: 880px;
+
 // ------------------------------------------------------------------------
 // External files import
 // ------------------------------------------------------------------------
@@ -62,7 +64,7 @@ body {
 
   &.detail-open, &.menu-xs-open {
     overflow: hidden;
-    main {
+    main, .footer {
       filter: blur(9px);
     }
     nav.header.sub {
@@ -200,6 +202,20 @@ a {
 .mobile       { @include media-breakpoint-up(md) { display: none !important; } }
 .desktop      { @include media-breakpoint-down(sm) { display: none !important; } }
 
+.mt-space     { margin-top: $space; }
+.mb-space     { margin-bottom: $space; }
+.my-space     { margin-top: $space; margin-bottom: $space; }
+.mt-space-2   { margin-top: $space*2; }
+.mb-space-2   { margin-bottom: $space*2; }
+.my-space-2   { margin-top: $space*2; margin-bottom: $space*2; }
+
+.h-50vh       { height: 50vh !important; }
+.h-60vh       { height: 60vh !important; }
+.h-70vh       { height: 70vh !important; }
+.h-80vh       { height: 80vh !important; }
+.h-90vh       { height: 90vh !important; }
+.h-100vh      { height: 100vh !important; }
+
 // ------------------------------------------------------------------------
 // Header
 // ------------------------------------------------------------------------
@@ -280,8 +296,9 @@ nav.header {
     // .home-link { cursor: pointer; }
   	a {
       @include font-menu;
-      // text-transform: uppercase;
+      text-transform: uppercase;
       text-decoration: none;
+      padding-top: 1px;
       & + a {
         margin-left: 20px;
       }
@@ -320,7 +337,7 @@ nav.header {
     justify-content: flex-start;
     padding-left: 55px;
     text-decoration: none;
-    // text-transform: uppercase;
+    text-transform: uppercase;
     @include font-menu;
     &.main { 
       // background-color: black; 
@@ -387,33 +404,54 @@ nav.header {
 // ------------------------------------------------------------------------
 
 .footer {
-  height: 40px;
+  height: 200px;
   display: flex;
-  align-items: center;
+  flex-flow: column nowrap;
   justify-content: space-between;
-  background-color: $bg2;
   background-color: black;
-  padding: 0 20px;
-  
-  @include media-breakpoint-down(sm) { 
-    display: block; 
-    height: auto;
-    .left, .right {
-      height: 40px;
-      display: flex;
-      align-items: center;
+  padding: 10px 20px;
+  @include transition(filter 400ms);
+
+  .top {
+    img.logo { 
+      padding-right: 10px;
+      width: 35px;
     }
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    a { text-decoration: none; }
   }
-  
-  a, span, p { 
-    color: $c-menu; 
-    @include font-l;
-    text-decoration: none;
+
+  .bottom {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 40px;
+    
+    @include media-breakpoint-down(sm) { 
+      flex-flow: column; 
+      align-items: flex-start;
+      height: auto;
+      .left, .right {
+        height: 40px;
+        display: flex;
+        align-items: center;
+      }
+      .left { order: 2; }
+    }
+    a, span, p { 
+      color: $c-menu; 
+      @include font-menu;
+      text-decoration: none;
+      // a { color: white; }
+    }
   }
   
   a:hover { color: white; }
   
-  a + a { margin-left: 20px; }
+  span + span { margin-left: 20px; }
 }
 
 // ------------------------------------------------------------------------
@@ -476,22 +514,18 @@ body {
     padding-left: 20px;
     padding-right: 20px;
     .entry { 
-      padding: 3px 4px; 
+      padding: 3px 8px 3px 0; 
       z-index: 1;
       &.active {
-        // background-color: $red;
         text-shadow: $red 0px 0px 0.3em;
       }
-      // &.redacted {
-      //   opacity: 0.1;
-      //   pointer-events: none;
-      // }
       &.lift {
         z-index: 3;
         position: relative;
       }
     }
     .entry .zoom-3 { display: none; }
+    .image { margin-right: 5px; }
   }
 
   @at-root body.zoom-level-3 & {
@@ -969,6 +1003,7 @@ input#search-query {
       justify-content: flex-start;
       flex-wrap: wrap;
       padding-top: 15px;
+      margin: -5px -10px 0;
       padding-bottom: 30px;
       padding-left: 20px;
       padding-right: 20px;
@@ -1000,37 +1035,76 @@ input#search-query {
   flex-flow: column nowrap;
   justify-content: space-between;
   margin-bottom: 20px;
+  @include transition(background-color 800ms);
+  position: relative;
 
   .title {
     @include font-xl;
-    margin-bottom: 80px;
+    margin-bottom: 100px;
   }
 
-  .bottom {
+  .top {
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: top;
   }
+
+  &.article {
+
+    .cover {
+      @include media-breakpoint-up(md) {
+        position: absolute;
+        bottom: 10px;
+        right: 10px;
+        margin: 0;
+      }
+      margin: -60px 0 50px 0;
+      position: relative;
+      height: 110px;
+      width: 170px;
+      background-position: center center;
+      background-size: cover;
+    }
+
+    .bottom {
+      @include media-breakpoint-up(md) {
+        width: calc(100% - 210px);
+      }
+    }
+  }
+
+  // &:hover {
+  //   cursor: pointer;
+  //   .title { color: $red; }
+  //   .stats { color: $red; }
+  //   .bottom .arrow { color: $red; }
+  //   .bottom .byline-with-pic div { color: $red; }
+  //   .entry-img { border: 2px solid $red !important; }
+  // }
 
   &:hover {
     cursor: pointer;
-    .title { color: $red; }
-    .stats { color: $red; }
-    .bottom .arrow { color: $red; }
-    .bottom .byline-with-pic div { color: $red; }
+    background-color: $red;
+    // .title { color: $red; }
+    // .stats { color: $red; }
+    // .bottom .arrow { color: $red; }
+    .bottom .byline-with-pic div a { color: black; }
     .entry-img { border: 2px solid $red !important; }
   }
 
   $img-size: 100px;
   &.collection {
     margin-bottom: 20px;
+    .title {
+      margin-bottom: 0;
+    }
     .entries-img {
       display: flex;
       align-items: center;
       justify-content: space-between;
       flex-wrap: nowrap;
       padding-right: $img-size;
-      margin-bottom: 30px;
+      margin: $space*2 0;
       .entry-img-wrapper {
         width: 0;
         overflow: visible;
@@ -1075,7 +1149,7 @@ input#search-query {
   @include media-breakpoint-up(lg) { padding: 0 9vw; }
 }
 .full-essay {
-  background-color: $bg1;
+  // background-color: $bg1;
 
   .opening {
     background-color: white;
@@ -1096,6 +1170,8 @@ $ktp-xs: 0px;
 
 .kt {
 
+  &:not(.two-cols) { padding: 0 20px; }
+
   a {
     text-decoration: none;
     color: $red;
@@ -1104,8 +1180,18 @@ $ktp-xs: 0px;
     }
   }
 
-  p, figure, img, blockquote, ul, ol {
-    margin: 2em 0;
+  p {
+    margin: $space 0;
+  }
+
+  figure, img, blockquote, ul, ol, hr, .embed {
+    margin: $space*2 0;
+  }
+
+  p, figure, img, blockquote, ul, ol, h2, h3, .embed {
+    &:first-child {
+      margin-top: 0;
+    }
   }
 
   p, li {
@@ -1113,7 +1199,12 @@ $ktp-xs: 0px;
   }
 
   li {
-    margin-left: 1em;
+    // margin-left: 1em;
+    list-style-type: decimal;
+    list-style-position: outside;
+    @include media-breakpoint-down(sm) {
+      list-style-position: inside;
+    }
   }
   
   figure, img { 
@@ -1135,10 +1226,16 @@ $ktp-xs: 0px;
   }
 
   h2 {
+    @include font-xl;
+    text-transform: uppercase;
+    margin: $space*3 0 $space*2;
+    // color: $red;
+  }
+
+  h3 {
     @include font-l;
     text-transform: uppercase;
-    // text-decoration: underline;
-    margin: 3em 0 2em;
+    margin: $space*3 0 $space*2;
   }
 
   code {
@@ -1146,13 +1243,21 @@ $ktp-xs: 0px;
   }
 
   &:not(.two-cols) {
-    p, h2, ul, ol {
+    p, h1, h2, ul, ol, .width-1 {
       padding: 0 $ktp;
       @include media-breakpoint-down(sm) { padding: 0 $ktp-xs; }
+    }
+    hr {
+      margin-left: $ktp; margin-right: $ktp;
+      @include media-breakpoint-down(sm) { margin-left: $ktp-xs; margin-right: $ktp-xs; }
     }
     pre {
       margin: 0 $ktp;
     }
+  }
+
+  hr {
+    border-top: 1px solid black;
   }
 
   figure.responsive-video-embed {
@@ -1165,7 +1270,7 @@ $ktp-xs: 0px;
   figcaption {
     @include font-m;
     width: 100%;
-    margin-bottom: 6em;
+    margin-bottom: $space*2;
     color: $bg2;
     color: rgba(black, 0.5);
     // text-transform: uppercase;
@@ -1199,6 +1304,12 @@ $ktp-xs: 0px;
         margin-bottom: 0;
       }
     }
+  }
+
+  .full-width {
+    position: absolute;
+    width: 100vw;
+    left: 0;
   }
 }
 
@@ -1357,24 +1468,32 @@ figure.bettervideo{
 }
 
 .byline-with-pic {
-  display: inline-flex;
+  display: flex;
   align-items: center;
   justify-content: flex-start;
   .image {
     margin-right: 10px;
-    width: 25px;
-    height: 25px;
+    width: 25px; min-width: 25px;
+    height: 25px; min-height: 25px;
     border-radius: 15px;
     background-color: rgba($bg2, 0.3);
     background-size: cover;
     background-position: center center;
   }
+  .image + .image {
+    margin-left: -15px;
+  }
 }
 
+.text-width { 
+  max-width: $text-width-w; 
+  margin-left: auto; 
+  margin-right: auto; 
+  overflow: hidden;
+}
 .container-fluid:not(.pad-ori) {
   padding-left: 20px;
   padding-right: 20px;
-  &.text-width          { max-width: 800px; }
   &.text-width-two-cols { 
     max-width: 1100px; 
     @include media-breakpoint-down(md) { max-width: 700px; }
@@ -1384,6 +1503,16 @@ figure.bettervideo{
 .h0neypot {
   position: absolute;
   left: -9999px;
+}
+
+figure.small {
+  display: inline-block;
+  width: auto;
+  margin-right: $space;
+  img {
+    max-height: 45px !important;
+    width: auto;
+  }
 }
 
 // ------------------------------------------------------------------------
