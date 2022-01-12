@@ -1531,7 +1531,6 @@ input#search-query {
     padding-top: 80px;
     width: 100vw;
     overflow-y: scroll;
-    pointer-events: none;
     max-height: 100vh; }
     @media (max-width: 575.98px) {
       #overlay .sensi-bg {
